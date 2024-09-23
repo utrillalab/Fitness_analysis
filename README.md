@@ -1,2 +1,2 @@
 # Fitness_analysis
-Code and data to analyze and generate figuresfor Hidalgo et al. 2024
+Code and data to analyze and generate figures for Hidalgo et al. 2024
