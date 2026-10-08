@@ -1,0 +1,252 @@
+bnumber,gene,product,LoF_classes,only_in_multigene_deletions,populations,n_populations,glucose_fitness,glucose_t,category,category_t4,in_universe,enhancing_candidate_108,enhancing_core,RegulonDB_regulator,transporter (EcoCyc product)
+b0744,tRNA-Val(UAC),tRNA-Val(UAC),deletion,True,Ara-5,1,,,NA,NA,False,False,False,False,False
+b0745,tRNA-Lys(UUU),tRNA-Lys(UUU),deletion,True,Ara-5,1,,,NA,NA,False,False,False,False,False
+b0747,tRNA-Lys(UUU),tRNA-Lys(UUU),deletion,True,"Ara-5,Ara-6",2,,,NA,NA,False,False,False,False,False
+b0748,tRNA-Lys(UUU),tRNA-Lys(UUU),deletion,True,Ara-6,1,,,NA,NA,False,False,False,False,False
+b0749,tRNA-Lys(UUU),tRNA-Lys(UUU),deletion,False,"Ara-3,Ara-6",2,,,NA,NA,False,False,False,False,False
+b1420,putative regulatory protein MokB,putative regulatory protein MokB,deletion,True,"Ara-3,Ara-5,Ara-6",3,,,NA,NA,False,False,False,False,False
+b1477,DNA-binding transcriptional regulator YddM,DNA-binding transcriptional regulator YddM,deletion,True,Ara-5,1,,,NA,NA,False,False,False,False,False
+b1529,inner membrane protein MarC,inner membrane protein MarC,deletion,True,Ara-6,1,,,NA,NA,False,False,False,False,False
+b1532,multiple antibiotic resistance protein MarB,multiple antibiotic resistance protein MarB,deletion,True,Ara-6,1,,,NA,NA,False,False,False,False,False
+b1552,Qin prophage; cold shock-like protein CspI,Qin prophage; cold shock-like protein CspI,deletion,True,"Ara-3,Ara-5",2,,,NA,NA,False,False,False,False,False
+b1555,Qin prophage; protein YdfR,Qin prophage; protein YdfR,deletion,True,"Ara-3,Ara-5",2,,,NA,NA,False,False,False,False,False
+b2815,tRNA-initiator Met(CAU),tRNA-initiator Met(CAU),deletion,False,"Ara-5,Ara-6",2,,,NA,NA,False,False,False,False,False
+b4423,small toxic polypeptide LdrC,small toxic polypeptide LdrC,deletion,False,Ara-3,1,,,NA,NA,False,False,False,False,False
+b4428,toxin HokB,toxin HokB,deletion,True,"Ara-3,Ara-6",2,,,NA,NA,False,False,False,False,False
+b1676,pykF,pyruvate kinase 1,IS_insertion; deletion; frameshift,False,"Ara-1,Ara-2,Ara-3,Ara-5",4,0.716,4.571092907368011,enhancing,enhancing,True,False,False,False,False
+b3753,rbsR,DNA-binding transcriptional dual regulator RbsR,deletion,True,"Ara-1,Ara-2,Ara-3,Ara-4,Ara-5,Ara-6",6,0.5295000000000001,4.576163382620909,enhancing,enhancing,True,True,True,True,False
+b2762,cysH,phosphoadenosine phosphosulfate reductase,deletion,True,Ara-3,1,-3.45,-11.422296857113363,essential,essential,True,False,False,False,False
+b1551,b1551,Qin prophage; protein YnfN,deletion,True,"Ara-3,Ara-5",2,-0.542,-1.4089221271001107,important,mean-effect,True,False,False,False,False
+b0564,appY,DLP12 prophage; DNA-binding transcriptional activator AppY,deletion,True,"Ara-3,Ara-6",2,-0.5740000000000001,-0.6958901150555752,important,mean-effect,True,False,False,True,False
+b1363,trkG,Rac prophage; K<sup>+</sup> transporter TrkG,frameshift,False,Ara-4,1,-0.705,-3.3803855624064125,important,mean-effect,True,False,False,False,True
+b3212,gltB,glutamate synthase subunit GltB,deletion; frameshift,False,"Ara-1,Ara-6",2,-0.8634999999999999,-8.302967515702962,important,important,True,False,False,False,False
+b3213,gltD,glutamate synthase subunit GltD,deletion,True,Ara-6,1,-0.9245,-6.030346607953657,important,important,True,False,False,False,False
+b3261,fis,DNA-binding transcriptional dual regulator Fis,frameshift,False,Ara-4,1,0.434,2.0399779624126446,mean-effect,mean-effect,True,True,True,True,False
+b1553,ydfP,Qin prophage; DUF2514 domain-containing protein RzpQ,deletion,True,"Ara-3,Ara-5",2,0.4335,1.5331056053778445,mean-effect,mean-effect,True,False,False,False,False
+b2156,lysP,lysine:H+ symporter,deletion,True,Ara-5,1,0.4245,3.4152315035808836,mean-effect,mean-effect,True,False,False,False,True
+b3658,selC,tRNA-Sec(UCA),deletion,True,Ara-5,1,0.3955,1.5266165800137528,mean-effect,mean-effect,True,True,False,False,False
+b1427,rimL,ribosomal-protein-L12-serine <i>N</i>-acetyltransferase,deletion,True,Ara-6,1,0.3505,1.4392300123609347,mean-effect,mean-effect,True,False,False,False,False
+b1482,osmC,osmotically inducible peroxiredoxin OsmC,deletion,True,Ara-5,1,0.3055,1.0909480062788313,mean-effect,mean-effect,True,False,False,False,False
+b1434,ydcN,DNA-binding transcriptional dual regulator SutR,deletion,True,Ara-6,1,0.302,1.018320266624224,mean-effect,mean-effect,True,False,False,False,False
+b1422,ydcI,DNA-binding transcriptional dual regulator YdcI,deletion,True,Ara-6,1,0.2945,2.200991635932921,mean-effect,mean-effect,True,True,True,True,False
+b0476,aes,acetylesterase,IS_insertion,False,"Ara-3,Ara-5",2,0.277,2.009735349138622,mean-effect,mean-effect,True,False,False,False,False
+b1019,ycdB,heme-containing peroxidase/deferrochelatase,deletion,True,Ara-3,1,0.264,1.7427277920325528,mean-effect,mean-effect,True,False,False,False,False
+b4174,hflK,regulator of FtsH protease,nonsense,False,Ara-4,1,0.2585,2.189714104244738,mean-effect,mean-effect,True,True,True,False,False
+b2002,yeeS,CP4-44 prophage; RadC-like JAB domain-containing protein YeeS,deletion,True,"Ara-1,Ara-3,Ara-6",3,0.2375,1.373425239039878,mean-effect,mean-effect,True,False,False,False,False
+b2047,wcaJ,UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase,deletion,True,"Ara-1,Ara-3,Ara-5",3,0.23199999999999998,1.241772248882683,mean-effect,mean-effect,True,False,False,False,False
+b2083,yegZ,phage protein D,deletion,True,"Ara-3,Ara-5,Ara-6",3,0.22749999999999998,0.538888789510982,mean-effect,mean-effect,True,False,False,False,False
+b2792,yqcC,DUF446 domain-containing protein YqcC,deletion,True,Ara-4,1,0.22449999999999998,0.9682872602783846,mean-effect,mean-effect,True,False,False,False,False
+b2044,wcaL,putative colanic acid biosynthesis glycosyl transferase WcaL,deletion,True,"Ara-1,Ara-3,Ara-5",3,0.2205,0.965894036981735,mean-effect,mean-effect,True,False,False,False,False
+b0478,ybaL,putative transporter YbaL,frameshift,False,"Ara-1,Ara-3",2,0.21550000000000002,1.794867537497161,mean-effect,mean-effect,True,False,False,False,True
+b2161,yeiJ,putative nucleoside transporter,deletion,True,Ara-5,1,0.2125,1.4917636508796763,mean-effect,mean-effect,True,False,False,False,True
+b1421,trg,methyl-accepting chemotaxis protein Trg,deletion,True,"Ara-5,Ara-6",2,0.2095,1.1154718225805378,mean-effect,mean-effect,True,False,False,False,False
+b0560,nohB,DLP12 prophage; putative DNA-packaging protein NohD,deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,0.20750000000000002,0.604795519325085,mean-effect,mean-effect,True,False,False,False,False
+b3484,yhhI,putative transposase,deletion,True,"Ara-3,Ara-6",2,0.20400000000000001,1.018057523261669,mean-effect,mean-effect,True,False,False,False,False
+b0553,nmpC,,deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,0.20350000000000001,1.5870175429876323,mean-effect,mean-effect,False,False,False,False,False
+b3748,rbsD,D-ribose pyranase,IS_insertion; deletion,False,"Ara-1,Ara-2,Ara-3,Ara-4,Ara-5,Ara-6",6,0.185,1.4954560840446305,mean-effect,mean-effect,True,False,False,False,False
+b2542,hcaD,putative 3-phenylpropionate/cinnamate dioxygenase ferredoxin reductase subunit,IS_insertion,False,Ara-6,1,0.1835,1.0512074611060451,mean-effect,mean-effect,True,False,False,False,False
+b1430,tehB,tellurite methyltransferase,deletion,True,Ara-6,1,0.1825,1.0441592154363808,mean-effect,mean-effect,True,False,False,False,False
+b1640,ydhH,anhydro-<i>N</i>-acetylmuramic acid kinase,IS_insertion,False,Ara-5,1,0.182,0.7813458416387552,mean-effect,mean-effect,True,False,False,False,False
+b4314,fimA,type 1 fimbriae major subunit,IS_insertion,False,"Ara-1,Ara-3,Ara-5",3,0.177,1.1284643437364026,mean-effect,mean-effect,True,False,False,False,False
+b0746,valZ,tRNA-Val(UAC),deletion,True,"Ara-5,Ara-6",2,0.175,0.48881149229512894,mean-effect,mean-effect,True,True,True,False,False
+b0578,nfnB,NAD(P)H-dependent nitroreductase NfsB,deletion,True,"Ara-3,Ara-6",2,0.17300000000000001,1.1103384422283362,mean-effect,mean-effect,True,False,False,False,False
+b0018,mokC,regulatory protein MokC,deletion,True,"Ara-5,Ara-6",2,0.172,0.3425257581258936,mean-effect,mean-effect,True,False,False,False,False
+b3752,rbsK,ribokinase,deletion,True,"Ara-1,Ara-2,Ara-3,Ara-4,Ara-5,Ara-6",6,0.16849999999999998,1.4306381761847315,mean-effect,mean-effect,True,True,True,False,False
+b2006,yeeW,CP4-44 prophage; putative uncharacterized protein YeeW,deletion,True,"Ara-1,Ara-3,Ara-6",3,0.154,0.6979410020393334,mean-effect,mean-effect,True,False,False,False,False
+b2328,mepA,peptidoglycan DD-endopeptidase/peptidoglycan LD-endopeptidase,IS_insertion,False,Ara-5,1,0.154,1.184784010532623,mean-effect,mean-effect,True,False,False,False,False
+b1745,astB,<i>N</i>-succinylarginine dihydrolase,IS_insertion,False,Ara-5,1,0.1525,0.881428717668212,mean-effect,mean-effect,True,False,False,False,False
+b0559,ybcW,DLP12 prophage; uncharacterized protein YbcW,deletion,True,"Ara-3,Ara-5",2,0.1495,1.1141594192690192,mean-effect,mean-effect,True,False,False,False,False
+b2795,ygdH,nucleotide 5'-monophosphate nucleosidase,deletion,True,Ara-4,1,0.148,1.2217428406449762,mean-effect,mean-effect,True,False,False,False,False
+b4347,yjiW,nucleoid-associated protein SymE,deletion,True,Ara-6,1,0.1465,1.1454034713362893,mean-effect,mean-effect,True,False,False,False,False
+b2155,cirA,iron-catecholate outer membrane transporter CirA,IS_insertion; deletion,False,Ara-5,1,0.14250000000000002,0.9328717373235914,mean-effect,mean-effect,True,False,False,False,True
+b1021,ycdP,poly-<i>N</i>-acetyl-D-glucosamine synthase subunit PgaD,deletion,True,Ara-3,1,0.14200000000000002,0.9352802541723335,mean-effect,mean-effect,True,False,False,False,False
+b0473,htpG,chaperone protein HtpG,IS_insertion,False,Ara-5,1,0.14150000000000001,1.275293905055156,mean-effect,mean-effect,True,False,False,False,False
+b1415,aldA,aldehyde dehydrogenase A,deletion,True,Ara-6,1,0.14150000000000001,0.6458958211232859,mean-effect,mean-effect,True,False,False,False,False
+b1556,b1556,Qin prophage; putative prophage lysis protein EssQ,deletion,True,"Ara-3,Ara-5",2,0.136,0.8184360418866826,mean-effect,mean-effect,True,False,False,False,False
+b2004,yeeU,CP4-44 prophage; cytoskeleton bundling-enhancing antitoxin CbeA,deletion,True,"Ara-1,Ara-3,Ara-6",3,0.136,0.5590004871784251,mean-effect,mean-effect,True,False,False,False,False
+b2042,galF,"UTP:glucose-1-phosphate uridylyltransferase, low activity",deletion,True,"Ara-1,Ara-3,Ara-5",3,0.136,1.0510172541253389,mean-effect,mean-effect,True,False,False,False,False
+b0674,asnB,asparagine synthetase B,IS_insertion,False,"Ara-3,Ara-5",2,0.1355,1.161304825150508,mean-effect,mean-effect,True,False,False,False,False
+b0570,cusS,CusS-<i>N</i>-phospho-L-histidine // sensor histidine kinase CusS,IS_insertion; deletion,False,"Ara-3,Ara-5,Ara-6",3,0.132,1.117965740668328,mean-effect,mean-effect,True,False,False,False,False
+b0555,ybcS,DLP12 prophage; lysozyme,deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,0.1255,0.9621790180710993,mean-effect,mean-effect,True,False,False,False,False
+b1014,putA,fused DNA-binding transcriptional repressor / proline dehydrogenase / 1-pyrroline-5-carboxylate dehydrogenase PutA,deletion,True,Ara-3,1,0.1245,1.1645720549228766,mean-effect,mean-effect,True,False,False,True,False
+b0551,ybcQ,DLP12 prophage; prophage antitermination protein Q homolog QuuD,IS_insertion; deletion,False,Ara-3,1,0.1235,1.0581075808239033,mean-effect,mean-effect,True,False,False,False,False
+b2796,sdaC,L-serine:H+ symporter SdaC,deletion,True,Ara-4,1,0.11649999999999999,1.1101935038999553,mean-effect,mean-effect,True,False,False,False,True
+b1018,ycdO,ferrous iron transport system protein EfeO,deletion,True,Ara-3,1,0.11,0.8341561961304118,mean-effect,mean-effect,True,False,False,False,True
+b1533,ydeD,cysteine/<i>O</i>-acetylserine exporter EamA,deletion,True,Ara-6,1,0.10600000000000001,0.27713376645927623,mean-effect,mean-effect,True,False,False,False,False
+b1355,b1355,Rac prophage; uncharacterized protein YdaG,IS_insertion,False,Ara-5,1,0.10400000000000001,0.6823776956484834,mean-effect,mean-effect,True,False,False,False,False
+b0019,nhaA,Na<sup>+</sup>:H<sup>+</sup> antiporter NhaA,deletion,True,"Ara-5,Ara-6",2,0.101,0.7802502007286283,mean-effect,mean-effect,True,False,False,False,True
+b0629,ybeF,putative DNA-binding transcriptional regulator YbeF,IS_insertion; frameshift,False,Ara-3,1,0.101,0.9062519566990899,mean-effect,mean-effect,True,False,False,False,False
+b0575,cusA,copper/silver export system RND permease,deletion,True,"Ara-3,Ara-6",2,0.097,0.8940726524525989,mean-effect,mean-effect,True,False,False,False,True
+b0252,yafZ,CP4-6 prophage; DUF932 domain-containing protein YafZ,deletion,True,"Ara-1,Ara-3,Ara-6",3,0.0945,0.5308332645944659,mean-effect,mean-effect,True,False,False,False,False
+b4349,hsdM,type I restriction enzyme EcoKI methylase subunit,deletion,True,Ara-6,1,0.08650000000000001,0.7725984491633221,mean-effect,mean-effect,True,False,False,False,False
+b4350,hsdR,type I restriction enzyme EcoKI endonuclease subunit,IS_insertion; deletion,False,Ara-6,1,0.08449999999999999,0.808965019269338,mean-effect,mean-effect,True,False,False,False,False
+b3590,selB,selenocysteyl-tRNA-specific translation elongation factor,deletion,True,Ara-5,1,0.0825,0.7959792985313435,mean-effect,mean-effect,True,False,False,False,False
+b1494,pqqL,periplasmic metalloprotease,deletion,True,Ara-5,1,0.082,0.722706341977306,mean-effect,mean-effect,True,False,False,False,False
+b4352,yjiA,P-loop guanosine triphosphatase YjiA,deletion,True,Ara-6,1,0.082,0.7995017927239582,mean-effect,mean-effect,True,False,False,False,False
+b3154,yhbP,putative FMN binding protein YhbP,IS_insertion,False,Ara-6,1,0.08,0.510340980296121,mean-effect,mean-effect,True,False,False,False,False
+b4294,insA-7,KpLE2 phage-like element; IS1 repressor protein InsA,deletion,True,"Ara-3,Ara-6",2,0.08,0.3692013753089523,mean-effect,mean-effect,True,False,False,False,False
+b2802,fucI,L-fucose isomerase,IS_insertion,False,Ara-3,1,0.079,0.6399779921027638,mean-effect,mean-effect,True,False,False,False,False
+b2000,flu,CP4-44 prophage; self recognizing antigen 43 (Ag43) autotransporter,IS_insertion; deletion,False,"Ara-1,Ara-3,Ara-5,Ara-6",4,0.0775,0.7268551984936978,mean-effect,mean-effect,True,False,False,False,True
+b2344,fadL,long-chain fatty acid outer membrane channel / bacteriophage T2 receptor,IS_insertion; frameshift,False,"Ara-3,Ara-5,Ara-6",3,0.0735,0.5643379820833876,mean-effect,mean-effect,True,False,False,False,False
+b3591,selA,selenocysteine synthase,deletion,True,Ara-5,1,0.0715,0.6413619464236067,mean-effect,mean-effect,True,False,False,False,False
+b4354,yjiY,pyruvate:H<sup>+</sup> symporter,deletion,True,Ara-6,1,0.069,0.7227292098155582,mean-effect,mean-effect,True,False,False,False,True
+b1024,ycdS,"partially deacetylated poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine export outer membrane porin",deletion,True,Ara-3,1,0.0655,0.7045019542426366,mean-effect,mean-effect,True,False,False,False,True
+b0572,cusC,copper/silver export system outer membrane channel,deletion,True,"Ara-3,Ara-6",2,0.063,0.6212783258208167,mean-effect,mean-effect,True,False,False,False,False
+b1015,putP,proline:Na<sup>+</sup> symporter,deletion,True,Ara-3,1,0.0625,0.5360644924878557,mean-effect,mean-effect,True,False,False,False,True
+b3474,yhhT,putative transporter YhhT,IS_insertion,False,"Ara-3,Ara-5",2,0.0605,0.505882973041819,mean-effect,mean-effect,True,False,False,False,True
+b0577,ybdG,miniconductance mechanosensitive channel YbdG,deletion,True,"Ara-3,Ara-6",2,0.0595,0.6303254399970949,mean-effect,mean-effect,True,False,False,False,False
+b1435,ydcP,23S rRNA 5-hydroxycytidine C2501 synthase,deletion,True,Ara-6,1,0.0595,0.4312869268212767,mean-effect,mean-effect,True,False,False,False,False
+b4486,yjiV,putative uncharacterized protein YjiV,deletion,True,Ara-6,1,0.058499999999999996,0.5835517326518747,mean-effect,mean-effect,True,False,False,False,False
+b3845,fadA,3-ketoacyl-CoA thiolase,IS_insertion,False,Ara-3,1,0.0565,0.4715552268717705,mean-effect,mean-effect,True,False,False,False,False
+b2162,rihB,pyrimidine-specific ribonucleoside hydrolase RihB,IS_insertion; deletion,False,"Ara-3,Ara-5",2,0.0535,0.3959493100259504,mean-effect,mean-effect,True,False,False,False,False
+b1854,pykA,pyruvate kinase 2,IS_insertion,False,Ara-5,1,0.0505,0.3567704803415553,mean-effect,mean-effect,True,False,False,False,False
+b2799,fucO,"L-1,2-propanediol oxidoreductase",deletion,True,Ara-4,1,0.0505,0.37212600117634137,mean-effect,mean-effect,True,False,False,False,False
+b3584,yiaT,outer membrane protein YiaT,IS_insertion; deletion,False,Ara-5,1,0.05,0.4308169548796979,mean-effect,mean-effect,True,False,False,False,False
+b0513,ybbY,putative purine transporter,nonsense,False,Ara-5,1,0.0485,0.44926102967587755,mean-effect,mean-effect,True,False,False,False,True
+b1479,sfcA,malate dehydrogenase (oxaloacetate-decarboxylating),deletion,True,Ara-5,1,0.0435,0.2871518087882354,mean-effect,mean-effect,True,False,False,False,False
+b1774,ydjJ,putative zinc-binding dehydrogenase YdjJ,IS_insertion,False,Ara-6,1,0.042499999999999996,0.3621342473149364,mean-effect,mean-effect,True,False,False,False,False
+b0581,ybdK,putative glutamate&mdash;cysteine ligase 2,deletion,True,"Ara-3,Ara-6",2,0.04,0.31486113742782007,mean-effect,mean-effect,True,False,False,False,False
+b0569,nfrB,"cyclic di-3',5'-guanylate-activated glycosyltransferase",deletion,True,"Ara-3,Ara-6",2,0.0395,0.32451966586075964,mean-effect,mean-effect,True,False,False,False,False
+b2261,menC,o-succinylbenzoate synthase,IS_insertion,False,"Ara-2,Ara-3,Ara-5,Ara-6",4,0.0385,0.19007223235744564,mean-effect,mean-effect,True,False,False,False,False
+b2157,yeiE,DNA-binding transcriptional dual regulator YeiE,deletion,True,Ara-5,1,0.036000000000000004,0.24426261753834252,mean-effect,mean-effect,True,False,False,True,False
+b1428,ydcK,putative acyltransferase YdcK,deletion,True,Ara-6,1,0.0335,0.11815657419024164,mean-effect,mean-effect,True,False,False,False,False
+b4346,mcrB,McrB<sub>S</sub> // Type IV methyl-directed restriction enzyme EcoKMcrB subunit,deletion,True,Ara-6,1,0.0335,0.3343610146869823,mean-effect,mean-effect,True,False,False,False,False
+b1550,b1550,Qin prophage; protein GnsB,deletion,True,"Ara-3,Ara-5",2,0.0325,0.019498330582219354,mean-effect,mean-effect,True,False,False,False,False
+b0571,cusR,DNA-binding transcriptional activator CusR-phosphorylated // DNA-binding transcriptional activator CusR,deletion,True,"Ara-3,Ara-6",2,0.032,0.2184748481862794,mean-effect,mean-effect,True,False,False,True,False
+b2797,sdaB,L-serine deaminase II,deletion,True,Ara-4,1,0.032,0.2857288347484447,mean-effect,mean-effect,True,False,False,False,False
+b4581,ybeM,"deamidated glutathione amidase, N-terminal fragment",IS_insertion,False,Ara-5,1,0.028999999999999998,0.1981399232918003,mean-effect,mean-effect,True,False,False,False,False
+b2003,yeeT,CP4-44 prophage; DUF987 domain-containing protein YeeT,deletion,True,"Ara-1,Ara-3,Ara-6",3,0.027999999999999983,0.1467655735105774,mean-effect,mean-effect,True,False,False,False,False
+b2593,yfiH,purine nucleoside phosphorylase YfiH,IS_insertion,False,Ara-6,1,0.027499999999999997,0.235597434454084,mean-effect,mean-effect,True,False,False,False,False
+b1495,yddB,putative TonB-dependent receptor YddB,deletion,True,Ara-5,1,0.026500000000000003,0.2636140429196567,mean-effect,mean-effect,True,False,False,False,False
+b3173,yhbX,putative hydrolase YhbX,IS_insertion,False,Ara-5,1,0.026000000000000002,0.28742770989462896,mean-effect,mean-effect,True,False,False,False,False
+b4359,mdoB,phosphoglycerol transferase II // phosphoglycerol transferase I,IS_insertion,False,Ara-5,1,0.025,0.25241489534730943,mean-effect,mean-effect,True,False,False,False,False
+b3506,slp,starvation lipoprotein,IS_insertion,False,Ara-5,1,0.0245,0.2635950664026704,mean-effect,mean-effect,True,False,False,False,False
+b1981,shiA,shikimate:H+ symporter,IS_insertion,False,Ara-6,1,0.023,0.1993715765196903,mean-effect,mean-effect,True,False,False,False,True
+b3586,yiaV,putative membrane fusion protein YiaV,deletion,True,Ara-5,1,0.0225,0.21940198673146272,mean-effect,mean-effect,True,False,False,False,False
+b3418,malT,DNA-binding transcriptional activator MalT,frameshift; nonsense,False,"Ara-4,Ara-5,Ara-6",3,0.0215,0.21087255190508708,mean-effect,mean-effect,True,False,False,True,False
+b1800,yeaU,D-malate/3-isopropylmalate dehydrogenase (decarboxylating),IS_insertion,False,Ara-5,1,0.020999999999999998,0.15754934812669946,mean-effect,mean-effect,True,False,False,False,False
+b3952,pflC,putative pyruvate formate-lyase 2 activating enzyme PflC,frameshift,False,Ara-1,1,0.020499999999999997,0.11736283504896111,mean-effect,mean-effect,True,False,False,False,False
+b1493,gadB,glutamate decarboxylase B,deletion,True,Ara-5,1,0.019500000000000003,0.10717435962212447,mean-effect,mean-effect,True,False,False,False,False
+b2039,rfbA,glucose-1-phosphate thymidylyltransferase 1,deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,0.019500000000000003,0.20071458949390913,mean-effect,mean-effect,True,False,False,False,False
+b2791,yqcB,tRNA pseudouridine<sup>65</sup> synthase,deletion,True,Ara-4,1,0.0165,0.05040564052479744,mean-effect,mean-effect,True,False,False,False,False
+b1978,yeeJ,inverse autotransporter adhesin,IS_insertion,False,Ara-6,1,0.0145,0.1511185478006093,mean-effect,mean-effect,True,False,False,False,True
+b1022,ycdQ,poly-<i>N</i>-acetyl-D-glucosamine synthase subunit PgaC,deletion,True,Ara-3,1,0.014000000000000002,0.1288533826138457,mean-effect,mean-effect,True,False,False,False,False
+b2046,wzxC,colanic acid repeat unit flippase,deletion,True,"Ara-1,Ara-3,Ara-5",3,0.013999999999999999,0.08985568098000428,mean-effect,mean-effect,True,False,False,False,False
+b2043,wcaM,putative colanic acid biosynthesis protein WcaM,deletion,True,"Ara-1,Ara-3,Ara-5",3,0.013,0.13694356423668866,mean-effect,mean-effect,True,False,False,False,False
+b4353,yjiX,PF04328 family protein YjiX,deletion,True,Ara-6,1,0.01249999999999999,0.054794184792404825,mean-effect,mean-effect,True,False,False,False,False
+b1478,adhP,ethanol dehydrogenase / alcohol dehydrogenase,deletion,True,Ara-5,1,0.011000000000000003,-0.02869925276918196,mean-effect,mean-effect,True,False,False,False,False
+b3588,aldB,aldehyde dehydrogenase B,deletion,True,Ara-5,1,0.009000000000000001,0.09456076963640336,mean-effect,mean-effect,True,False,False,False,False
+b2603,yfiR,DUF4154 domain-containing protein YfiR,frameshift,False,Ara-3,1,0.0075000000000000015,0.039471912906132396,mean-effect,mean-effect,True,False,False,False,False
+b2080,b2080,DUF1508 domain-containing protein YegP,IS_insertion,False,Ara-3,1,0.006499999999999999,0.008337977065101594,mean-effect,mean-effect,True,False,False,False,False
+b2159,nfo,endonuclease IV,deletion,True,Ara-5,1,0.006499999999999999,0.013401507563854704,mean-effect,mean-effect,True,False,False,False,False
+b4345,mcrC,Type IV methyl-directed restriction enzyme EcoKMcrBC subunit,deletion,True,Ara-6,1,0.006000000000000005,0.11211524127288615,mean-effect,mean-effect,True,False,False,False,False
+b2041,rfbB,"dTDP-glucose 4,6-dehydratase 1",deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,0.004000000000000001,0.047936088747956476,mean-effect,mean-effect,True,False,False,False,False
+b2675,nrdE,ribonucleoside-diphosphate reductase 2 subunit &alpha;,frameshift,False,Ara-1,1,0.002999999999999999,0.04581183053654021,mean-effect,mean-effect,True,False,False,False,False
+b1249,cls,cardiolipin synthase A,IS_insertion,False,Ara-5,1,0.0025000000000000022,0.12671759579237407,mean-effect,mean-effect,True,False,False,False,False
+b4065,yjcE,putative transporter YjcE,IS_insertion,False,Ara-5,1,0.001999999999999995,-0.00140833348090743,mean-effect,mean-effect,True,False,False,False,True
+b2520,yfhM,&alpha;<sub>2</sub>-macroglobulin,IS_insertion,False,Ara-6,1,0.0009999999999999992,0.0014245730413383784,mean-effect,mean-effect,True,False,False,False,False
+b0315,yahA,DNA-binding transcriptional regulator/c-di-GMP phosphodiesterase PdeL,IS_insertion,False,Ara-5,1,0.0,-0.0021155883725026813,mean-effect,mean-effect,True,False,False,False,False
+b1496,yddA,ABC transporter family protein YddA,IS_insertion; deletion,False,Ara-5,1,0.0,-0.005930862774852235,mean-effect,mean-effect,True,False,False,False,True
+b1798,yeaS,leucine exporter,IS_insertion,False,Ara-6,1,0.0,0.07540473635536082,mean-effect,mean-effect,True,False,False,False,False
+b1020,phoH,ATP-binding protein PhoH,IS_insertion; deletion; frameshift,False,"Ara-3,Ara-5,Ara-6",3,-0.001,-0.010156910189528502,mean-effect,mean-effect,True,False,False,False,False
+b3755,yieP,DNA-binding transcriptional dual regulator YieP,deletion,True,Ara-6,1,-0.005000000000000001,-0.04338912109406553,mean-effect,mean-effect,True,False,False,True,False
+b3078,ygjI,putative transporter YgjI,IS_insertion,False,Ara-6,1,-0.0055,-0.06194929105610264,mean-effect,mean-effect,True,False,False,False,True
+b4230,ytfT,galactofuranose ABC transporter putative membrane subunit YtfT,IS_insertion,False,Ara-3,1,-0.006500000000000001,-0.027689909911285202,mean-effect,mean-effect,True,False,False,False,True
+b1491,yddW,divisome localized glycosyl hydrolase,deletion,True,Ara-5,1,-0.007500000000000003,-0.04183208268728208,mean-effect,mean-effect,True,False,False,False,False
+b1488,ddpX,D-alanyl-D-alanine dipeptidase,deletion,True,Ara-5,1,-0.008999999999999994,-0.15969887861565077,mean-effect,mean-effect,True,False,False,False,False
+b3585,yiaU,DNA-binding transcriptional activator YiaU,deletion,True,Ara-5,1,-0.0095,-0.09313870526943874,mean-effect,mean-effect,True,False,False,True,False
+b2969,yghE,putative type II secretion system L-type protein YghE,deletion,True,Ara-5,1,-0.009500000000000008,0.05374277568435435,mean-effect,mean-effect,True,False,False,False,False
+b0128,yadH,putative ABC transporter membrane subunit YadH,IS_insertion,False,Ara-6,1,-0.01,-0.06807718277957642,mean-effect,mean-effect,True,False,False,False,True
+b2753,iap,alkaline phosphatase isozyme conversion protein,IS_insertion; deletion,False,"Ara-3,Ara-6",2,-0.011,-0.11165326604448733,mean-effect,mean-effect,True,False,False,False,False
+b4193,sgaT,L-ascorbate specific PTS enzyme IIC component,IS_insertion,False,Ara-5,1,-0.011,-0.08772373593374941,mean-effect,mean-effect,True,False,False,False,True
+b3750,rbsC,ribose ABC transporter membrane subunit,deletion,True,"Ara-1,Ara-2,Ara-3,Ara-4,Ara-5,Ara-6",6,-0.011000000000000003,-0.09180551666688289,mean-effect,mean-effect,True,False,False,False,True
+b2120,yehM,uncharacterized protein YehM,IS_insertion,False,Ara-5,1,-0.012500000000000004,-0.07119277662465594,mean-effect,mean-effect,True,False,False,False,False
+b3221,yhcH,<i>N</i>-acetylneuraminate anomerase,deletion,True,Ara-6,1,-0.014499999999999999,-0.07195247715502433,mean-effect,mean-effect,True,False,False,False,False
+b4351,mrr,Type IV methyl-directed restriction enzyme EcoKMrr,deletion,True,Ara-6,1,-0.014499999999999999,-0.12383631580291243,mean-effect,mean-effect,True,False,False,False,False
+b2005,yeeV,CP4-44 prophage; cytoskeleton-binding toxin CbtA,deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,-0.0165,-0.09564000991843744,mean-effect,mean-effect,True,False,False,False,False
+b3482,rhsB,rhs element protein RhsB,IS_insertion,False,"Ara-3,Ara-5",2,-0.0165,-0.12472078164622478,mean-effect,mean-effect,True,False,False,False,False
+b2540,hcaC,putative 3-phenylpropionate/cinnamate dioxygenase ferredoxin subunit,IS_insertion,False,Ara-5,1,-0.0175,-0.07537391866900732,mean-effect,mean-effect,True,False,False,False,False
+b0652,gltL,glutamate/aspartate ABC transporter ATP binding subunit,deletion,True,"Ara-3,Ara-6",2,-0.019500000000000003,-0.09243780899351312,mean-effect,mean-effect,True,False,False,False,True
+b1530,marR,DNA-binding transcriptional repressor MarR,deletion,True,Ara-6,1,-0.024500000000000008,-0.2316783204955329,mean-effect,mean-effect,True,False,False,True,False
+b1804,rnd,RNase D,IS_insertion,False,Ara-3,1,-0.025,-0.11700869806246643,mean-effect,mean-effect,True,False,False,False,False
+b2800,fucA,L-fuculose-phosphate aldolase,deletion,True,Ara-4,1,-0.025,-0.20333276994120106,mean-effect,mean-effect,True,False,False,False,False
+b3447,ggt,"glutathione hydrolase, small subunit // glutathione hydrolase, large subunit // glutathione hydrolase proenzyme",IS_insertion,False,Ara-3,1,-0.026,-0.23910323538415326,mean-effect,mean-effect,True,False,False,False,False
+b2988,gss,fused glutathionylspermidine amidase / glutathionylspermidine synthetase,IS_insertion,False,Ara-6,1,-0.0285,-0.22569763269559726,mean-effect,mean-effect,True,False,False,False,False
+b2048,cpsG,phosphomannomutase,deletion,True,"Ara-1,Ara-3,Ara-5",3,-0.029,-0.15789959233472226,mean-effect,mean-effect,True,False,False,False,False
+b0565,ompT,DLP12 prophage; omptin family outer membrane protease OmpT,deletion,True,"Ara-3,Ara-6",2,-0.0325,-0.3159324380777995,mean-effect,mean-effect,True,False,False,False,False
+b0925,ycbB,"L,D-transpeptidase LdtD",nonsense,False,Ara-5,1,-0.033,-0.2990859417168257,mean-effect,mean-effect,True,False,False,False,False
+b3592,yibF,glutathione transferase-like protein YibF,deletion,True,Ara-5,1,-0.034499999999999996,-0.2823289150209175,mean-effect,mean-effect,True,False,False,False,False
+b0566,envY,DNA-binding transcriptional activator EnvY,deletion,True,"Ara-3,Ara-6",2,-0.035,-0.2640936178216279,mean-effect,mean-effect,True,False,False,True,False
+b2158,yeiH,PF03601 family inner membrane protein YeiH,deletion,True,Ara-5,1,-0.038,-0.32612420004378745,mean-effect,mean-effect,True,False,False,False,False
+b4576,insB-7,,deletion,True,"Ara-3,Ara-6",2,-0.039999999999999994,-0.2999452902129594,mean-effect,mean-effect,True,False,False,False,False
+b1061,dinI,DNA damage-inducible protein I,IS_insertion,False,"Ara-3,Ara-5,Ara-6",3,-0.0415,-0.24299881783655392,mean-effect,mean-effect,True,False,False,False,False
+b2045,wcaK,colanic acid biosynthesis pyruvyl transferase WcaK,deletion,True,"Ara-1,Ara-3,Ara-5",3,-0.0465,-0.33440313519987164,mean-effect,mean-effect,True,False,False,False,False
+b4019,metH,cobalamin-dependent methionine synthase,frameshift,False,Ara-6,1,-0.0465,-0.4501163048982538,mean-effect,mean-effect,True,False,False,False,False
+b0874,ybjE,L-lysine/thialysine exporter,IS_insertion,False,Ara-5,1,-0.047,-0.4071249843244422,mean-effect,mean-effect,True,False,False,False,False
+b1697,ydiQ,putative electron transfer flavoprotein subunit YdiQ,IS_insertion,False,"Ara-5,Ara-6",2,-0.0475,-0.20304761705157753,mean-effect,mean-effect,True,False,False,False,False
+b3751,rbsB,ribose ABC transporter periplasmic binding protein,deletion,True,"Ara-1,Ara-2,Ara-3,Ara-4,Ara-5,Ara-6",6,-0.0485,-0.367139691008711,mean-effect,mean-effect,True,False,False,False,True
+b1023,ycdR,"poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine <i>N</i>-deacetylase and &beta;-1,6 glycoside hydrolase",deletion,True,Ara-3,1,-0.0545,-0.5231126281600608,mean-effect,mean-effect,True,False,False,False,False
+b1025,ycdT,probable diguanylate cyclase DgcT,deletion,True,Ara-3,1,-0.056,-0.2991096531054133,mean-effect,mean-effect,True,False,False,False,False
+b1475,fdnH,formate dehydrogenase N subunit &beta;,IS_insertion; deletion,False,Ara-5,1,-0.057999999999999996,-0.39446834693805255,mean-effect,mean-effect,True,False,False,False,False
+b1419,ydcA,protein YdcA,deletion,True,"Ara-3,Ara-6",2,-0.0585,-0.2866702927302916,mean-effect,mean-effect,True,False,False,False,False
+b3222,yhcI,<i>N</i>-acetylmannosamine kinase,deletion,True,Ara-6,1,-0.0605,-0.4145992392698662,mean-effect,mean-effect,True,False,False,False,False
+b2437,yfeG,putative DNA-binding transcriptional regulator EutR,IS_insertion,False,Ara-5,1,-0.061500000000000006,-0.3288117582930074,mean-effect,mean-effect,True,False,False,False,False
+b2001,b2001,CP4-44 prophage; inner membrane protein YeeR,deletion,True,"Ara-1,Ara-3,Ara-6",3,-0.062,-0.467807186897827,mean-effect,mean-effect,True,False,False,False,False
+b0574,cusB,copper/silver export system membrane fusion protein,deletion,True,"Ara-3,Ara-6",2,-0.062000000000000006,-0.4698937458174612,mean-effect,mean-effect,True,False,False,False,False
+b1481,b1481,biofilm-dependent modulation protein,deletion,True,Ara-5,1,-0.0645,-0.35629732053465596,mean-effect,mean-effect,True,False,False,False,False
+b4390,nadR,DNA-binding transcriptional repressor/NMN adenylyltransferase NadR,IS_insertion,False,Ara-3,1,-0.067,-0.564612142283541,mean-effect,mean-effect,True,False,False,True,False
+b4221,ytfN,translocation and assembly module subunit TamB,frameshift,False,Ara-3,1,-0.068,-0.6823687278465568,mean-effect,mean-effect,True,False,False,False,False
+b2794,yqcD,7-cyano-7-deazaguanine reductase,deletion,True,Ara-4,1,-0.06949999999999999,-0.45750681626797496,mean-effect,mean-effect,True,False,False,False,False
+b2040,rfbD,dTDP-4-dehydrorhamnose reductase,deletion,True,"Ara-1,Ara-3,Ara-5,Ara-6",4,-0.07200000000000001,-0.6950874524675831,mean-effect,mean-effect,True,False,False,False,False
+b4348,hsdS,type I restriction enzyme EcoKI specificity subunit,deletion; frameshift,False,"Ara-5,Ara-6",2,-0.0745,-0.7329810898940229,mean-effect,mean-effect,True,False,False,False,False
+b2842,kduD,putative 2-keto-3-deoxy-D-gluconate dehydrogenase,IS_insertion,False,"Ara-5,Ara-6",2,-0.07450000000000001,-0.6291423094961972,mean-effect,mean-effect,True,False,False,False,False
+b2790,yqcA,putative flavodoxin YqcA,deletion,True,Ara-4,1,-0.0755,-0.39773292230137036,mean-effect,mean-effect,True,False,False,False,False
+b4208,cycA,D-serine/alanine/glycine:H<sup>+</sup>symporter,IS_insertion,False,Ara-3,1,-0.0775,-0.678064062733129,mean-effect,mean-effect,True,False,False,False,True
+b1985,yeeO,FMN/FAD exporter,IS_insertion,False,Ara-5,1,-0.08099999999999999,-0.6607588314508783,mean-effect,mean-effect,True,False,False,False,False
+b0567,ybcH,putative exopolysaccharide secretion system auxiliary component,deletion,True,"Ara-3,Ara-6",2,-0.08549999999999999,-0.6439419578132104,mean-effect,mean-effect,True,False,False,False,False
+b3749,rbsA,ribose ABC transporter ATP binding subunit,deletion,True,"Ara-1,Ara-2,Ara-3,Ara-4,Ara-5,Ara-6",6,-0.08700000000000001,-0.7838908178385129,mean-effect,mean-effect,True,False,False,False,True
+b0876,ybjD,DUF2813 domain-containing protein YbjD,IS_insertion,False,Ara-3,1,-0.09,-0.6997376390258921,mean-effect,mean-effect,True,False,False,False,False
+b3220,yhcG,DUF1016 domain-containing protein YhcG,deletion,True,Ara-6,1,-0.091,-0.7409915023590904,mean-effect,mean-effect,True,False,False,False,False
+b3593,rhsA,rhs element protein RhsA,deletion,True,Ara-5,1,-0.0935,-0.5976645146274283,mean-effect,mean-effect,True,False,False,False,False
+b0568,nfrA,exopolysaccharide secretion system outer membrane protein NfrA,deletion,True,"Ara-3,Ara-6",2,-0.0945,-0.8190351901546798,mean-effect,mean-effect,True,False,False,False,False
+b2160,yeiI,putative sugar kinase YeiI,deletion,True,Ara-5,1,-0.0955,-0.7100960400782247,mean-effect,mean-effect,True,False,False,False,False
+b1413,hrpA,ATP-dependent 3'&rarr;5' RNA helicase HrpA,deletion,True,Ara-6,1,-0.10300000000000001,-0.7925075162419445,mean-effect,mean-effect,True,False,False,False,False
+b3589,yiaY,L-threonine dehydrogenase,deletion,True,Ara-5,1,-0.1045,-1.01456557909692,mean-effect,mean-effect,True,False,False,False,False
+b1468,narZ,nitrate reductase Z subunit &alpha;,IS_insertion,False,Ara-6,1,-0.1085,-0.9423926636305613,mean-effect,mean-effect,True,False,False,False,False
+b0127,yadG,putative ABC transporter ATP-binding protein YadG,IS_insertion,False,Ara-6,1,-0.11250000000000002,-0.6515683581018091,mean-effect,mean-effect,True,False,False,False,True
+b1762,b1762,DUF1266 domain-containing protein YnjI,IS_insertion; deletion,False,"Ara-1,Ara-5",2,-0.118,-0.9171856510779063,mean-effect,mean-effect,True,False,False,False,False
+b2875,yqeB,XdhC-CoxI family protein YqeB,IS_insertion,False,Ara-5,1,-0.1185,-0.8566577193489834,mean-effect,mean-effect,True,False,False,False,False
+b2481,hyfA,hydrogenase 4 component A,IS_insertion,False,"Ara-5,Ara-6",2,-0.1215,-0.49347885311235906,mean-effect,mean-effect,True,False,False,False,False
+b2793,syd,SecY-interacting protein,deletion,True,Ara-4,1,-0.1235,-0.9944892494393246,mean-effect,mean-effect,True,False,False,False,False
+b1423,ydcJ,DUF1338 domain-containing protein YdcJ,deletion,True,Ara-6,1,-0.1245,-0.5497930698323413,mean-effect,mean-effect,True,False,False,False,False
+b0779,uvrB,UvrABC excision nuclease subunit B,frameshift,False,Ara-1,1,-0.128,-1.0843001365901452,mean-effect,mean-effect,True,False,False,False,False
+b1744,astE,succinylglutamate desuccinylase,IS_insertion,False,Ara-5,1,-0.1335,-0.8787376376470625,mean-effect,mean-effect,True,False,False,False,False
+b1090,plsX,putative phosphate acyltransferase,IS_insertion,False,Ara-3,1,-0.1345,-0.7561273749433034,mean-effect,mean-effect,True,False,False,False,False
+b0576,pheP,phenylalanine:H+ symporter PheP,deletion,True,"Ara-3,Ara-6",2,-0.137,-1.0430754925004067,mean-effect,mean-effect,True,False,False,False,True
+b0300,ykgA,putative DNA-binding transcriptional regulator YkgA,IS_insertion,False,Ara-5,1,-0.14100000000000001,-1.083967237832669,mean-effect,mean-effect,True,False,False,False,False
+b2716,ascB,6-phospho-&beta;-glucosidase AscB,IS_insertion,False,Ara-5,1,-0.14300000000000002,-1.1462993038776295,mean-effect,mean-effect,True,False,False,False,False
+b1414,ydcF,DUF218 domain-containing protein YdcF,deletion,True,Ara-6,1,-0.145,-0.879215247513119,mean-effect,mean-effect,True,False,False,False,False
+b0807,ybiN,23S rRNA m<sup>6</sup>A1618 methyltransferase,IS_insertion; frameshift,False,Ara-5,1,-0.14850000000000002,-0.8370925415018488,mean-effect,mean-effect,True,False,False,False,False
+b1999,yeeP,CP4-44 prophage; putative GTP-binding protein,deletion,True,"Ara-1,Ara-3",2,-0.15050000000000002,-0.5379651882172991,mean-effect,mean-effect,True,False,False,False,False
+b3438,gntR,DNA-binding transcriptional repressor GntR,IS_insertion,False,Ara-6,1,-0.152,-1.0609298790868997,mean-effect,mean-effect,True,False,False,True,False
+b2968,yghD,putative type II secretion system M-type protein YghD,deletion,True,Ara-5,1,-0.154,-0.796884858088775,mean-effect,mean-effect,True,False,False,False,False
+b2682,ygaZ,"L-valine exporter, YgaZ component",frameshift,False,Ara-6,1,-0.1575,-0.8657586968143357,mean-effect,mean-effect,True,False,False,False,False
+b1418,cybB,superoxide oxidase,deletion,True,Ara-6,1,-0.1615,-0.4900538003585766,mean-effect,mean-effect,True,False,False,False,False
+b3587,yiaW,DUF3302 domain-containing protein YiaW,deletion,True,Ara-5,1,-0.1785,-1.4782321546246926,mean-effect,mean-effect,True,False,False,False,False
+b2082,ogrK,prophage P2 late control protein OgrK,deletion,True,"Ara-3,Ara-5,Ara-6",3,-0.181,-0.6083851206053988,mean-effect,mean-effect,True,False,False,False,False
+b1814,sdaA,L-serine deaminase I,IS_insertion,False,Ara-3,1,-0.1875,-1.0289112243298257,mean-effect,mean-effect,True,False,False,False,False
+b4058,uvrA,UvrABC excision nuclease subunit A,IS_insertion,False,Ara-5,1,-0.1925,-1.9321061725532676,mean-effect,mean-effect,True,False,False,False,False
+b1429,tehA,tellurite resistance protein,deletion,True,Ara-6,1,-0.1985,-0.44112861722851987,mean-effect,mean-effect,True,False,False,False,False
+b1433,b1433,putative transport protein YdcO,deletion,True,Ara-6,1,-0.1985,-1.11451136076089,mean-effect,mean-effect,True,False,False,False,True
+b1426,ydcH,DUF465 domain-containing protein YdcH,deletion,True,Ara-6,1,-0.199,-0.45430848880206853,mean-effect,mean-effect,True,False,False,False,False
+b1531,marA,DNA-binding transcriptional dual regulator MarA,deletion,True,Ara-6,1,-0.201,-0.781399729970479,mean-effect,mean-effect,True,False,False,True,False
+b1476,fdnI,formate dehydrogenase N subunit &gamma;,deletion,True,Ara-5,1,-0.20299999999999999,-0.44906719094454195,mean-effect,mean-effect,True,False,False,False,False
+b1490,yddV,diguanylate cyclase DosC,deletion,True,Ara-5,1,-0.21450000000000002,-1.6258929400450701,mean-effect,mean-effect,True,False,False,False,False
+b0903,pflB,pyruvate formate-lyase,IS_insertion,False,"Ara-1,Ara-3",2,-0.2245,-2.09356319234188,mean-effect,mean-effect,True,False,False,False,False
+b0579,ybdF,PF04237 family protein YbdF,deletion,True,"Ara-3,Ara-6",2,-0.23099999999999998,-0.6051577166122873,mean-effect,mean-effect,True,False,False,False,False
+b4493,gapC,glyceraldehyde-3-phosphate dehydrogenase,deletion,True,Ara-6,1,-0.276,-0.922877699790128,mean-effect,mean-effect,True,False,False,False,False
+b0580,ybdJ,DUF1158 domain-containing protein YbdJ,deletion,True,"Ara-3,Ara-6",2,-0.28700000000000003,-0.708581408312179,mean-effect,mean-effect,True,False,False,False,False
+b4578,insP,,deletion,True,Ara-6,1,-0.288,-0.8929762618757004,mean-effect,mean-effect,True,False,False,False,False
+b1831,proQ,RNA chaperone ProQ,frameshift,False,Ara-3,1,-0.3015,-1.4765783183890506,mean-effect,mean-effect,True,True,True,False,False
+b3940,metL,fused aspartate kinase/homoserine dehydrogenase 2,IS_insertion; frameshift,False,Ara-3,1,-0.34850000000000003,-2.962468360371059,mean-effect,mean-effect,True,False,False,False,False
+b1431,ydcL,DUF3313 domain-containing lipoprotein YdcL,deletion,True,Ara-6,1,-0.40449999999999997,-1.3384112710527256,mean-effect,mean-effect,True,False,False,False,False

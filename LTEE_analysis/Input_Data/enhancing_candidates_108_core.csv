@@ -1,0 +1,109 @@
+bnumber,gene,product,n_conditions_fitness>0.5 (of 46),n_conditions_fitness>0.5_and_t>4,significant_core,RegulonDB_regulator,ribosomal_protein_or_tRNA
+b0059,hepA,RNA polymerase-binding ATPase and RNAP recycling factor,36,36,True,False,False
+b3753,rbsR,DNA-binding transcriptional dual regulator RbsR,36,36,True,True,False
+b2741,rpoS,RNA polymerase sigma factor RpoS,35,35,True,False,False
+b3929,rraA,ribonuclease E inhibitor protein A,32,30,True,False,False
+b0240,crl,RNA polymerase holoenzyme assembly factor Crl,26,25,True,False,False
+b4391,yjjK,energy-dependent translational throttle protein EttA,26,25,True,False,False
+b2808,gcvA,DNA-binding transcriptional dual regulator GcvA,28,24,True,True,False
+b1095,fabF,3-oxoacyl-[acyl carrier protein] synthase 2,27,24,True,False,False
+b0382,yaiB,anti-adaptor protein IraP,23,23,True,False,False
+b2829,ptsP,PtsP-<i>N</i>-phospho-L-histidine // phosphoenolpyruvate-protein phosphotransferase PtsP,22,22,True,False,False
+b0955,ycbZ,putative ATP-dependent protease YcbZ,21,21,True,False,False
+b3229,sspA,stringent starvation protein A,21,21,True,False,False
+b3261,fis,DNA-binding transcriptional dual regulator Fis,25,19,True,True,False
+b1823,cspC,transcription antiterminator and regulator of mRNA stability CspC,32,18,True,False,False
+b1824,yobF,DUF2527 domain-containing protein YobF,27,18,True,False,False
+b1831,proQ,RNA chaperone ProQ,19,16,True,False,False
+b3199,yrbK,lipopolysaccharide transport system protein LptC,27,15,True,False,False
+b3740,gidB,16S rRNA m<sup>7</sup>G527 methyltransferase,15,15,True,False,False
+b2314,dedD,cell division protein DedD,30,14,True,False,False
+b4172,hfq,RNA-binding protein Hfq,21,14,True,True,False
+b4174,hflK,regulator of FtsH protease,14,14,True,False,False
+b3644,yicC,putative RNase adaptor protein YicC,16,13,True,False,False
+b3616,tdh,threonine dehydrogenase,14,13,True,False,False
+b0658,ybeX,CorC-HlyC family protein YbeX,13,13,True,False,False
+b3752,rbsK,ribokinase,13,13,True,False,False
+b1085,b1085,DUF2655 domain-containing protein YceQ,38,12,True,False,False
+b3341,rpsG,30S ribosomal subunit protein S7,32,12,True,True,True
+b1241,adhE,fused acetaldehyde-CoA dehydrogenase and iron-dependent alcohol dehydrogenasealdehyde/alcohol dehydrogenase AdhE,12,12,True,False,False
+b4175,hflC,regulator of FtsH protease,12,12,True,False,False
+b2903,gcvP,glycine decarboxylase,11,11,True,False,False
+b3181,greA,transcription elongation factor GreA,14,10,True,False,False
+b3210,arcB,ArcB-<i>N</i>-phospho-L-histidine-292 // ArcB-phospho-L-aspartate-576 // ArcB-<i>N</i>-phospho-L-histidine-717 // sensor histidine kinase ArcB,12,10,True,False,False
+b4450,arcZ,small regulatory RNA ArcZ,25,9,True,True,False
+b2217,rcsB,RcsB-acetylated // DNA-binding transcriptional dual regulator RcsB-phosphorylated // DNA-binding transcriptional activator RcsB,11,9,True,True,False
+b2576,srmB,ATP-dependent RNA helicase SrmB,11,9,True,False,False
+b3933,ftsN,cell division protein FtsN,11,9,True,False,False
+b4371,rsmC,16S rRNA m<sup>2</sup>G1207 methyltransferase,11,9,True,False,False
+b2688,gshA,glutamate&mdash;cysteine ligase,10,9,True,False,False
+b4000,hupA,DNA-binding protein HU-&alpha;,13,8,True,False,False
+b0388,aroL,shikimate kinase 2,10,8,True,False,False
+b1725,yniA,putative kinase YniA,16,7,True,False,False
+b4202,rpsR,30S ribosomal subunit protein S18,16,7,True,False,True
+b3206,npr,Npr-<i>N</i>-phospho-L-histidine // phosphorelay protein NPr,15,7,True,False,False
+b0920,ycbC,envelope biogenesis factor,12,7,True,False,False
+b1422,ydcI,DNA-binding transcriptional dual regulator YdcI,10,7,True,True,False
+b3806,cyaA,adenylate cyclase,10,7,True,False,False
+b2904,gcvH,lipoyl-GcvH-protein // glycine cleavage system H protein,13,6,True,False,False
+b4406,yaeP,PF06786 family protein YaeP,27,5,True,False,False
+b3198,kdsC,3-deoxy-D-<i>manno</i>-octulosonate 8-phosphate phosphatase KdsC,24,5,True,False,False
+b4373,rimI,protein <i>N</i>-acetyltransferase RimI,24,5,True,False,False
+b3769,ilvM,acetolactate synthase II subunit IlvM,23,5,True,False,False
+b3611,yibN,putative sulfurtransferase YibN,14,5,True,False,False
+b1683,ynhE,Fe-S cluster scaffold complex subunit SufB,11,5,True,False,False
+b3164,pnp,polynucleotide phosphorylase,10,5,True,True,False
+b3157,yhbT,anaerobic ubiquinone biosynthesis accessory factor UbiT,22,4,True,False,False
+b1954,dsrA,small regulatory RNA DsrA,19,4,True,True,False
+b4402,yjjY,uncharacterized protein YjjY,17,4,True,False,False
+b2948,yqgE,DUF179 domain-containing protein YqgE,14,4,True,False,False
+b3260,dusB,tRNA-dihydrouridine synthase B,10,4,True,False,False
+b2317,dedA,DedA family protein DedA,27,3,True,False,False
+b4443,gcvB,small regulatory RNA GcvB,18,3,True,True,False
+b2435,amiA,<i>N</i>-acetylmuramoyl-L-alanine amidase A,14,3,True,False,False
+b0191,yaeJ,"peptidyl-tRNA hydrolase, ribosome rescue factor",12,3,True,False,False
+b0765,modC,molybdate ABC transporter ATP binding subunit,12,3,True,False,False
+b1642,slyA,DNA-binding transcriptional dual regulator SlyA,11,3,True,True,False
+b0014,dnaK,chaperone protein DnaK,15,2,True,False,False
+b0953,rmf,ribosome modulation factor,14,2,True,False,False
+b0746,valZ,tRNA-Val(UAC),14,1,True,False,True
+b0468,ybaN,DUF454 domain-containing inner membrane protein YbaN,11,1,True,False,False
+b2498,upp,uracil phosphoribosyltransferase,11,1,True,False,False
+b2553,glnB,uridylyl-[protein PII-1] // nitrogen regulatory protein PII-1,10,1,True,False,False
+b2229,b2229,DUF1175 domain-containing protein YfaT,34,0,False,False,False
+b2051,wcaH,GDP-mannose mannosyl hydrolase,27,0,False,False,False
+b1777,b1777,DUF1315 domain-containing protein YeaC,26,0,False,False,False
+b1070,flgN,flagellar biosynthesis protein FlgN,25,0,False,False,False
+b1842,holE,DNA polymerase III subunit &theta;,25,0,False,False,False
+b2377,yfdY,DUF2545 domain-containing protein YfdY,23,0,False,False,False
+b2446,yffO,CPZ-55 prophage; uncharacterized protein YffO,21,0,False,False,False
+b1648,b1648,DUF1289 domain-containing protein YdhL,20,0,False,False,False
+b1104,ycfL,DUF1425 domain-containing protein YcfL,18,0,False,False,False
+b4458,oxyS,small regulatory RNA OxyS,17,0,False,True,False
+b4505,insX,,17,0,False,False,False
+b4631,ykgQ,,17,0,False,False,False
+b1848,yebG,DNA damage-inducible protein YebG,16,0,False,False,False
+b3979,thrT,tRNA-Thr(GGU),16,0,False,False,True
+b1518,lsrG,"(4<i>S</i>)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase",15,0,False,False,False
+b0232,yafN,antitoxin YafN,14,0,False,False,False
+b4071,nrfB,periplasmic nitrite reductase penta-heme <i>c</i>-type cytochrome,14,0,False,False,False
+b2058,wcaB,colanic acid biosynthesis acetyltransferase WcaB,13,0,False,False,False
+b3133,agaV,<i>N</i>-acetyl-D-galactosamine specific PTS enzyme IIB component,13,0,False,False,False
+b3658,selC,tRNA-Sec(UCA),13,0,False,False,True
+b4477,dgoA,2-dehydro-3-deoxy-6-phosphogalactonate aldolase,13,0,False,False,False
+b0503,ybbB,tRNA 2-selenouridine synthase,12,0,False,False,False
+b1361,ydaW,Rac prophage; putative uncharacterized protein YdaW,12,0,False,False,False
+b4097,phnK,carbon-phosphorus lyase subunit PhnK,12,0,False,False,False
+b1822,rrmA,23S rRNA m<sup>1</sup>G745 methyltransferase,11,0,False,False,False
+b1918,yecS,cystine ABC transporter membrane subunit,11,0,False,False,False
+b4176,yjeT,DUF2065 domain-containing protein YjeT,11,0,False,False,False
+b0190,yaeQ,uncharacterized protein YaeQ,10,0,False,False,False
+b0549,ybcO,DLP12 prophage; putative nuclease YbcO,10,0,False,False,False
+b1332,ynaJ,DUF2534 domain-containing protein YnaJ,10,0,False,False,False
+b1548,nohA,Qin prophage; putative prophage DNA-packaging protein NohA,10,0,False,False,False
+b1591,b1591,redox enzyme maturation protein DmsD,10,0,False,False,False
+b1754,b1754,putative ABC transporter periplasmic binding protein YnjB,10,0,False,False,False
+b1758,b1758,CDP-alcohol phosphatidyltransferase domain-containing protein YnjF,10,0,False,False,False
+b1926,fliT,flagellar biosynthesis protein FliT,10,0,False,False,False
+b2123,yehR,DUF1307 domain-containing lipoprotein YehR,10,0,False,False,False
+b2262,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",10,0,False,False,False

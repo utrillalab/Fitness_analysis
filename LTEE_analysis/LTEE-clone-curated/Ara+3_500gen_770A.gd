@@ -1,0 +1,15 @@
+#=GENOME_DIFF	1.0
+#=TITLE	Ara+3_500gen_770A
+#=TIME	500
+#=POPULATION	Ara+3
+#=TREATMENT	LTEE
+#=CLONE	A
+#=REFSEQ	https://raw.githubusercontent.com/barricklab/LTEE/7da91974eafac0c5a8f903ae57275795d4395af2/reference/REL606.gbk
+#=READSEQ	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/008/SRR2588658/SRR2588658_1.fastq.gz
+#=READSEQ	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR258/008/SRR2588658/SRR2588658_2.fastq.gz
+#=MUTATOR_STATUS	non-mutator
+SNP	1	.	REL606	70867	C
+INS	2	.	REL606	433677	C
+SNP	3	.	REL606	650645	T
+AMP	4	.	REL606	880542	24155	2
+SNP	5	.	REL606	2847052	G

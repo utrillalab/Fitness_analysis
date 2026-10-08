@@ -1,0 +1,15 @@
+gene,bnumber,fitness_original,fitness_corrected,events,real LoF after audit
+dedD,b2314,0.914,0.871,SNP T→G K4Q (AAG→CAG); SNP A→C V20G (GTG→GGG),False
+fis,b3261,0.65,0.434,SNP C→A intergenic (+32/‑54),False
+hfq,b4172,0.894,0.405,SNP C→T S6F (TCT→TTT),False
+rpoS,b2741,1.003,0.968,"DEL Δ60,769 bp nan",False
+pykF,b1676,0.873,0.716,SNP G→T A301S (GCC→TCC); SNP G→C G381A (GGT→GCT); SNP C→A P70Q (CCG→CAG); DEL Δ1 bp coding (483/1413 nt); SNP A→G T400A (ACC→GCC); INS +T coding (579/1413 nt); SNP G→A G380S (GGC→AGC); SNP G→T G157C (GGT→TGT); SNP C→A P70T (CCG→ACG),True
+rbsR,b3753,0.535,0.5295000000000001,"DEL Δ6,244 bp IS150‑mediated; DEL Δ6,138 bp IS150‑mediated; DEL Δ6,414 bp IS150‑mediated; DEL Δ5,691 bp IS150‑mediated; DEL Δ6,109 bp IS150‑mediated; DEL Δ5,111 bp IS150‑mediated; DEL Δ6,462 bp IS150‑mediated; DEL Δ6,417 bp IS150‑mediated; DEL Δ5,160 bp IS150‑mediated",True
+hepA,b0059,0.713,0.722,DEL Δ1 bp intergenic (‑95/+70),False
+nrfB,b4071,0.643,0.497,"DEL Δ36,044 bp IS1‑mediated; DEL Δ29,861 bp IS1‑mediated",False
+yebK,b1853,0.564,-0.003500000000000003,MOB IS1 (+) +9 bp coding (179‑187/870 ; DEL (A)8→7 intergenic (‑218/‑12; SNP A→G intergenic (+12/‑116,True
+selC,b3658,0.549,0.3955,"DEL Δ20,893 bp nan",True
+sufE,b1679,0.672,0.6125,"DEL Δ28,960 bp IS1‑mediated; DEL Δ13,712 bp IS1‑mediated; DEL Δ13,712 bp between IS1",False
+sufD,b1681,0.737,0.6555,"DEL Δ28,960 bp IS1‑mediated; DEL Δ13,712 bp IS1‑mediated; DEL Δ13,712 bp between IS1",False
+sufC,b1682,0.728,0.644,"DEL Δ28,960 bp IS1‑mediated; DEL Δ13,712 bp IS1‑mediated; DEL Δ13,712 bp between IS1",False
+ydiH,b1685,0.653,0.499,"DEL Δ28,960 bp IS1‑mediated; DEL Δ13,712 bp IS1‑mediated; DEL Δ13,712 bp between IS1; SNP C→T intergenic (‑123/+42",False

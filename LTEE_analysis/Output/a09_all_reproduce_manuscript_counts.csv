@@ -1,0 +1,6 @@
+gene set,fitness source,LoF genes with a value,essential,important,mean-effect,enhancing,mean-effect_%,of which exactly 0 (no data)
+LoF incl. amplification artefacts,repo genesfitness_Glucose.csv (original),596,13,15,555,13,93.1,0.0
+LoF incl. amplification artefacts,corrected mean IT003/IT004 (this analysis),598,13,18,560,7,93.6,3.0
+LoF (artefacts excluded),repo genesfitness_Glucose.csv (original),434,3,10,415,6,95.6,0.0
+LoF (artefacts excluded),corrected mean IT003/IT004 (this analysis),435,2,11,420,2,96.6,3.0
+,manuscript (l. 560-566),459,13,12,423,11,92.2,
