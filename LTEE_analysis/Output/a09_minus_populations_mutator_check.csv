@@ -1,0 +1,7 @@
+population,clones,generations,max_mutations_per_clone,max_SNPs_per_clone,mutations_per_1000_gen,IS150_%,DNA_repair_genes_hit
+Ara-1,16,500-20000,44,28,2.1,11.5,uvrB DEL coding (159/2022 nt)
+Ara-2,8,500-2000,6,4,1.6,0.0,
+Ara-3,18,500-30000,73,33,2.1,23.4,
+Ara-4,10,500-5000,14,11,2.46,0.0,
+Ara-5,22,500-50000,93,53,1.78,24.5,"fhlA, ygbA, mutS, pphB, y DEL IS150‑mediated; uvrA MOB coding (276‑278/2823 nt)"
+Ara-6,22,500-50000,92,40,1.69,15.3,
