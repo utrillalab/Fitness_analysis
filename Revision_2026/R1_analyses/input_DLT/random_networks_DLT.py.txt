@@ -1,0 +1,112 @@
+"""Curveball (degree-preserving) null model for the regulatory redundancy of the targets of the five
+fitness-enhancing (FE) TFs. Network: RegulonDB 11.2 TF-gene network (NetWorkTFGene.txt).
+
+Network: bipartite TF-gene graph. In-degree of a gene = number of distinct TFs regulating it.
+FE TFs: RbsR, GcvA, Fis, SlyA, RcsB.
+
+Observed statistics (on the union of the targets of the FE TFs):
+  - mean in-degree (mean number of TFs per target gene);
+  - % of targets with >= 3 TFs.
+
+Null model: the TF-gene network is randomized with the curveball algorithm (Strona et al. 2014, Nat Commun 5:4114), which
+keeps the number of targets of every TF and the number of regulators of every gene. In each trade two TFs are picked at
+random; the targets they share stay with both, and the targets only one of them regulates are pooled, shuffled and dealt
+back at the original sizes. After a burn-in of BURNIN trades, one network is saved every TRADES trades until N_NET networks
+are obtained. In each randomized network the two statistics are recomputed on the targets of the same five FE TFs.
+Empirical one-sided p-value = (1 + number of randomized networks with a value >= observed) / (N_NET + 1).
+(With N_NET = 1000 the smallest possible p-value is 0.001.)
+
+Analyses (14): all FE TFs; each FE TF removed from the FE set (5); each global TF (ArcA, CRP, Fis, FNR, H-NS, IHF, Lrp)
+removed from the whole network (7); all seven global TFs removed together (1). The curveball is rerun on the reduced
+network each time.
+
+Usage (rename this file to .py first):
+    python3 curveball_null_RegulonDB112.py <network_file> [output_csv] [N_NET]
+Requires: Python 3, numpy, pandas. Fixed seed (31). Defaults: N_NET = 1000, TRADES = 1000, BURNIN = 20000
+(as in the original script). About 20 s per analysis for N_NET = 1000.
+"""
+import sys
+import numpy as np
+import pandas as pd
+
+NETFILE = sys.argv[1]
+OUTCSV = sys.argv[2] if len(sys.argv) > 2 else 'curveball_null_RegulonDB112.csv'
+N_NET = int(sys.argv[3]) if len(sys.argv) > 3 else 1000   # number of randomized networks per analysis
+TRADES = 1000                                              # curveball trades between saved networks
+BURNIN = 20000                                             # trades before the first saved network
+FE = ['RbsR', 'GcvA', 'Fis', 'SlyA', 'RcsB']
+GLOBAL = ['ArcA', 'CRP', 'Fis', 'FNR', 'H-NS', 'IHF', 'Lrp']
+
+rng = np.random.default_rng(31)
+
+# Read the network. The file has a header row that is not commented out; TF = regulatorName (column 2),
+# gene = regulatedName (column 5). Duplicated TF-gene pairs are counted once.
+n = pd.read_csv(NETFILE, sep='\t', comment='#', header=0, dtype=str)
+n.columns = range(n.shape[1])
+E0 = (n[[1, 4]].apply(lambda s: s.str.strip()).drop_duplicates()
+      .rename(columns={1: 'tf', 4: 'gene'}))
+print(f'network: {len(E0)} unique TF-gene pairs, {E0.tf.nunique()} TFs, {E0.gene.nunique()} genes', flush=True)
+
+
+def stats(targets, deg):
+    """Mean in-degree and % of genes with in-degree >= 3 among the given target genes."""
+    d = deg.reindex(list(targets)).values
+    return d.mean(), 100 * (d >= 3).mean()
+
+
+def curveball(adj, trades):
+    """adj: list of sets (targets of each TF). Performs `trades` curveball trades in place."""
+    k = len(adj)
+    for _ in range(trades):
+        i, j = rng.choice(k, 2, replace=False)      # two random TFs
+        a, b = adj[i], adj[j]
+        ai, bj = list(a - b), list(b - a)           # targets exclusive to each TF
+        if not ai or not bj:                        # one set contained in the other: nothing to trade
+            continue
+        pool = ai + bj
+        rng.shuffle(pool)
+        common = a & b                              # shared targets stay with both
+        adj[i] = common | set(pool[:len(ai)])
+        adj[j] = common | set(pool[len(ai):])
+
+
+def analyse(E, fe, label):
+    deg = E.groupby('gene').tf.nunique()            # in-degree of every gene (unchanged by the curveball)
+    tfs = sorted(E.tf.unique())
+    targ = E.groupby('tf').gene.apply(set)
+    fe = [t for t in fe if t in targ.index]
+    T = set().union(*[targ[t] for t in fe])         # observed FE target set
+    obs_mean, obs_pct = stats(T, deg)
+
+    adj = [set(targ[t]) for t in tfs]
+    idx = [tfs.index(t) for t in fe]
+    curveball(adj, BURNIN)
+    r = []
+    for _ in range(N_NET):
+        curveball(adj, TRADES)
+        r.append(stats(set().union(*[adj[i] for i in idx]), deg))
+    r = np.array(r)
+
+    row = {'analysis': label, 'n_TFs': len(tfs), 'n_genes': len(deg), 'FE_TFs': ','.join(fe),
+           'n_FE_targets': len(T), 'network_mean': deg.mean(),
+           'obs_mean': obs_mean, 'obs_pct3': obs_pct,
+           'null_mean': r[:, 0].mean(), 'null_mean_95hi': np.quantile(r[:, 0], 0.95),
+           'null_max': r[:, 0].max(), 'null_pct3': r[:, 1].mean(),
+           'n_null_ge_obs_mean': int((r[:, 0] >= obs_mean).sum()),
+           'n_null_ge_obs_pct3': int((r[:, 1] >= obs_pct).sum()),
+           'p_mean': (1 + (r[:, 0] >= obs_mean).sum()) / (N_NET + 1),
+           'p_pct3': (1 + (r[:, 1] >= obs_pct).sum()) / (N_NET + 1)}
+    print(f"{label:28s} FE targets {len(T):4d}  obs mean {obs_mean:.2f} ({obs_pct:.1f}% >=3) | "
+          f"curveball null mean {row['null_mean']:.2f} p_mean={row['p_mean']:.4f} p_pct3={row['p_pct3']:.4f}", flush=True)
+    return row
+
+
+rows = [analyse(E0, FE, 'all')]
+for t in FE:
+    rows.append(analyse(E0, [x for x in FE if x != t], f'FE set without {t}'))
+for g in GLOBAL:
+    rows.append(analyse(E0[E0.tf != g], FE, f'network without {g}'))
+rows.append(analyse(E0[~E0.tf.isin(GLOBAL)], FE, 'network without 7 global TFs'))
+
+pd.DataFrame(rows).to_csv(OUTCSV, index=False)
+print('results written to', OUTCSV)

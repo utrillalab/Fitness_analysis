@@ -1,0 +1,121 @@
+condition,category,me_status,n_genes,%_of_category_genes,%_of_category_genes_in_ME,proteome_%
+Glycerol,essential,absent from ME,16,12.9,,0.6
+Glycerol,essential,zero flux,27,21.77,25.0,7.42
+Glycerol,essential,non-zero flux,81,65.32,75.0,16.18
+Glycerol,important,absent from ME,53,37.86,,3.12
+Glycerol,important,zero flux,41,29.29,47.13,3.44
+Glycerol,important,non-zero flux,46,32.86,52.87,3.88
+Glycerol,mean-effect,absent from ME,983,59.25,,17.89
+Glycerol,mean-effect,zero flux,531,32.01,78.55,33.53
+Glycerol,mean-effect,non-zero flux,145,8.74,21.45,11.91
+Glycerol,enhancing,absent from ME,21,72.41,,0.87
+Glycerol,enhancing,zero flux,3,10.34,37.5,0.16
+Glycerol,enhancing,non-zero flux,5,17.24,62.5,1.01
+Galactose,essential,absent from ME,12,10.08,,0.45
+Galactose,essential,zero flux,17,14.29,15.89,5.31
+Galactose,essential,non-zero flux,90,75.63,84.11,13.12
+Galactose,important,absent from ME,62,39.49,,1.78
+Galactose,important,zero flux,53,33.76,55.79,7.71
+Galactose,important,non-zero flux,42,26.75,44.21,3.97
+Galactose,mean-effect,absent from ME,983,59.54,,18.49
+Galactose,mean-effect,zero flux,529,32.04,79.19,39.2
+Galactose,mean-effect,non-zero flux,139,8.42,20.81,5.54
+Galactose,enhancing,absent from ME,16,64.0,,0.24
+Galactose,enhancing,zero flux,3,12.0,33.33,0.44
+Galactose,enhancing,non-zero flux,6,24.0,66.67,3.75
+Mannose,essential,absent from ME,15,11.9,,0.65
+Mannose,essential,zero flux,23,18.25,20.72,4.01
+Mannose,essential,non-zero flux,88,69.84,79.28,15.54
+Mannose,important,absent from ME,54,36.99,,2.82
+Mannose,important,zero flux,50,34.25,54.35,7.6
+Mannose,important,non-zero flux,42,28.77,45.65,6.22
+Mannose,mean-effect,absent from ME,990,59.57,,17.11
+Mannose,mean-effect,zero flux,528,31.77,78.57,35.98
+Mannose,mean-effect,non-zero flux,144,8.66,21.43,9.22
+Mannose,enhancing,absent from ME,14,77.78,,0.75
+Mannose,enhancing,zero flux,1,5.56,25.0,0.09
+Mannose,enhancing,non-zero flux,3,16.67,75.0,0.01
+Glucosamine,essential,absent from ME,27,19.15,,2.72
+Glucosamine,essential,zero flux,25,17.73,21.93,4.37
+Glucosamine,essential,non-zero flux,89,63.12,78.07,17.13
+Glucosamine,important,absent from ME,73,43.71,,2.95
+Glucosamine,important,zero flux,54,32.34,57.45,5.59
+Glucosamine,important,non-zero flux,40,23.95,42.55,3.98
+Glucosamine,mean-effect,absent from ME,940,59.68,,16.14
+Glucosamine,mean-effect,zero flux,501,31.81,78.9,29.9
+Glucosamine,mean-effect,non-zero flux,134,8.51,21.1,7.09
+Glucosamine,enhancing,absent from ME,33,47.83,,1.36
+Glucosamine,enhancing,zero flux,22,31.88,61.11,6.41
+Glucosamine,enhancing,non-zero flux,14,20.29,38.89,2.37
+Pyruvate,essential,absent from ME,24,18.6,,1.19
+Pyruvate,essential,zero flux,22,17.05,20.95,10.25
+Pyruvate,essential,non-zero flux,83,64.34,79.05,19.01
+Pyruvate,important,absent from ME,60,44.12,,1.19
+Pyruvate,important,zero flux,30,22.06,39.47,5.07
+Pyruvate,important,non-zero flux,46,33.82,60.53,3.61
+Pyruvate,mean-effect,absent from ME,951,58.63,,18.15
+Pyruvate,mean-effect,zero flux,534,32.92,79.58,28.0
+Pyruvate,mean-effect,non-zero flux,137,8.45,20.42,8.59
+Pyruvate,enhancing,absent from ME,38,58.46,,1.12
+Pyruvate,enhancing,zero flux,16,24.62,59.26,1.76
+Pyruvate,enhancing,non-zero flux,11,16.92,40.74,2.06
+Fructose,essential,absent from ME,16,12.5,,0.88
+Fructose,essential,zero flux,24,18.75,21.43,5.24
+Fructose,essential,non-zero flux,88,68.75,78.57,21.23
+Fructose,important,absent from ME,46,36.51,,3.19
+Fructose,important,zero flux,42,33.33,52.5,11.63
+Fructose,important,non-zero flux,38,30.16,47.5,4.72
+Fructose,mean-effect,absent from ME,1000,59.45,,17.71
+Fructose,mean-effect,zero flux,532,31.63,78.01,24.72
+Fructose,mean-effect,non-zero flux,150,8.92,21.99,9.81
+Fructose,enhancing,absent from ME,11,68.75,,0.33
+Fructose,enhancing,zero flux,4,25.0,80.0,0.53
+Fructose,enhancing,non-zero flux,1,6.25,20.0,0.02
+Glucose,essential,absent from ME,18,13.95,,0.97
+Glucose,essential,zero flux,21,16.28,18.92,5.1
+Glucose,essential,non-zero flux,90,69.77,81.08,22.01
+Glucose,important,absent from ME,52,40.31,,1.8
+Glucose,important,zero flux,46,35.66,59.74,11.8
+Glucose,important,non-zero flux,31,24.03,40.26,4.54
+Glucose,mean-effect,absent from ME,991,59.27,,21.0
+Glucose,mean-effect,zero flux,532,31.82,78.12,20.41
+Glucose,mean-effect,non-zero flux,149,8.91,21.88,10.5
+Glucose,enhancing,absent from ME,12,54.55,,0.57
+Glucose,enhancing,zero flux,4,18.18,40.0,1.18
+Glucose,enhancing,non-zero flux,6,27.27,60.0,0.11
+Xylose,essential,absent from ME,30,17.54,,1.54
+Xylose,essential,zero flux,37,21.64,26.24,5.86
+Xylose,essential,non-zero flux,104,60.82,73.76,25.3
+Xylose,important,absent from ME,75,40.32,,3.76
+Xylose,important,zero flux,66,35.48,59.46,11.57
+Xylose,important,non-zero flux,45,24.19,40.54,5.63
+Xylose,mean-effect,absent from ME,938,60.83,,17.53
+Xylose,mean-effect,zero flux,485,31.45,80.3,16.46
+Xylose,mean-effect,non-zero flux,119,7.72,19.7,8.46
+Xylose,enhancing,absent from ME,30,56.6,,1.09
+Xylose,enhancing,zero flux,15,28.3,65.22,1.32
+Xylose,enhancing,non-zero flux,8,15.09,34.78,1.49
+Succinate,essential,absent from ME,40,20.41,,1.7
+Succinate,essential,zero flux,48,24.49,30.77,7.41
+Succinate,essential,non-zero flux,108,55.1,69.23,17.06
+Succinate,important,absent from ME,110,48.03,,2.26
+Succinate,important,zero flux,74,32.31,62.18,11.82
+Succinate,important,non-zero flux,45,19.65,37.82,4.6
+Succinate,mean-effect,absent from ME,834,61.23,,11.49
+Succinate,mean-effect,zero flux,433,31.79,82.01,20.63
+Succinate,mean-effect,non-zero flux,95,6.98,17.99,6.34
+Succinate,enhancing,absent from ME,89,53.94,,4.92
+Succinate,enhancing,zero flux,45,27.27,59.21,8.71
+Succinate,enhancing,non-zero flux,31,18.79,40.79,3.08
+Acetate,essential,absent from ME,40,21.28,,1.17
+Acetate,essential,zero flux,42,22.34,28.38,6.88
+Acetate,essential,non-zero flux,106,56.38,71.62,35.81
+Acetate,important,absent from ME,126,51.22,,2.8
+Acetate,important,zero flux,76,30.89,63.33,10.8
+Acetate,important,non-zero flux,44,17.89,36.67,5.49
+Acetate,mean-effect,absent from ME,819,60.0,,12.69
+Acetate,mean-effect,zero flux,447,32.75,81.87,14.49
+Acetate,mean-effect,non-zero flux,99,7.25,18.13,4.57
+Acetate,enhancing,absent from ME,88,57.52,,2.57
+Acetate,enhancing,zero flux,41,26.8,63.08,1.3
+Acetate,enhancing,non-zero flux,24,15.69,36.92,1.42

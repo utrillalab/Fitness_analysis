@@ -1,0 +1,23 @@
+condition,experiment,in_price2018_good,max_abs_diff_vs_repo,pearson_vs_repo,generations,start_OD,end_OD
+LB,set2IT045 LB,True,0.0005,1.0,,,
+LB,set2IT069 LB,True,0.0005,1.0,,,
+Glycerol,set1IT047 Glycerol (C),True,0.0005,1.0,5.5298,0.02,0.92
+Glycerol,set1IT048 Glycerol (C),True,0.0005,1.0,5.511,0.02,0.91
+Galactose,set1IT013 D-Galactose (C),True,0.0005,1.0,5.1293,0.02,0.7
+Galactose,set1IT014 D-Galactose (C),True,0.0005,1.0,5.2095,0.02,0.74
+Mannose,set1IT065 D-Mannose (C),True,0.0005,1.0,5.4128,0.02,0.85
+Mannose,set1IT066 D-Mannose (C),True,0.0005,1.0,5.4529,0.02,0.88
+Glucosamine,set1IT063 D-Glucosamine Hydrochloride (C),True,0.0005,1.0,6.0618,0.02,1.34
+Glucosamine,set1IT064 D-Glucosamine Hydrochloride (C),True,0.0005,1.0,6.0661,0.02,1.34
+Pyruvate,set1IT037 pyruvate (C),True,0.0005,1.0,4.7549,0.02,0.54
+Pyruvate,set1IT038 pyruvate (C),True,0.0005,1.0,4.7549,0.02,0.54
+Fructose,set1IT005 D-Fructose (C),True,0.0005,1.0,5.7814,0.02,1.1
+Fructose,set1IT006 D-Fructose (C),True,0.0005,1.0,5.858,0.02,1.16
+Glucose,set1IT003 D-Glucose (C),True,0.0005,1.0,6.5298,0.02,1.85
+Glucose,set1IT004 D-Glucose (C),True,0.0005,1.0,6.5204,0.02,1.84
+Xylose,set1IT011 D-Xylose (C),True,0.0005,1.0,5.5546,0.02,0.94
+Xylose,set1IT012 D-Xylose (C),True,0.0005,1.0,5.5546,0.02,0.94
+Succinate,set1IT039 succinate (C),True,0.0005,1.0,5.3399,0.02,0.81
+Succinate,set1IT040 succinate (C),True,0.0005,1.0,5.5392,0.02,0.93
+Acetate,set1IT027 acetate (C),True,0.0005,1.0,4.7814,0.02,0.55
+Acetate,set1IT028 acetate (C),True,0.0005,1.0,4.7814,0.02,0.55

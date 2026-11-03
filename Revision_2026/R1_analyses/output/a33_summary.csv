@@ -1,0 +1,2 @@
+observed_mean,n_targets,n_genes,uniform_mean,uniform_max,p_uniform,network_mean,network_max,p_network,noglobal_TRN_genes,noglobal_TRN_mean,noglobal_FE_genes,noglobal_FE_mean,noglobal_WMW_p
+3.9195046439628483,323,2520,2.2895009287925694,2.6996904024767803,9.999000099990002e-05,3.634228673016314,4.015923566878981,0.0052994700529947,2122,1.6979264844486333,90,2.8222222222222224,1.1637304258892798e-14

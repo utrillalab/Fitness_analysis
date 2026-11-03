@@ -1,0 +1,79 @@
+"""Uniform random-set test for the regulatory redundancy of the targets of the five fitness-enhancing (FE) TFs.
+
+Network: RegulonDB 11.2 TF-gene network (NetWorkTFGene.txt). In-degree of a gene = number of distinct TFs regulating it.
+FE TFs: RbsR, GcvA, Fis, SlyA, RcsB.
+
+For each analysis:
+  - observed statistics: mean in-degree of the FE targets, and % of FE targets with >= 3 TFs;
+  - null: 10,000 random sets of genes of the same size as the FE target set, drawn without replacement from all genes
+    of the network; the same two statistics are computed on each random set;
+  - empirical one-sided p-value = (1 + number of random sets with a value >= observed) / (10,000 + 1).
+    The smallest possible p-value is therefore 1/10,001 = 0.0001.
+
+Analyses (14): all FE TFs; each FE TF removed from the FE set (5); each global TF (ArcA, CRP, Fis, FNR, H-NS, IHF, Lrp)
+removed from the whole network (7); all seven global TFs removed together (1). In the "network without ..." analyses the
+in-degrees are recomputed on the reduced network and the FE target set is recomputed too.
+
+Usage (rename this file to .py first):
+    python3 uniform_random_sets_test.py <network_file> [output_csv]
+Requires: Python 3, numpy, pandas. Fixed seed (31).
+"""
+import sys
+import numpy as np
+import pandas as pd
+
+NETFILE = sys.argv[1]
+OUTCSV = sys.argv[2] if len(sys.argv) > 2 else 'uniform_random_sets_test.csv'
+
+B = 10000
+FE = ['RbsR', 'GcvA', 'Fis', 'SlyA', 'RcsB']
+GLOBAL = ['ArcA', 'CRP', 'Fis', 'FNR', 'H-NS', 'IHF', 'Lrp']
+rng = np.random.default_rng(31)
+
+# Read the network. The file has a header row that is not commented out; TF = regulatorName (column 2),
+# gene = regulatedName (column 5). Duplicated TF-gene pairs are counted once.
+n = pd.read_csv(NETFILE, sep='\t', comment='#', header=0, dtype=str)
+n.columns = range(n.shape[1])
+E0 = (n[[1, 4]].apply(lambda s: s.str.strip()).drop_duplicates()
+      .rename(columns={1: 'tf', 4: 'gene'}))
+print(f'network: {len(E0)} unique TF-gene pairs, {E0.tf.nunique()} TFs, {E0.gene.nunique()} genes')
+
+
+def run(E, fe, label):
+    deg = E.groupby('gene').tf.nunique()          # in-degree of every gene
+    targ = E.groupby('tf').gene.apply(set)        # targets of every TF
+    fe = [t for t in fe if t in targ.index]
+    T = set().union(*[targ[t] for t in fe])       # union of the targets of the FE TFs
+    k = len(T)
+    d = deg.reindex(list(T)).values
+    obs_mean, obs_pct = d.mean(), 100 * (d >= 3).mean()
+
+    sets = np.array([rng.choice(deg.values, k, replace=False) for _ in range(B)])   # B random sets of k genes
+    null_mean = sets.mean(axis=1)
+    null_pct = 100 * (sets >= 3).mean(axis=1)
+
+    return {
+        'analysis': label, 'set_size': k,
+        'obs_mean': obs_mean, 'obs_pct3': obs_pct,
+        'null_mean': null_mean.mean(), 'null_min': null_mean.min(), 'null_max': null_mean.max(),
+        'null_pct3': null_pct.mean(),
+        'n_null_ge_obs_mean': int((null_mean >= obs_mean).sum()),
+        'n_null_ge_obs_pct3': int((null_pct >= obs_pct).sum()),
+        'p_mean': (1 + (null_mean >= obs_mean).sum()) / (B + 1),
+        'p_pct3': (1 + (null_pct >= obs_pct).sum()) / (B + 1),
+    }
+
+
+rows = [run(E0, FE, 'All')]
+for t in FE:
+    rows.append(run(E0, [x for x in FE if x != t], f'FE set without {t}'))
+for g in GLOBAL:
+    rows.append(run(E0[E0.tf != g], FE, f'Network without {g}'))
+rows.append(run(E0[~E0.tf.isin(GLOBAL)], FE, 'Network without 7 global TFs'))
+
+res = pd.DataFrame(rows)
+res.to_csv(OUTCSV, index=False)
+pd.set_option('display.width', 250)
+pd.set_option('display.max_columns', 30)
+print(res.round(4).to_string(index=False))
+print('results written to', OUTCSV)

@@ -1,0 +1,29 @@
+gene,old_table,table,prob,z,Predicted function
+ycbZ,Table S17,Table S17,99.97,25.1,Several domains: ATP-dependent protease Lon; ATP-binding; Nucleotide binding
+ynjB,Table S17,Table S17,100.0,27.7,"Periplasmic solute-binding protein of an ABC transporter (MalE-like fold, Pfam SBP_bac_8); ligand unknown"
+ydcI,Table S17,Table S17,100.0,20.1,LysR-type transcriptional regulator (TsaR-like); Characterized: transcription factor for pH homeostasis and acetate metabolism (PMID 30137486; 32419108)
+ybeX,Table S17,Table S17,100.0,22.7,magnesium and cobalt efflux (CorC family); 2024: implicated in ribosome assembly / rRNA degradation under Mg limitation (PMID 38494741)
+yniA,Table S17,Table S17,100.0,38.4,Fructosamine kinase
+ynjF,Table S17,Table S17,99.89,20.6,CDP-alcohol phosphatidyltransferase (phosphatidylinositol-phosphate-synthase-like fold); product unknown
+yaeQ,Table S17,Table S17,100.0,30.8,"YaeQ family; function unknown (the closest other structures, 2g3w, 2ot9 and 7tcb, are YaeQ-family proteins of unknown function)"
+yqgE,Table S17,Table S17,100.0,26.8,"UPF0301 / AlgH-like family protein (2haf is V. cholerae VC_0467, whose PDB title is ""putative translation repressor""); function unknown"
+ydaW,Table S17,Table S17,98.29,9.0,Two tandem winged-helix DNA-binding modules (residues 1–54 and 78–138); 7BZH (a Sulfolobus DNA-binding protein) aligns with each module (residues 5–53 and 82–136); the structural match to the Zα domain of PKZ (4LB5) covers about 50 residues
+yehR,Table S17,Table S17,99.94,16.5,"Lipoprotein (DUF1307); own NMR structure 2joe, so no functional transfer"
+yffO,Table S17,Table S17,99.54,11.3,Phage terminase small-subunit-like protein (Sf6 gp1-like; Pfam PF20901); DNA-binding for genome packaging
+yibN,Table S17,Table S17,99.38,17.1,"Rhodanese-like domain (GlpE-like); putative sulfurtransferase, but no conserved catalytic cysteine"
+ycfL,Table S17,Table S17,99.92,12.3,Lipoprotein (DUF1425; Cj0090-like)
+ybcO,Table S17,Table S17,99.96,16.7,"Putative nuclease (fold and conserved His, PMID 27562564); own crystal structure 3g27"
+yfdY,Table S17,Table S18,61.82,7.2,"No confident homolog (DUF2545; the 2m6u match is the helical N-terminal domain of CbpA, not its choline-binding module)"
+yicC,Table S18,Table S18,90.59,5.4,"Endoribonuclease YicC, characterized: endonucleolytic ssRNA cleavage and degradation of the sRNA RyhB (PMID 34210798; 34815358). The 8ax9 match (human apolipoprotein E4 N-terminal domain) is a fold coincidence and is not used"
+yfaT,Table S18,Table S17,99.85,29.3,"MagC-like NlpC/P60-family protein, peptidoglycan-binding (Pfam PF06672)"
+ybaN,Table S18,Table S18,88.32,6.8,No confident homolog (DUF454 inner-membrane protein; the hits are short helical fragments of 6rfl and 7awa)
+yafN,Table S18,Table S18,98.47,5.1,"Antitoxin YafN of the YafN-YafO toxin-antitoxin system (characterized, PMID 19617347; 19943910)"
+yebG,Table S18,Table S18,100.0,4.8,DNA damage-inducible (LexA/SOS regulon); no structural homolog of known function
+yeaC,Table S18,Table S18,91.39,4.9,"Possible helix-turn-helix domain (32-column match to a GntR-family regulator, 2hs5); low confidence"
+ynaJ,Table S18,Table S18,100.0,6.6,No confident homolog (DUF2534; the 5uz7 match is a helical fragment of a GPCR-G-protein complex)
+yaeP,Table S18,Table S18,100.0,7.6,UPF0253 family; function unknown (the 6kmb bromodomain match is a fold coincidence)
+yjeT,Table S18,Table S18,60.72,5.4,"Possible helical DNA-binding fold (weak match to the TetR-family regulator RutR, 4xk4); very low confidence"
+yceQ,Table S18,Table S18,,,=====
+ydhL,Table S18,Table S18,,,=====
+yobF,Table S18,Table S18,,,=====
+yjjY,Table S18,Table S18,,,=====

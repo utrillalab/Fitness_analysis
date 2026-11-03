@@ -1,0 +1,56 @@
+claim,gene,bnumber,n_cond_fitness>0.5,n_cond_t>4,status
+l.457 sensing/regulation genes,rpoS,b2741,35,35,core
+l.457 sensing/regulation genes,fis,b3261,25,19,core
+l.457 sensing/regulation genes,hfq,b4172,21,14,core
+l.457 sensing/regulation genes,arcB,b3210,12,10,core
+l.457 sensing/regulation genes,greA,b3181,14,10,core
+l.457 sensing/regulation genes,cspC,b1823,32,18,core
+l.457 sensing/regulation genes,rcsB,b2217,11,9,core
+l.458 small regulatory RNAs,oxyS,b4458,17,0,candidate only
+l.458 small regulatory RNAs,arcZ,b4450,25,9,core
+l.458 small regulatory RNAs,gcvB,b4443,18,3,core
+l.458 small regulatory RNAs,dsrA,b1954,19,4,core
+l.459 rsd,rsd,b3995,5,2,not a candidate
+l.462 flagella,fliT,b1926,10,0,candidate only
+l.462 flagella,flgN,b1070,25,0,candidate only
+l.462 hibernation factors,rmf,b0953,14,2,core
+l.462 hibernation factors,ettA,b4391,26,25,core
+l.463 ribosomal proteins,rpsG,b3341,32,12,core
+l.463 ribosomal proteins,rpsR,b4202,16,7,core
+l.463 tRNAs (as stated),selC,b3658,13,0,candidate only
+l.463 tRNAs (as stated),selU,b0503,12,0,candidate only
+l.463 tRNAs (as stated),valZ,b0746,14,1,core
+l.463 tRNAs (as stated),thrT,b3979,16,0,candidate only
+l.507 TFs used for Table 2 / Fig. 6C,rbsR,b3753,36,36,core
+l.507 TFs used for Table 2 / Fig. 6C,gcvA,b2808,28,24,core
+l.507 TFs used for Table 2 / Fig. 6C,fis,b3261,25,19,core
+l.507 TFs used for Table 2 / Fig. 6C,slyA,b1642,11,3,core
+l.507 TFs used for Table 2 / Fig. 6C,rcsB,b2217,11,9,core
+Table S17 high-confidence predictions,ycbZ,b0955,21,21,core
+Table S17 high-confidence predictions,ynjB,b1754,10,0,candidate only
+Table S17 high-confidence predictions,ydcI,b1422,10,7,core
+Table S17 high-confidence predictions,ybeX,b0658,13,13,core
+Table S17 high-confidence predictions,yniA,b1725,16,7,core
+Table S17 high-confidence predictions,ynjF,b1758,10,0,candidate only
+Table S17 high-confidence predictions,yaeQ,b0190,10,0,candidate only
+Table S17 high-confidence predictions,yqgE,b2948,14,4,core
+Table S17 high-confidence predictions,ydaW,b1361,12,0,candidate only
+Table S17 high-confidence predictions,yehR,b2123,10,0,candidate only
+Table S17 high-confidence predictions,yffO,b2446,21,0,candidate only
+Table S17 high-confidence predictions,yibN,b3611,14,5,core
+Table S17 high-confidence predictions,ycfL,b1104,18,0,candidate only
+Table S17 high-confidence predictions,ybcO,b0549,10,0,candidate only
+Table S17 high-confidence predictions,yfdY,b2377,23,0,candidate only
+Table S18 low-confidence / no prediction,yicC,b3644,16,13,core
+Table S18 low-confidence / no prediction,yfaT,b2229,34,0,candidate only
+Table S18 low-confidence / no prediction,ybaN,b0468,11,1,core
+Table S18 low-confidence / no prediction,yafN,b0232,14,0,candidate only
+Table S18 low-confidence / no prediction,yebG,b1848,16,0,candidate only
+Table S18 low-confidence / no prediction,yeaC,b1777,26,0,candidate only
+Table S18 low-confidence / no prediction,ynaJ,b1332,10,0,candidate only
+Table S18 low-confidence / no prediction,yaeP,b4406,27,5,core
+Table S18 low-confidence / no prediction,yjeT,b4176,11,0,candidate only
+Table S18 low-confidence / no prediction,yceQ,b1085,38,12,core
+Table S18 low-confidence / no prediction,ydhL,b1648,20,0,candidate only
+Table S18 low-confidence / no prediction,yobF,b1824,27,18,core
+Table S18 low-confidence / no prediction,yjjY,b4402,17,4,core

@@ -1,0 +1,47 @@
+min_conditions,set,n_genes,n_regulators,%_regulators,background_%,fold_enrichment,p_hypergeom,flagged_artefact_genes
+3,all genes,435,35,8.046,4.6978,1.7127,0.0008,"rpsG, rpsR"
+3,without rpsG and rpsR,433,34,7.8522,4.6739,1.68,0.0013,
+4,all genes,322,27,8.3851,4.6978,1.7849,0.0019,"rpsG, rpsR"
+4,without rpsG and rpsR,320,26,8.125,4.6739,1.7384,0.0033,
+5,all genes,258,19,7.3643,4.6978,1.5676,0.0316,"rpsG, rpsR"
+5,without rpsG and rpsR,256,18,7.0312,4.6739,1.5044,0.0508,
+6,all genes,207,18,8.6957,4.6978,1.851,0.0076,"rpsG, rpsR"
+6,without rpsG and rpsR,205,17,8.2927,4.6739,1.7743,0.014,
+7,all genes,168,16,9.5238,4.6978,2.0273,0.0049,"rpsG, rpsR"
+7,without rpsG and rpsR,166,15,9.0361,4.6739,1.9333,0.0098,
+8,all genes,141,15,10.6383,4.6978,2.2645,0.0022,"rpsG, rpsR"
+8,without rpsG and rpsR,139,14,10.0719,4.6739,2.1549,0.0049,
+9,all genes,126,14,11.1111,4.6978,2.3652,0.0021,"rpsG, rpsR"
+9,without rpsG and rpsR,124,13,10.4839,4.6739,2.2431,0.0047,
+10,all genes,108,13,12.037,4.6978,2.5623,0.0014,"rpsG, rpsR"
+10,without rpsG and rpsR,106,12,11.3208,4.6739,2.4221,0.0035,
+11,all genes,91,11,12.0879,4.6978,2.5731,0.0032,"rpsG, rpsR"
+11,without rpsG and rpsR,89,10,11.236,4.6739,2.404,0.0079,
+12,all genes,79,9,11.3924,4.6978,2.425,0.0109,"rpsG, rpsR"
+12,without rpsG and rpsR,77,8,10.3896,4.6739,2.2229,0.026,
+13,all genes,70,9,12.8571,4.6978,2.7368,0.005,"rpsG, rpsR"
+13,without rpsG and rpsR,68,8,11.7647,4.6739,2.5171,0.013,
+14,all genes,62,9,14.5161,4.6978,3.09,0.0021,"rpsG, rpsR"
+14,without rpsG and rpsR,60,8,13.3333,4.6739,2.8527,0.0062,
+15,all genes,52,9,17.3077,4.6978,3.6842,0.0006,"rpsG, rpsR"
+15,without rpsG and rpsR,50,8,16.0,4.6739,3.4233,0.0019,
+16,all genes,48,9,18.75,4.6978,3.9912,0.0003,"rpsG, rpsR"
+16,without rpsG and rpsR,46,8,17.3913,4.6739,3.721,0.0011,
+17,all genes,43,9,20.9302,4.6978,4.4553,0.0001,rpsG
+17,without rpsG and rpsR,42,8,19.0476,4.6739,4.0753,0.0006,
+18,all genes,39,8,20.5128,4.6978,4.3665,0.0004,rpsG
+18,without rpsG and rpsR,38,7,18.4211,4.6739,3.9413,0.0016,
+19,all genes,37,7,18.9189,4.6978,4.0272,0.0014,rpsG
+19,without rpsG and rpsR,36,6,16.6667,4.6739,3.5659,0.0058,
+20,all genes,35,6,17.1429,4.6978,3.6491,0.0051,rpsG
+20,without rpsG and rpsR,34,5,14.7059,4.6739,3.1464,0.0195,
+21,all genes,34,6,17.6471,4.6978,3.7564,0.0044,rpsG
+21,without rpsG and rpsR,33,5,15.1515,4.6739,3.2417,0.0172,
+22,all genes,30,5,16.6667,4.6978,3.5478,0.0118,rpsG
+22,without rpsG and rpsR,29,4,13.7931,4.6739,2.9511,0.0439,
+23,all genes,28,5,17.8571,4.6978,3.8012,0.0088,rpsG
+23,without rpsG and rpsR,27,4,14.8148,4.6739,3.1697,0.0349,
+24,all genes,25,5,20.0,4.6978,4.2573,0.0053,rpsG
+24,without rpsG and rpsR,24,4,16.6667,4.6739,3.5659,0.0235,
+25,all genes,23,5,21.7391,4.6978,4.6275,0.0036,rpsG
+25,without rpsG and rpsR,22,4,18.1818,4.6739,3.8901,0.0174,

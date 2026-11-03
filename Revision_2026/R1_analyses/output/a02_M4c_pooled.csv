@@ -1,0 +1,21 @@
+category,mass_bin,observed,expected,obs/exp,n_cond_over,n_cond_under
+enhancing,Q1 (lightest),84,126.46,0.66,0,2
+enhancing,Q2,112,126.36,0.89,0,0
+enhancing,Q3,128,126.38,1.01,0,0
+enhancing,Q4,172,126.36,1.36,2,0
+enhancing,Q5 (heaviest),136,126.44,1.08,0,0
+essential,Q1 (lightest),41,287.39,0.14,0,10
+essential,Q2,131,287.07,0.46,0,10
+essential,Q3,167,287.08,0.58,0,6
+essential,Q4,316,287.07,1.1,0,0
+essential,Q5 (heaviest),781,287.39,2.72,10,0
+important,Q1 (lightest),195,348.65,0.56,0,8
+important,Q2,283,348.25,0.81,0,0
+important,Q3,366,348.26,1.05,0,0
+important,Q4,338,348.25,0.97,0,0
+important,Q5 (heaviest),560,348.58,1.61,10,0
+mean-effect,Q1 (lightest),3811,3368.51,1.13,11,0
+mean-effect,Q2,3600,3364.31,1.07,10,0
+mean-effect,Q3,3465,3364.28,1.03,2,0
+mean-effect,Q4,3300,3364.31,0.98,0,1
+mean-effect,Q5 (heaviest),2653,3367.59,0.79,0,11

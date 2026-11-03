@@ -1,0 +1,93 @@
+k,set,artefacts,genes,regulators,fold,p,probable artefacts in set
+3,candidates,all genes,435,35,1.7,0.00078,"rpsG, rpsR"
+3,candidates,without rpsG and rpsR,433,34,1.7,0.0015,
+3,core (t>4 in >=1),all genes,237,26,2.3,3e-05,"rpsG, rpsR"
+3,core (t>4 in >=1),without rpsG and rpsR,235,25,2.3,7.4e-05,
+4,candidates,all genes,322,27,1.8,0.0019,"rpsG, rpsR"
+4,candidates,without rpsG and rpsR,320,26,1.7,0.0035,
+4,core (t>4 in >=1),all genes,179,22,2.6,2.3e-05,"rpsG, rpsR"
+4,core (t>4 in >=1),without rpsG and rpsR,177,21,2.5,6e-05,
+5,candidates,all genes,258,19,1.6,0.032,"rpsG, rpsR"
+5,candidates,without rpsG and rpsR,256,18,1.5,0.053,
+5,core (t>4 in >=1),all genes,147,18,2.6,0.00014,"rpsG, rpsR"
+5,core (t>4 in >=1),without rpsG and rpsR,145,17,2.5,0.00037,
+6,candidates,all genes,207,18,1.9,0.0076,"rpsG, rpsR"
+6,candidates,without rpsG and rpsR,205,17,1.8,0.015,
+6,core (t>4 in >=1),all genes,119,17,3,3e-05,"rpsG, rpsR"
+6,core (t>4 in >=1),without rpsG and rpsR,117,16,2.9,8.9e-05,
+7,candidates,all genes,168,16,2,0.0049,"rpsG, rpsR"
+7,candidates,without rpsG and rpsR,166,15,1.9,0.01,
+7,core (t>4 in >=1),all genes,101,15,3.2,5.7e-05,"rpsG, rpsR"
+7,core (t>4 in >=1),without rpsG and rpsR,99,14,3,0.00017,
+8,candidates,all genes,141,15,2.3,0.0022,"rpsG, rpsR"
+8,candidates,without rpsG and rpsR,139,14,2.1,0.0051,
+8,core (t>4 in >=1),all genes,88,14,3.4,4.6e-05,"rpsG, rpsR"
+8,core (t>4 in >=1),without rpsG and rpsR,86,13,3.2,0.00015,
+9,candidates,all genes,126,14,2.4,0.0021,"rpsG, rpsR"
+9,candidates,without rpsG and rpsR,124,13,2.2,0.0049,
+9,core (t>4 in >=1),all genes,80,13,3.5,6.9e-05,"rpsG, rpsR"
+9,core (t>4 in >=1),without rpsG and rpsR,78,12,3.3,0.00023,
+10,candidates,all genes,108,13,2.6,0.0014,"rpsG, rpsR"
+10,candidates,without rpsG and rpsR,106,12,2.4,0.0037,
+10,core (t>4 in >=1),all genes,71,12,3.6,9e-05,"rpsG, rpsR"
+10,core (t>4 in >=1),without rpsG and rpsR,69,11,3.4,0.0003,
+11,candidates,all genes,91,11,2.6,0.0032,"rpsG, rpsR"
+11,candidates,without rpsG and rpsR,89,10,2.4,0.0082,
+11,core (t>4 in >=1),all genes,64,10,3.3,0.00067,"rpsG, rpsR"
+11,core (t>4 in >=1),without rpsG and rpsR,62,9,3.1,0.0021,
+12,candidates,all genes,79,9,2.4,0.011,"rpsG, rpsR"
+12,candidates,without rpsG and rpsR,77,8,2.2,0.027,
+12,core (t>4 in >=1),all genes,55,8,3.1,0.0037,"rpsG, rpsR"
+12,core (t>4 in >=1),without rpsG and rpsR,53,7,2.8,0.011,
+13,candidates,all genes,70,9,2.7,0.005,"rpsG, rpsR"
+13,candidates,without rpsG and rpsR,68,8,2.5,0.013,
+13,core (t>4 in >=1),all genes,49,8,3.5,0.0017,"rpsG, rpsR"
+13,core (t>4 in >=1),without rpsG and rpsR,47,7,3.2,0.0057,
+14,candidates,all genes,62,9,3.1,0.0021,"rpsG, rpsR"
+14,candidates,without rpsG and rpsR,60,8,2.8,0.0064,
+14,core (t>4 in >=1),all genes,45,8,3.8,0.00098,"rpsG, rpsR"
+14,core (t>4 in >=1),without rpsG and rpsR,43,7,3.5,0.0034,
+15,candidates,all genes,52,9,3.7,0.00058,"rpsG, rpsR"
+15,candidates,without rpsG and rpsR,50,8,3.4,0.002,
+15,core (t>4 in >=1),all genes,37,8,4.6,0.00024,"rpsG, rpsR"
+15,core (t>4 in >=1),without rpsG and rpsR,35,7,4.3,0.00099,
+16,candidates,all genes,48,9,4,0.00031,"rpsG, rpsR"
+16,candidates,without rpsG and rpsR,46,8,3.7,0.0011,
+16,core (t>4 in >=1),all genes,34,8,5,0.00013,"rpsG, rpsR"
+16,core (t>4 in >=1),without rpsG and rpsR,32,7,4.7,0.00056,
+17,candidates,all genes,43,9,4.5,0.00013,rpsG
+17,candidates,without rpsG and rpsR,42,8,4,0.00061,
+17,core (t>4 in >=1),all genes,31,8,5.5,6.3e-05,rpsG
+17,core (t>4 in >=1),without rpsG and rpsR,30,7,5,0.00036,
+18,candidates,all genes,39,8,4.4,0.00036,rpsG
+18,candidates,without rpsG and rpsR,38,7,3.9,0.0016,
+18,core (t>4 in >=1),all genes,30,8,5.7,4.9e-05,rpsG
+18,core (t>4 in >=1),without rpsG and rpsR,29,7,5.1,0.00029,
+19,candidates,all genes,37,7,4,0.0014,rpsG
+19,candidates,without rpsG and rpsR,36,6,3.5,0.0059,
+19,core (t>4 in >=1),all genes,29,7,5.1,0.00029,rpsG
+19,core (t>4 in >=1),without rpsG and rpsR,28,6,4.6,0.0016,
+20,candidates,all genes,35,6,3.6,0.0051,rpsG
+20,candidates,without rpsG and rpsR,34,5,3.1,0.02,
+20,core (t>4 in >=1),all genes,27,6,4.7,0.0013,rpsG
+20,core (t>4 in >=1),without rpsG and rpsR,26,5,4.1,0.0064,
+21,candidates,all genes,34,6,3.8,0.0044,rpsG
+21,candidates,without rpsG and rpsR,33,5,3.2,0.018,
+21,core (t>4 in >=1),all genes,27,6,4.7,0.0013,rpsG
+21,core (t>4 in >=1),without rpsG and rpsR,26,5,4.1,0.0064,
+22,candidates,all genes,30,5,3.5,0.012,rpsG
+22,candidates,without rpsG and rpsR,29,4,2.9,0.045,
+22,core (t>4 in >=1),all genes,24,5,4.4,0.0044,rpsG
+22,core (t>4 in >=1),without rpsG and rpsR,23,4,3.7,0.021,
+23,candidates,all genes,28,5,3.8,0.0088,rpsG
+23,candidates,without rpsG and rpsR,27,4,3.1,0.035,
+23,core (t>4 in >=1),all genes,22,5,4.8,0.003,rpsG
+23,core (t>4 in >=1),without rpsG and rpsR,21,4,4,0.015,
+24,candidates,all genes,25,5,4.3,0.0053,rpsG
+24,candidates,without rpsG and rpsR,24,4,3.5,0.024,
+24,core (t>4 in >=1),all genes,20,5,5.3,0.0019,rpsG
+24,core (t>4 in >=1),without rpsG and rpsR,19,4,4.5,0.01,
+25,candidates,all genes,23,5,4.6,0.0036,rpsG
+25,candidates,without rpsG and rpsR,22,4,3.9,0.018,
+25,core (t>4 in >=1),all genes,18,5,5.9,0.0011,rpsG
+25,core (t>4 in >=1),without rpsG and rpsR,17,4,5,0.0069,
