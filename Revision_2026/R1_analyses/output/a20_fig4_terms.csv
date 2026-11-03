@@ -1,0 +1,35 @@
+condition,category,GO.ID,term,n_genes,n_with_proteomics,mass_%,-log10p
+Glucose,essential,GO:0044283,small molecule biosynthetic process,109,107,15.85519290060317,2.56
+Glucose,essential,GO:0006412,translation,79,79,14.481622427700636,2.99
+Glucose,essential,GO:0009150,purine ribonucleotide metabolic process,20,20,5.073821676420788,2.59
+Glucose,essential,GO:0010628,positive regulation of gene expression,14,13,2.84656493016899,2.29
+Glucose,essential,GO:0046112,nucleobase biosynthetic process,11,11,1.2122179770590558,5.49
+Glucose,important,GO:0051701,biological process involved in interaction with host,5,4,3.9667125767218945,2.47
+Glucose,important,GO:0006163,purine nucleotide metabolic process,13,13,2.534590353585651,3.6
+Glucose,important,GO:0061024,membrane organization,8,7,1.2714233446483112,3.28
+Glucose,important,GO:0019725,cellular homeostasis,12,12,0.6929014120118188,2.24
+Glucose,important,GO:0006402,mRNA catabolic process,5,5,0.3402336649929112,2.57
+Glucose,mean-effect,GO:0055085,transmembrane transport,585,215,5.070480002857271,8.82
+Glucose,mean-effect,GO:0005975,carbohydrate metabolic process,313,182,3.5837097999116123,3.13
+Glucose,mean-effect,GO:0098754,detoxification,75,47,2.682237868287922,2.11
+Glucose,mean-effect,GO:0006974,DNA damage response,239,154,2.4178524454119037,4.99
+Glucose,mean-effect,GO:1901700,response to oxygen-containing compound,74,49,1.9600448440301745,2.22
+Glucose,enhancing,GO:0016226,iron-sulfur cluster assembly,4,4,0.02983780081388634,4.58
+Glucose,enhancing,GO:0000910,cytokinesis,3,2,0.0022538077198945585,2.23
+Galactose,essential,GO:0006412,translation,78,78,10.262669238250886,3.09
+Galactose,essential,GO:0044283,small molecule biosynthetic process,104,102,9.96966567865519,2.62
+Galactose,essential,GO:0009150,purine ribonucleotide metabolic process,20,20,5.327971875774532,3.42
+Galactose,essential,GO:0010628,positive regulation of gene expression,14,13,2.1012823365923268,2.33
+Galactose,essential,GO:0046112,nucleobase biosynthetic process,11,11,0.8709193950992262,5.59
+Galactose,important,GO:0006974,DNA damage response,26,17,1.474182471115796,2.04
+Galactose,important,GO:0061024,membrane organization,7,6,1.3614944197300092,2.15
+Galactose,important,GO:0010468,regulation of gene expression,43,34,1.1696472744403457,2.37
+Galactose,important,GO:0006099,tricarboxylic acid cycle,6,6,0.7335103662207146,2.05
+Galactose,important,GO:0072528,pyrimidine-containing compound biosynthetic process,10,4,0.19899368579575435,4.01
+Galactose,mean-effect,GO:0006950,response to stress,503,327,14.07180198946631,2.52
+Galactose,mean-effect,GO:0055085,transmembrane transport,575,203,9.239566038311132,7.1
+Galactose,mean-effect,GO:0009056,catabolic process,452,270,7.554386065853186,2.22
+Galactose,mean-effect,GO:0098754,detoxification,75,47,3.5957078464919228,4.06
+Galactose,mean-effect,GO:0006935,chemotaxis,34,15,1.8978018831539283,2.12
+Galactose,enhancing,GO:0010629,negative regulation of gene expression,5,5,0.35934256395882336,3.9
+Galactose,enhancing,GO:0006355,regulation of DNA-templated transcription,11,10,0.15597425887424624,3.58

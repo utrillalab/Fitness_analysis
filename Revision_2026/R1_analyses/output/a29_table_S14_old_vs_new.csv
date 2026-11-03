@@ -1,0 +1,31 @@
+GO.ID,term,Core_mean_effect.pvalue,"Proteome fraction (glucose, %)",In original Table S14
+GO:0055085,transmembrane transport,1.564059e-10,1.32,yes
+GO:0051716,cellular response to stimulus,0.00286651,1.138,new
+GO:0098657,import into cell,0.002310313,0.794,new
+GO:0030001,metal ion transport,0.0006324242,0.501,yes
+GO:0098655,monoatomic cation transmembrane transport,0.002310313,0.428,new
+GO:0008643,carbohydrate transport,0.003381607,0.154,yes
+GO:0016052,carbohydrate catabolic process,0.006244566,0.13,new
+GO:0072329,monocarboxylic acid catabolic process,0.008698821,0.065,yes
+GO:0006281,DNA repair,0.0001296853,0.055,yes
+GO:0009061,anaerobic respiration,0.005290171,0.047,yes
+GO:0042908,xenobiotic transport,0.009674765,0.028,yes
+GO:0016042,lipid catabolic process,0.004450519,0.027,yes
+GO:0015944,formate oxidation,8.3052e-08,0.005,new
+GO:0042128,nitrate assimilation,0.009344229,0.004,new
+GO:0043709,cell adhesion involved in single-species biofilm formation,0.001777895,0.002,yes
+GO:0009297,pilus assembly,0.003785093,0.001,new
+GO:0019645,anaerobic electron transport chain,2.140843e-08,0.001,new
+GO:0032940,secretion by cell,0.008656576,0.0,new
+GO:0006935,chemotaxis,0.007589867,0.0,new
+GO:0008645,hexose transmembrane transport,0.003249968,0.0,new
+GO:2001057,reactive nitrogen species metabolic process,,,only in original
+GO:0030031,cell projection assembly,,,only in original
+GO:0043711,pilus organization,,,only in original
+GO:0072523,purine-containing compound catabolic process,,,only in original
+GO:1901136,carbohydrate derivative catabolic process,,,only in original
+GO:0034220,monoatomic ion transmembrane transport,,,only in original
+GO:0034219,carbohydrate transmembrane transport,,,only in original
+GO:0046942,carboxylic acid transport,,,only in original
+GO:0006974,cellular response to DNA damage stimulus,,,only in original
+GO:0022900,electron transport chain,,,only in original

@@ -1,0 +1,98 @@
+Category,Species,GO,Term,Theme,Annotated,Significant,PValue
+Fitness-enhancing,C. crescentus,GO:0043605,amide catabolic process,Catabolism,10,8,6.1e-06
+Fitness-enhancing,C. crescentus,GO:0009063,amino acid catabolic process,Catabolism,40,19,4.6e-05
+Fitness-enhancing,C. crescentus,GO:1901606,alpha-amino acid catabolic process,Catabolism,33,17,6.1e-05
+Fitness-enhancing,C. crescentus,GO:0006546,glycine catabolic process,Catabolism,4,4,0.00043
+Fitness-enhancing,C. crescentus,GO:0071973,bacterial-type flagellum-dependent cell ...,"Motility, chemotaxis and adhesion",18,12,5.6e-07
+Fitness-enhancing,C. crescentus,GO:0006935,chemotaxis,"Motility, chemotaxis and adhesion",35,16,7.3e-06
+Fitness-enhancing,C. crescentus,GO:0006536,glutamate metabolic process,Other metabolic processes,12,7,0.00052
+Fitness-enhancing,C. crescentus,GO:0000160,phosphorelay signal transduction system,Signalling and regulation,41,16,8.2e-05
+Fitness-enhancing,C. crescentus,GO:0045892,negative regulation of DNA-templated tra...,Signalling and regulation,18,9,0.00036
+Fitness-enhancing,D. shibae,GO:0019305,dTDP-rhamnose biosynthetic process,Biosynthesis,2,2,0.00018
+Fitness-enhancing,P. fluorescens,GO:0009250,glucan biosynthetic process,Biosynthesis,6,2,0.00048
+Fitness-enhancing,P. fluorescens,GO:0044780,bacterial-type flagellum assembly,"Motility, chemotaxis and adhesion",10,4,1.6e-07
+Fitness-enhancing,S. meliloti,GO:0001522,pseudouridine synthesis,Other,6,3,4.1e-05
+Mean-effect,C. crescentus,GO:0006508,proteolysis,Proteolysis and protein secretion,101,58,5.6e-07
+Mean-effect,C. crescentus,GO:0006352,DNA-templated transcription initiation,Signalling and regulation,20,15,0.0002
+Mean-effect,C. crescentus,GO:0006281,DNA repair,Stress response and DNA repair,56,37,6.4e-07
+Mean-effect,D. shibae,GO:0044282,small molecule catabolic process,Catabolism,102,89,2.7e-05
+Mean-effect,D. shibae,GO:0009063,amino acid catabolic process,Catabolism,30,27,0.00013
+Mean-effect,D. shibae,GO:1901575,organic substance catabolic process,Catabolism,187,148,0.0003
+Mean-effect,D. shibae,GO:1901361,organic cyclic compound catabolic proces...,Catabolism,46,38,0.00031
+Mean-effect,D. shibae,GO:1901606,alpha-amino acid catabolic process,Catabolism,27,24,0.0005
+Mean-effect,D. shibae,GO:0044248,cellular catabolic process,Catabolism,120,99,0.0007
+Mean-effect,D. shibae,GO:0072329,monocarboxylic acid catabolic process,Catabolism,33,28,0.00088
+Mean-effect,D. shibae,GO:0071973,bacterial-type flagellum-dependent cell ...,"Motility, chemotaxis and adhesion",15,15,0.00027
+Mean-effect,D. shibae,GO:0051716,cellular response to stimulus,Stress response and DNA repair,115,85,0.00019
+Mean-effect,D. shibae,GO:0055085,transmembrane transport,Transport,142,109,9e-07
+Mean-effect,D. shibae,GO:0006865,amino acid transport,Transport,29,28,2.7e-06
+Mean-effect,E. coli,GO:0044282,small molecule catabolic process,Catabolism,301,272,4.278808e-05
+Mean-effect,E. coli,GO:0042402,biogenic amine catabolic process,Catabolism,30,30,0.0002073545
+Mean-effect,E. coli,GO:0072329,monocarboxylic acid catabolic process,Catabolism,102,91,0.0003420147
+Mean-effect,E. coli,GO:0046395,carboxylic acid catabolic process,Catabolism,181,162,0.0007210761
+Mean-effect,E. coli,GO:1900190,regulation of single-species biofilm formation,"Motility, chemotaxis and adhesion",32,32,0.000117438
+Mean-effect,E. coli,GO:1902021,regulation of bacterial-type flagellum-dependent cell motility,"Motility, chemotaxis and adhesion",26,26,0.0006456734
+Mean-effect,E. coli,GO:0005975,carbohydrate metabolic process,Other metabolic processes,370,313,0.0007350014
+Mean-effect,E. coli,GO:0006974,DNA damage response,Stress response and DNA repair,279,239,1.023903e-05
+Mean-effect,E. coli,GO:0055085,transmembrane transport,Transport,665,585,1.527285e-09
+Mean-effect,E. coli,GO:0019645,anaerobic electron transport chain,Transport,48,48,1.22579e-06
+Mean-effect,E. coli,GO:0015718,monocarboxylic acid transport,Transport,44,43,5.973024e-05
+Mean-effect,E. coli,GO:1902475,L-alpha-amino acid transmembrane transport,Transport,40,39,0.0001708579
+Mean-effect,E. coli,GO:0089718,amino acid import across plasma membrane,Transport,30,30,0.0002073545
+Mean-effect,E. coli,GO:0034219,carbohydrate transmembrane transport,Transport,112,103,0.000392461
+Mean-effect,E. coli,GO:0015850,organic hydroxy compound transport,Transport,44,42,0.0004561039
+Mean-effect,E. coli,GO:0071705,nitrogen compound transport,Transport,209,187,0.0006942562
+Mean-effect,E. coli,GO:0006814,sodium ion transport,Transport,25,25,0.0008574951
+Mean-effect,E. vietnamensis,GO:1901136,carbohydrate derivative catabolic proces...,Catabolism,30,29,4.8e-05
+Mean-effect,E. vietnamensis,GO:0044248,cellular catabolic process,Catabolism,106,87,8.5e-05
+Mean-effect,E. vietnamensis,GO:0044282,small molecule catabolic process,Catabolism,97,79,0.00031
+Mean-effect,E. vietnamensis,GO:0016052,carbohydrate catabolic process,Catabolism,87,76,0.00042
+Mean-effect,E. vietnamensis,GO:0045493,xylan catabolic process,Catabolism,23,22,0.00075
+Mean-effect,E. vietnamensis,GO:1901565,organonitrogen compound catabolic proces...,Catabolism,81,66,0.00098
+Mean-effect,E. vietnamensis,GO:0005975,carbohydrate metabolic process,Other metabolic processes,266,231,1.2e-12
+Mean-effect,E. vietnamensis,GO:0006508,proteolysis,Proteolysis and protein secretion,97,82,1.5e-05
+Mean-effect,E. vietnamensis,GO:0006352,DNA-templated transcription initiation,Signalling and regulation,49,45,1.6e-05
+Mean-effect,E. vietnamensis,GO:0007154,cell communication,Signalling and regulation,48,42,0.00047
+Mean-effect,E. vietnamensis,GO:0051716,cellular response to stimulus,Stress response and DNA repair,113,97,0.00012
+Mean-effect,E. vietnamensis,GO:0006974,DNA damage response,Stress response and DNA repair,62,52,0.00094
+Mean-effect,P. fluorescens,GO:0009063,amino acid catabolic process,Catabolism,70,62,0.00015
+Mean-effect,P. fluorescens,GO:1901606,alpha-amino acid catabolic process,Catabolism,56,50,0.00044
+Mean-effect,P. fluorescens,GO:0006935,chemotaxis,"Motility, chemotaxis and adhesion",79,71,1.4e-05
+Mean-effect,P. fluorescens,GO:0043708,cell adhesion involved in biofilm format...,"Motility, chemotaxis and adhesion",20,20,0.00071
+Mean-effect,P. fluorescens,GO:0007165,signal transduction,Signalling and regulation,132,110,0.00018
+Mean-effect,P. fluorescens,GO:0042221,response to chemical,Stress response and DNA repair,164,144,0.00023
+Mean-effect,P. fluorescens,GO:0006865,amino acid transport,Transport,69,63,1.3e-05
+Mean-effect,P. fluorescens,GO:0015695,organic cation transport,Transport,27,27,5.5e-05
+Mean-effect,P. fluorescens,GO:0015697,quaternary ammonium group transport,Transport,23,23,0.00024
+Mean-effect,P. fluorescens,GO:0072337,modified amino acid transport,Transport,22,22,0.00034
+Mean-effect,P. fluorescens,GO:0055085,transmembrane transport,Transport,197,157,0.00071
+Mean-effect,P. fluorescens,GO:0015833,peptide transport,Transport,32,30,0.00099
+Mean-effect,P. putida,GO:0009063,amino acid catabolic process,Catabolism,61,58,2.4e-06
+Mean-effect,P. putida,GO:1901606,alpha-amino acid catabolic process,Catabolism,54,51,1.9e-05
+Mean-effect,P. putida,GO:0072329,monocarboxylic acid catabolic process,Catabolism,70,64,3e-05
+Mean-effect,P. putida,GO:0044242,cellular lipid catabolic process,Catabolism,43,40,0.00043
+Mean-effect,P. putida,GO:0009056,catabolic process,Catabolism,311,268,0.00064
+Mean-effect,P. putida,GO:0071973,bacterial-type flagellum-dependent cell ...,"Motility, chemotaxis and adhesion",38,37,3.9e-05
+Mean-effect,P. putida,GO:0006935,chemotaxis,"Motility, chemotaxis and adhesion",52,48,0.00018
+Mean-effect,P. putida,GO:0007155,cell adhesion,"Motility, chemotaxis and adhesion",24,24,0.00029
+Mean-effect,P. putida,GO:0042537,benzene-containing compound metabolic pr...,Other metabolic processes,26,26,0.00014
+Mean-effect,P. putida,GO:0007165,signal transduction,Signalling and regulation,89,80,1.5e-05
+Mean-effect,P. putida,GO:0006355,regulation of DNA-templated transcriptio...,Signalling and regulation,140,116,0.00083
+Mean-effect,P. putida,GO:0042221,response to chemical,Stress response and DNA repair,145,134,4.3e-05
+Mean-effect,P. putida,GO:0010033,response to organic substance,Stress response and DNA repair,21,21,0.0008
+Mean-effect,P. putida,GO:0006865,amino acid transport,Transport,59,59,1.6e-09
+Mean-effect,P. putida,GO:0055085,transmembrane transport,Transport,170,142,9.4e-05
+Mean-effect,P. putida,GO:0140352,export from cell,Transport,40,38,0.00018
+Mean-effect,P. simiae,GO:0006865,amino acid transport,Transport,28,28,0.00014
+Mean-effect,S. meliloti,GO:0006171,cAMP biosynthetic process,Biosynthesis,17,17,0.00054
+Mean-effect,S. meliloti,GO:0009063,amino acid catabolic process,Catabolism,60,54,4.8e-06
+Mean-effect,S. meliloti,GO:1901606,alpha-amino acid catabolic process,Catabolism,42,39,1.8e-05
+Mean-effect,S. meliloti,GO:0006935,chemotaxis,"Motility, chemotaxis and adhesion",25,24,0.00023
+Mean-effect,S. meliloti,GO:0035556,intracellular signal transduction,Signalling and regulation,76,64,8.9e-05
+Mean-effect,S. meliloti,GO:0007165,signal transduction,Signalling and regulation,103,89,0.00065
+Mean-effect,S. meliloti,GO:0050896,response to stimulus,Stress response and DNA repair,333,260,0.00071
+Mean-effect,S. meliloti,GO:0055085,transmembrane transport,Transport,277,236,3.2e-16
+Mean-effect,S. meliloti,GO:0006865,amino acid transport,Transport,52,47,1.6e-05
+Mean-effect,S. meliloti,GO:0015695,organic cation transport,Transport,24,24,2.4e-05
+Mean-effect,S. meliloti,GO:0015833,peptide transport,Transport,75,63,0.00012
+Mean-effect,S. meliloti,GO:0015849,organic acid transport,Transport,68,63,0.00074

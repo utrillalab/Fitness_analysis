@@ -1,0 +1,21 @@
+# Public data: not redistributed. Download them from the sources listed in README.md (section "Public input data")
+# and place them at these paths before running the scripts.
+Input_Data_Price2018/
+Input_Data_Putida/
+Input_Data_ALEdb/
+external/essential_lists/41589_2020_593_MOESM2_ESM.xlsx
+external/Pp_FigureS5_share/data/raw/fit_organism_Putida.tsv
+external/Pp_FigureS5_share/data/raw/GCA_000007565_feature_table.txt
+external/Pp_FigureS5_share/data/raw/GSE85475_KBojanovic_Processed_data_Stress.xlsx
+external/LTEE-Ecoli/
+
+# Intermediate files: the final tables are in ../Supplementary_Data/ (build_supp_tables.py also writes a copy here)
+Table_*.xlsx
+Tables_*.xlsx
+Supplementary_Tables_revised.xlsx
+Supplementary_Data/
+# Drafts and diagnostics not used in the article
+R1_analyses/output/Fig_S1_revised_draft_*
+R1_analyses/output/Fig_S1_condition_specificity.*
+R1_analyses/output/Fig_S1_mass_boxplots.*
+R1_analyses/output/Fig03_dotplot_repo_buggy.*

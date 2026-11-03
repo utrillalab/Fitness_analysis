@@ -1,0 +1,27 @@
+level	category	name	top_n	top_%	rest_n	rest_%	odds_ratio	p	FDR
+COG group	CELLULAR PROCESSES		44	35.77	850	26.63	1.535	0.02942	0.1177
+COG group	METABOLISM		43	34.96	1392	43.61	0.695	0.06351	0.127
+COG group	POORLY CHARACTERIZED		11	8.943	365	11.43	0.7607	0.4695	0.5544
+COG group	INFORMATION		25	20.33	585	18.33	1.137	0.5544	0.5544
+COG letter	O	Posttranslational	12	9.756	112	3.509	2.973	0.001845	0.02429
+COG letter	M	Cell wall	16	13.01	176	5.514	2.562	0.002209	0.02429
+COG letter	J	Translation	11	8.943	113	3.54	2.676	0.005619	0.0412
+COG letter	H	Coenzyme	1	0.813	130	4.073	0.1931	0.0921	0.5066
+COG letter	R	General function	4	3.252	220	6.892	0.4541	0.1412	0.54
+COG letter	D	Cell division	3	2.439	33	1.034	2.393	0.1473	0.54
+COG letter	L	Replication	1	0.813	108	3.383	0.2341	0.1887	0.5724
+COG letter	Q	Secondary metabolites	5	4.065	72	2.256	1.836	0.2081	0.5724
+COG letter	C	Energy	4	3.252	191	5.984	0.5281	0.2451	0.5991
+COG letter	I	Lipid	4	3.252	189	5.921	0.5341	0.3223	0.6564
+COG letter	V	Defense mechanisms	2	1.626	123	3.853	0.4124	0.3282	0.6564
+COG letter	T	Signal transduction	6	4.878	235	7.362	0.6453	0.3767	0.6761
+COG letter	X	Mobilome	0	0	47	1.472	0	0.4195	0.6761
+COG letter	G	Carbohydrate	9	7.317	183	5.733	1.298	0.4302	0.6761
+COG letter	S	Function unknown	7	5.691	145	4.543	1.268	0.508	0.7451
+COG letter	P	Inorganic ion	6	4.878	211	6.61	0.7245	0.5773	0.7937
+COG letter	U	Intracellular trafficking	2	1.626	50	1.566	1.039	0.7193	0.8616
+COG letter	F	Nucleotide	1	0.813	62	1.942	0.4138	0.7301	0.8616
+COG letter	N	Cell motility	3	2.439	67	2.099	1.166	0.7441	0.8616
+COG letter	K	Transcription	13	10.57	364	11.4	0.9182	0.8853	0.9738
+COG letter	W	Extracellular structures	0	0	7	0.2193	0	1	1
+COG letter	E	Amino acid	13	10.57	354	11.09	0.9475	1	1

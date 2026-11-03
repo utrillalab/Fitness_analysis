@@ -1,0 +1,647 @@
+condition,GO.ID,term,p_with_287,p_without_287
+Glucose,GO:0000027,ribosomal large subunit assembly,3.056074e-08,
+Glucose,GO:0000096,sulfur amino acid metabolic process,0.003489263,0.00255857
+Glucose,GO:0000917,division septum assembly,7.896975e-05,
+Glucose,GO:0002181,cytoplasmic translation,2.274651e-26,
+Glucose,GO:0006206,pyrimidine nucleobase metabolic process,,0.000140461
+Glucose,GO:0006221,pyrimidine nucleotide biosynthetic process,1.879947e-05,1.701294e-05
+Glucose,GO:0006261,DNA-templated DNA replication,0.0002419512,
+Glucose,GO:0006412,translation,0.001019895,
+Glucose,GO:0006418,tRNA aminoacylation for protein translation,5.008957e-15,
+Glucose,GO:0006525,arginine metabolic process,,9.297535e-06
+Glucose,GO:0006534,cysteine metabolic process,,0.0008078282
+Glucose,GO:0006553,lysine metabolic process,0.000200833,0.006581091
+Glucose,GO:0006576,biogenic amine metabolic process,,0.00627214
+Glucose,GO:0006633,fatty acid biosynthetic process,1.972897e-05,
+Glucose,GO:0006650,glycerophospholipid metabolic process,0.003365551,
+Glucose,GO:0008033,tRNA processing,0.003755486,
+Glucose,GO:0008360,regulation of cell shape,4.557165e-06,
+Glucose,GO:0008652,amino acid biosynthetic process,3.811143e-05,1.316337e-11
+Glucose,GO:0008654,phospholipid biosynthetic process,6.056135e-07,
+Glucose,GO:0009067,aspartate family amino acid biosynthetic process,3.669501e-07,4.103287e-07
+Glucose,GO:0009070,serine family amino acid biosynthetic process,0.0004791134,8.731697e-07
+Glucose,GO:0009073,aromatic amino acid family biosynthetic process,5.01848e-14,1.646303e-23
+Glucose,GO:0009079,pyruvate family amino acid biosynthetic process,0.001189498,3.675258e-07
+Glucose,GO:0009082,branched-chain amino acid biosynthetic process,1.879947e-05,4.305404e-09
+Glucose,GO:0009084,L-glutamine family amino acid biosynthetic process,1.095205e-05,1.025702e-10
+Glucose,GO:0009150,purine ribonucleotide metabolic process,0.002581001,
+Glucose,GO:0009152,purine ribonucleotide biosynthetic process,0.0001223987,5.469879e-08
+Glucose,GO:0009156,ribonucleoside monophosphate biosynthetic process,1.489316e-06,1.000332e-07
+Glucose,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,2.391233e-06,4.305404e-09
+Glucose,GO:0009185,ribonucleoside diphosphate metabolic process,0.0001252546,
+Glucose,GO:0009245,lipid A biosynthetic process,0.0001925184,
+Glucose,GO:0009252,peptidoglycan biosynthetic process,1.919636e-06,
+Glucose,GO:0009260,ribonucleotide biosynthetic process,2.364088e-07,1.88169e-07
+Glucose,GO:0010628,positive regulation of gene expression,0.005136942,
+Glucose,GO:0015949,nucleobase-containing small molecule interconversion,0.003365551,
+Glucose,GO:0017148,negative regulation of translation,0.00195615,
+Glucose,GO:0022411,cellular component disassembly,0.009027684,
+Glucose,GO:0022618,protein-RNA complex assembly,1.176621e-06,
+Glucose,GO:0031564,transcription antitermination,0.000200833,
+Glucose,GO:0033014,tetrapyrrole biosynthetic process,0.0004791134,
+Glucose,GO:0042168,heme metabolic process,0.001727394,
+Glucose,GO:0042255,ribosome assembly,8.96998e-07,
+Glucose,GO:0042274,ribosomal small subunit biogenesis,7.720411e-05,
+Glucose,GO:0042364,water-soluble vitamin biosynthetic process,1.022563e-05,0.003683592
+Glucose,GO:0043650,dicarboxylic acid biosynthetic process,6.87047e-08,4.181618e-05
+Glucose,GO:0044272,sulfur compound biosynthetic process,2.051473e-08,3.090211e-05
+Glucose,GO:0044283,small molecule biosynthetic process,0.002744771,
+Glucose,GO:0045229,external encapsulating structure organization,0.002854058,
+Glucose,GO:0046112,nucleobase biosynthetic process,3.251961e-06,7.685743e-10
+Glucose,GO:0051276,chromosome organization,0.007808051,
+Glucose,GO:0051301,cell division,0.003091804,
+Glucose,GO:0051668,localization within membrane,1.251846e-07,
+Glucose,GO:0065008,regulation of biological quality,0.006181565,
+Glucose,GO:0072522,purine-containing compound biosynthetic process,1.48241e-05,
+Glucose,GO:0072525,pyridine-containing compound biosynthetic process,0.003365551,
+Glucose,GO:0170034,L-amino acid biosynthetic process,1.336151e-13,1.5595720000000002e-23
+Glucose,GO:0170038,proteinogenic amino acid biosynthetic process,2.806505e-13,3.195871e-23
+Glucose,GO:0170041,non-proteinogenic amino acid metabolic process,,0.001033571
+Glucose,GO:1901293,nucleoside phosphate biosynthetic process,2.589426e-06,
+LB,GO:0000027,ribosomal large subunit assembly,6.13145e-12,
+LB,GO:0000917,division septum assembly,2.419265e-06,
+LB,GO:0002181,cytoplasmic translation,9.047334999999999e-30,
+LB,GO:0006261,DNA-templated DNA replication,2.257726e-06,
+LB,GO:0006412,translation,4.179732e-05,
+LB,GO:0006418,tRNA aminoacylation for protein translation,2.0569700000000003e-18,
+LB,GO:0006633,fatty acid biosynthetic process,2.796448e-06,
+LB,GO:0006650,glycerophospholipid metabolic process,0.001528171,
+LB,GO:0007059,chromosome segregation,0.0002511715,
+LB,GO:0008033,tRNA processing,0.008690529,
+LB,GO:0008360,regulation of cell shape,8.215245e-08,
+LB,GO:0008654,phospholipid biosynthetic process,1.818441e-08,
+LB,GO:0009165,nucleotide biosynthetic process,0.008876387,
+LB,GO:0009185,ribonucleoside diphosphate metabolic process,3.449339e-05,
+LB,GO:0009245,lipid A biosynthetic process,6.350594e-06,
+LB,GO:0009252,peptidoglycan biosynthetic process,2.461951e-08,
+LB,GO:0010628,positive regulation of gene expression,0.007542081,
+LB,GO:0017148,negative regulation of translation,0.0001064273,
+LB,GO:0022411,cellular component disassembly,0.003583509,
+LB,GO:0022618,protein-RNA complex assembly,1.596716e-08,
+LB,GO:0031564,transcription antitermination,8.789152e-06,
+LB,GO:0033014,tetrapyrrole biosynthetic process,0.001139519,
+LB,GO:0042168,heme metabolic process,0.000832883,
+LB,GO:0042254,ribosome biogenesis,,0.005185805
+LB,GO:0042255,ribosome assembly,8.599219e-09,
+LB,GO:0042274,ribosomal small subunit biogenesis,1.78198e-06,
+LB,GO:0042364,water-soluble vitamin biosynthetic process,0.001721894,
+LB,GO:0043093,FtsZ-dependent cytokinesis,0.0005591928,
+LB,GO:0043650,dicarboxylic acid biosynthetic process,0.001267249,
+LB,GO:0044272,sulfur compound biosynthetic process,0.0004470365,
+LB,GO:0045229,external encapsulating structure organization,0.00533765,
+LB,GO:0046677,response to antibiotic,0.001120207,
+LB,GO:0051276,chromosome organization,0.0006476268,
+LB,GO:0051301,cell division,0.0001054323,
+LB,GO:0051668,localization within membrane,1.037561e-09,
+LB,GO:0061024,membrane organization,0.0008689215,
+LB,GO:0065008,regulation of biological quality,0.00637729,
+LB,GO:0071555,cell wall organization,0.001151055,
+LB,GO:0072522,purine-containing compound biosynthetic process,0.0001773915,
+LB,GO:1901293,nucleoside phosphate biosynthetic process,3.872884e-07,
+Glucosamine,GO:0000027,ribosomal large subunit assembly,4.38465e-08,
+Glucosamine,GO:0000096,sulfur amino acid metabolic process,0.004137568,0.003180953
+Glucosamine,GO:0000917,division septum assembly,9.793475e-05,
+Glucosamine,GO:0002181,cytoplasmic translation,6.715572e-26,
+Glucosamine,GO:0006081,aldehyde metabolic process,0.005300446,0.008157848
+Glucosamine,GO:0006206,pyrimidine nucleobase metabolic process,,0.0002223068
+Glucosamine,GO:0006221,pyrimidine nucleotide biosynthetic process,2.390531e-05,2.749852e-05
+Glucosamine,GO:0006261,DNA-templated DNA replication,0.0003193727,
+Glucosamine,GO:0006412,translation,0.0003898843,
+Glucosamine,GO:0006418,tRNA aminoacylation for protein translation,8.196947e-15,
+Glucosamine,GO:0006525,arginine metabolic process,0.005375456,1.528519e-06
+Glucosamine,GO:0006534,cysteine metabolic process,,0.001126863
+Glucosamine,GO:0006553,lysine metabolic process,0.0002436458,0.008510152
+Glucosamine,GO:0006633,fatty acid biosynthetic process,0.0001466694,
+Glucosamine,GO:0006650,glycerophospholipid metabolic process,0.003938646,
+Glucosamine,GO:0007059,chromosome segregation,0.0008498507,
+Glucosamine,GO:0008360,regulation of cell shape,6.528201e-06,
+Glucosamine,GO:0008652,amino acid biosynthetic process,5.141422e-05,5.353101e-11
+Glucosamine,GO:0008654,phospholipid biosynthetic process,8.616531e-07,
+Glucosamine,GO:0009058,biosynthetic process,0.0004457904,
+Glucosamine,GO:0009067,aspartate family amino acid biosynthetic process,5.018368e-07,7.687419e-07
+Glucosamine,GO:0009070,serine family amino acid biosynthetic process,0.0005779058,1.53128e-06
+Glucosamine,GO:0009073,aromatic amino acid family biosynthetic process,1.448434e-11,1.4180679999999998e-19
+Glucosamine,GO:0009079,pyruvate family amino acid biosynthetic process,0.001403799,6.480224e-07
+Glucosamine,GO:0009082,branched-chain amino acid biosynthetic process,2.390531e-05,8.83854e-09
+Glucosamine,GO:0009084,L-glutamine family amino acid biosynthetic process,1.676577e-06,8.452868e-12
+Glucosamine,GO:0009150,purine ribonucleotide metabolic process,0.003041639,
+Glucosamine,GO:0009152,purine ribonucleotide biosynthetic process,0.0006616431,1.227168e-06
+Glucosamine,GO:0009156,ribonucleoside monophosphate biosynthetic process,1.897835e-06,1.825097e-07
+Glucosamine,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,2.390531e-05,1.548163e-07
+Glucosamine,GO:0009185,ribonucleoside diphosphate metabolic process,0.0001548805,
+Glucosamine,GO:0009226,nucleotide-sugar biosynthetic process,0.000381554,
+Glucosamine,GO:0009244,lipopolysaccharide core region biosynthetic process,,0.003902002
+Glucosamine,GO:0009245,lipid A biosynthetic process,0.0002373591,
+Glucosamine,GO:0009252,peptidoglycan biosynthetic process,2.812264e-06,
+Glucosamine,GO:0009260,ribonucleotide biosynthetic process,3.102087e-07,3.439988e-07
+Glucosamine,GO:0010628,positive regulation of gene expression,0.005742107,
+Glucosamine,GO:0015949,nucleobase-containing small molecule interconversion,0.003938646,
+Glucosamine,GO:0017148,negative regulation of translation,0.002332725,
+Glucosamine,GO:0022618,protein-RNA complex assembly,1.53162e-06,
+Glucosamine,GO:0031564,transcription antitermination,0.0002436458,
+Glucosamine,GO:0033014,tetrapyrrole biosynthetic process,0.0005779058,
+Glucosamine,GO:0042168,heme metabolic process,0.002032873,
+Glucosamine,GO:0042255,ribosome assembly,1.19157e-06,
+Glucosamine,GO:0042274,ribosomal small subunit biogenesis,9.730243e-05,
+Glucosamine,GO:0042364,water-soluble vitamin biosynthetic process,1.514208e-05,0.005750423
+Glucosamine,GO:0043650,dicarboxylic acid biosynthetic process,9.988148e-08,7.081758e-05
+Glucosamine,GO:0044272,sulfur compound biosynthetic process,3.422132e-08,6.121476e-05
+Glucosamine,GO:0044283,small molecule biosynthetic process,0.001469789,
+Glucosamine,GO:0045229,external encapsulating structure organization,0.003931849,
+Glucosamine,GO:0046112,nucleobase biosynthetic process,4.172392e-06,1.591006e-09
+Glucosamine,GO:0051259,protein complex oligomerization,,0.005238767
+Glucosamine,GO:0051276,chromosome organization,0.002332725,
+Glucosamine,GO:0051301,cell division,0.004046382,
+Glucosamine,GO:0051668,localization within membrane,1.689585e-07,
+Glucosamine,GO:0065008,regulation of biological quality,0.007695003,
+Glucosamine,GO:0072522,purine-containing compound biosynthetic process,3.316437e-06,
+Glucosamine,GO:0072524,pyridine-containing compound metabolic process,,0.008981566
+Glucosamine,GO:0072525,pyridine-containing compound biosynthetic process,0.003938646,
+Glucosamine,GO:0170034,L-amino acid biosynthetic process,2.633595e-11,1.4200649999999998e-19
+Glucosamine,GO:0170038,proteinogenic amino acid biosynthetic process,4.963588e-11,2.6371169999999997e-19
+Glucosamine,GO:0170041,non-proteinogenic amino acid metabolic process,,0.001514153
+Glucosamine,GO:1901293,nucleoside phosphate biosynthetic process,6.528884e-06,
+Glycerol,GO:0000027,ribosomal large subunit assembly,2.541338e-08,
+Glycerol,GO:0000096,sulfur amino acid metabolic process,0.003197228,0.002278825
+Glycerol,GO:0000917,division septum assembly,7.073991e-05,
+Glycerol,GO:0002181,cytoplasmic translation,1.308471e-26,
+Glycerol,GO:0006099,tricarboxylic acid cycle,,0.006124279
+Glycerol,GO:0006206,pyrimidine nucleobase metabolic process,,0.0001099384
+Glycerol,GO:0006221,pyrimidine nucleotide biosynthetic process,1.662666e-05,1.317674e-05
+Glycerol,GO:0006261,DNA-templated DNA replication,0.0002098068,
+Glycerol,GO:0006412,translation,6.076127e-05,
+Glycerol,GO:0006418,tRNA aminoacylation for protein translation,3.896237e-15,
+Glycerol,GO:0006525,arginine metabolic process,,6.962321e-06
+Glycerol,GO:0006534,cysteine metabolic process,,0.0006765943
+Glycerol,GO:0006553,lysine metabolic process,0.000181938,0.005737706
+Glycerol,GO:0006633,fatty acid biosynthetic process,0.0001038409,
+Glycerol,GO:0006650,glycerophospholipid metabolic process,0.003105033,
+Glycerol,GO:0008033,tRNA processing,0.003268704,
+Glycerol,GO:0008360,regulation of cell shape,3.79041e-06,
+Glycerol,GO:0008652,amino acid biosynthetic process,0.0002070291,2.560465e-10
+Glycerol,GO:0008654,phospholipid biosynthetic process,5.056074e-07,
+Glycerol,GO:0009067,aspartate family amino acid biosynthetic process,3.127052e-07,2.937967e-07
+Glycerol,GO:0009070,serine family amino acid biosynthetic process,0.0004352889,6.477346e-07
+Glycerol,GO:0009073,aromatic amino acid family biosynthetic process,6.908645e-12,1.363022e-20
+Glycerol,GO:0009079,pyruvate family amino acid biosynthetic process,0.001092824,2.719034e-07
+Glycerol,GO:0009082,branched-chain amino acid biosynthetic process,0.0001123655,5.82038e-08
+Glycerol,GO:0009084,L-glutamine family amino acid biosynthetic process,9.671834e-06,6.694418e-11
+Glycerol,GO:0009156,ribonucleoside monophosphate biosynthetic process,0.0001072632,4.428463e-06
+Glycerol,GO:0009185,ribonucleoside diphosphate metabolic process,0.0001123655,
+Glycerol,GO:0009226,nucleotide-sugar biosynthetic process,0.007335904,
+Glycerol,GO:0009245,lipid A biosynthetic process,0.0001729599,
+Glycerol,GO:0009252,peptidoglycan biosynthetic process,1.578436e-06,
+Glycerol,GO:0009259,ribonucleotide metabolic process,0.008518953,
+Glycerol,GO:0009260,ribonucleotide biosynthetic process,0.0003467182,1.111641e-05
+Glycerol,GO:0010628,positive regulation of gene expression,0.004797179,
+Glycerol,GO:0017148,negative regulation of translation,0.001787383,
+Glycerol,GO:0022618,protein-RNA complex assembly,1.028296e-06,
+Glycerol,GO:0031564,transcription antitermination,2.508192e-05,
+Glycerol,GO:0033014,tetrapyrrole biosynthetic process,0.002248633,
+Glycerol,GO:0042168,heme metabolic process,0.001589235,
+Glycerol,GO:0042255,ribosome assembly,7.757934e-07,
+Glycerol,GO:0042274,ribosomal small subunit biogenesis,6.858507e-05,
+Glycerol,GO:0042364,water-soluble vitamin biosynthetic process,3.089371e-05,
+Glycerol,GO:0043093,FtsZ-dependent cytokinesis,0.009345927,
+Glycerol,GO:0043648,dicarboxylic acid metabolic process,,0.007834776
+Glycerol,GO:0043650,dicarboxylic acid biosynthetic process,5.674204e-08,3.156582e-05
+Glycerol,GO:0044272,sulfur compound biosynthetic process,7.82235e-08,0.0001199399
+Glycerol,GO:0044283,small molecule biosynthetic process,0.002744771,
+Glycerol,GO:0045229,external encapsulating structure organization,0.002417357,
+Glycerol,GO:0046112,nucleobase biosynthetic process,0.001092824,4.578892e-06
+Glycerol,GO:0051276,chromosome organization,0.007233551,
+Glycerol,GO:0051301,cell division,0.00148107,
+Glycerol,GO:0051668,localization within membrane,1.074129e-07,
+Glycerol,GO:0065008,regulation of biological quality,0.005520903,
+Glycerol,GO:0072522,purine-containing compound biosynthetic process,0.0004177542,
+Glycerol,GO:0072525,pyridine-containing compound biosynthetic process,0.003105033,0.009613232
+Glycerol,GO:0170034,L-amino acid biosynthetic process,1.21175e-11,8.637609e-21
+Glycerol,GO:0170038,proteinogenic amino acid biosynthetic process,2.2941e-11,1.610726e-20
+Glycerol,GO:0170041,non-proteinogenic amino acid metabolic process,,0.0008427985
+Glycerol,GO:1901293,nucleoside phosphate biosynthetic process,2.80186e-05,
+Xylose,GO:0000027,ribosomal large subunit assembly,1.741665e-07,
+Xylose,GO:0000096,sulfur amino acid metabolic process,0.007867645,0.006691067
+Xylose,GO:0000917,division septum assembly,0.0002224324,
+Xylose,GO:0002181,cytoplasmic translation,4.228201e-24,
+Xylose,GO:0006206,pyrimidine nucleobase metabolic process,,0.001045198
+Xylose,GO:0006221,pyrimidine nucleotide biosynthetic process,5.978375e-05,0.0001409411
+Xylose,GO:0006261,DNA-templated DNA replication,0.0002695668,
+Xylose,GO:0006412,translation,0.0001006607,
+Xylose,GO:0006418,tRNA aminoacylation for protein translation,5.444444e-14,
+Xylose,GO:0006525,arginine metabolic process,,0.0001008304
+Xylose,GO:0006534,cysteine metabolic process,,0.003485401
+Xylose,GO:0006553,lysine metabolic process,0.0005088876,
+Xylose,GO:0006633,fatty acid biosynthetic process,6.768269e-05,
+Xylose,GO:0006650,glycerophospholipid metabolic process,0.007141472,
+Xylose,GO:0007059,chromosome segregation,0.00171302,
+Xylose,GO:0008033,tRNA processing,0.006018432,
+Xylose,GO:0008360,regulation of cell shape,2.540033e-05,
+Xylose,GO:0008652,amino acid biosynthetic process,0.0001301739,2.073526e-09
+Xylose,GO:0008654,phospholipid biosynthetic process,3.288961e-06,
+Xylose,GO:0009060,aerobic respiration,,0.003055649
+Xylose,GO:0009067,aspartate family amino acid biosynthetic process,1.659165e-06,6.519958e-06
+Xylose,GO:0009070,serine family amino acid biosynthetic process,0.001178704,1.042697e-05
+Xylose,GO:0009073,aromatic amino acid family biosynthetic process,7.112452e-13,3.065701e-20
+Xylose,GO:0009079,pyruvate family amino acid biosynthetic process,8.151973e-05,1.929764e-08
+Xylose,GO:0009082,branched-chain amino acid biosynthetic process,1.078914e-06,3.509437e-10
+Xylose,GO:0009084,L-glutamine family amino acid biosynthetic process,4.735586e-06,1.760804e-10
+Xylose,GO:0009150,purine ribonucleotide metabolic process,0.001011636,
+Xylose,GO:0009152,purine ribonucleotide biosynthetic process,9.982263e-05,1.743048e-07
+Xylose,GO:0009156,ribonucleoside monophosphate biosynthetic process,4.327787e-06,1.118893e-06
+Xylose,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,8.724682e-06,1.035835e-07
+Xylose,GO:0009185,ribonucleoside diphosphate metabolic process,5.978375e-05,
+Xylose,GO:0009226,nucleotide-sugar biosynthetic process,0.003771638,
+Xylose,GO:0009244,lipopolysaccharide core region biosynthetic process,0.004539675,0.000329217
+Xylose,GO:0009245,lipid A biosynthetic process,0.0005262524,
+Xylose,GO:0009252,peptidoglycan biosynthetic process,1.191587e-05,
+Xylose,GO:0009260,ribonucleotide biosynthetic process,7.645694e-07,2.030405e-06
+Xylose,GO:0010628,positive regulation of gene expression,0.008694574,
+Xylose,GO:0015949,nucleobase-containing small molecule interconversion,0.007141472,
+Xylose,GO:0017148,negative regulation of translation,0.004539675,
+Xylose,GO:0022411,cellular component disassembly,0.005390426,
+Xylose,GO:0022618,protein-RNA complex assembly,4.194019e-06,
+Xylose,GO:0031564,transcription antitermination,8.151973e-05,
+Xylose,GO:0033014,tetrapyrrole biosynthetic process,0.001178704,
+Xylose,GO:0033214,siderophore-iron import into cell,,0.006628663
+Xylose,GO:0042168,heme metabolic process,0.003771638,
+Xylose,GO:0042255,ribosome assembly,3.521132e-06,
+Xylose,GO:0042274,ribosomal small subunit biogenesis,4.265736e-05,
+Xylose,GO:0042364,water-soluble vitamin biosynthetic process,6.610237e-05,
+Xylose,GO:0043650,dicarboxylic acid biosynthetic process,6.046827e-08,6.732467e-05
+Xylose,GO:0044272,sulfur compound biosynthetic process,5.244393e-08,0.0001402003
+Xylose,GO:0044283,small molecule biosynthetic process,0.004489178,
+Xylose,GO:0046112,nucleobase biosynthetic process,1.082731e-05,1.929764e-08
+Xylose,GO:0046496,nicotinamide nucleotide metabolic process,0.009793853,
+Xylose,GO:0051276,chromosome organization,0.004539675,
+Xylose,GO:0051301,cell division,0.0006698434,
+Xylose,GO:0051668,localization within membrane,5.327882e-07,
+Xylose,GO:0061024,membrane organization,2.087919e-05,
+Xylose,GO:0065008,regulation of biological quality,0.00697904,
+Xylose,GO:0072522,purine-containing compound biosynthetic process,1.025562e-05,
+Xylose,GO:0072524,pyridine-containing compound metabolic process,,0.003053677
+Xylose,GO:0072525,pyridine-containing compound biosynthetic process,0.007141472,
+Xylose,GO:0090529,cell septum assembly,3.71581e-05,
+Xylose,GO:0170034,L-amino acid biosynthetic process,2.159948e-12,1.0251579999999999e-19
+Xylose,GO:0170038,proteinogenic amino acid biosynthetic process,4.46656e-12,2.070681e-19
+Xylose,GO:0170041,non-proteinogenic amino acid metabolic process,,0.005451254
+Xylose,GO:1901293,nucleoside phosphate biosynthetic process,2.303409e-05,
+Mannose,GO:0000027,ribosomal large subunit assembly,2.736802e-08,
+Mannose,GO:0000096,sulfur amino acid metabolic process,0.003311583,0.002388267
+Mannose,GO:0000917,division septum assembly,7.393831e-05,
+Mannose,GO:0002181,cytoplasmic translation,1.633951e-26,
+Mannose,GO:0006206,pyrimidine nucleobase metabolic process,,0.0001214186
+Mannose,GO:0006221,pyrimidine nucleotide biosynthetic process,1.746773e-05,1.461401e-05
+Mannose,GO:0006261,DNA-templated DNA replication,0.0002221854,
+Mannose,GO:0006412,translation,0.000935665,
+Mannose,GO:0006418,tRNA aminoacylation for protein translation,4.309848e-15,
+Mannose,GO:0006525,arginine metabolic process,,7.828165e-06
+Mannose,GO:0006534,cysteine metabolic process,,0.000726988
+Mannose,GO:0006553,lysine metabolic process,0.0001893066,0.006065707
+Mannose,GO:0006633,fatty acid biosynthetic process,1.824032e-05,
+Mannose,GO:0006650,glycerophospholipid metabolic process,0.003207239,
+Mannose,GO:0008033,tRNA processing,0.008149736,
+Mannose,GO:0008360,regulation of cell shape,4.081782e-06,
+Mannose,GO:0008652,amino acid biosynthetic process,0.0002175017,3.294863e-10
+Mannose,GO:0008654,phospholipid biosynthetic process,5.43644e-07,
+Mannose,GO:0009067,aspartate family amino acid biosynthetic process,3.334617e-07,3.363798e-07
+Mannose,GO:0009070,serine family amino acid biosynthetic process,0.0004523969,7.310345e-07
+Mannose,GO:0009073,aromatic amino acid family biosynthetic process,7.639301e-12,1.895156e-20
+Mannose,GO:0009079,pyruvate family amino acid biosynthetic process,0.001130692,3.072019e-07
+Mannose,GO:0009082,branched-chain amino acid biosynthetic process,0.0001173772,6.678581e-08
+Mannose,GO:0009084,L-glutamine family amino acid biosynthetic process,1.016714e-05,7.957311e-11
+Mannose,GO:0009150,purine ribonucleotide metabolic process,0.00246547,
+Mannose,GO:0009152,purine ribonucleotide biosynthetic process,0.0001131085,4.293617e-08
+Mannose,GO:0009156,ribonucleoside monophosphate biosynthetic process,1.423973e-06,8.912505e-08
+Mannose,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,1.746773e-05,6.678581e-08
+Mannose,GO:0009185,ribonucleoside diphosphate metabolic process,0.0001173772,
+Mannose,GO:0009226,nucleotide-sugar biosynthetic process,0.001643381,
+Mannose,GO:0009245,lipid A biosynthetic process,0.0001805689,
+Mannose,GO:0009252,peptidoglycan biosynthetic process,1.707628e-06,
+Mannose,GO:0009260,ribonucleotide biosynthetic process,2.192097e-07,1.580122e-07
+Mannose,GO:0010628,positive regulation of gene expression,0.00496492,
+Mannose,GO:0015949,nucleobase-containing small molecule interconversion,0.0006677668,0.001439008
+Mannose,GO:0017148,negative regulation of translation,0.001853401,
+Mannose,GO:0022411,cellular component disassembly,0.008619841,
+Mannose,GO:0022618,protein-RNA complex assembly,1.085497e-06,
+Mannose,GO:0031564,transcription antitermination,0.0001893066,
+Mannose,GO:0033014,tetrapyrrole biosynthetic process,0.0004523969,
+Mannose,GO:0042168,heme metabolic process,0.001643381,
+Mannose,GO:0042255,ribosome assembly,8.223889e-07,
+Mannose,GO:0042274,ribosomal small subunit biogenesis,7.192659e-05,
+Mannose,GO:0042364,water-soluble vitamin biosynthetic process,9.064467e-06,0.003193598
+Mannose,GO:0043093,FtsZ-dependent cytokinesis,0.009679505,
+Mannose,GO:0043650,dicarboxylic acid biosynthetic process,6.127557e-08,3.537762e-05
+Mannose,GO:0044272,sulfur compound biosynthetic process,1.753719e-08,2.484987e-05
+Mannose,GO:0044283,small molecule biosynthetic process,0.002744771,
+Mannose,GO:0045229,external encapsulating structure organization,0.002584631,
+Mannose,GO:0046112,nucleobase biosynthetic process,3.013497e-06,6.107252e-10
+Mannose,GO:0051276,chromosome organization,0.007459283,
+Mannose,GO:0051301,cell division,0.0004805189,
+Mannose,GO:0051668,localization within membrane,1.142265e-07,
+Mannose,GO:0065008,regulation of biological quality,0.005777912,
+Mannose,GO:0072522,purine-containing compound biosynthetic process,1.359259e-05,
+Mannose,GO:0072525,pyridine-containing compound biosynthetic process,0.003207239,
+Mannose,GO:0170034,L-amino acid biosynthetic process,1.356724e-11,1.3231669999999999e-20
+Mannose,GO:0170038,proteinogenic amino acid biosynthetic process,2.566921e-11,2.4659549999999998e-20
+Mannose,GO:0170041,non-proteinogenic amino acid metabolic process,,0.0009154982
+Mannose,GO:1901293,nucleoside phosphate biosynthetic process,2.245369e-05,
+Galactose,GO:0000027,ribosomal large subunit assembly,2.18842e-08,
+Galactose,GO:0000096,sulfur amino acid metabolic process,0.002978056,0.002069599
+Galactose,GO:0000917,division septum assembly,6.469984e-05,
+Galactose,GO:0002181,cytoplasmic translation,1.380401e-25,
+Galactose,GO:0006099,tricarboxylic acid cycle,,0.005346579
+Galactose,GO:0006206,pyrimidine nucleobase metabolic process,,8.963387e-05
+Galactose,GO:0006221,pyrimidine nucleotide biosynthetic process,1.505063e-05,1.065319e-05
+Galactose,GO:0006261,DNA-templated DNA replication,0.0001868481,
+Galactose,GO:0006412,translation,0.0008083916,
+Galactose,GO:0006418,tRNA aminoacylation for protein translation,3.179054e-15,
+Galactose,GO:0006525,arginine metabolic process,,5.472295e-06
+Galactose,GO:0006534,cysteine metabolic process,,0.000583769
+Galactose,GO:0006553,lysine metabolic process,0.0001679282,0.005118142
+Galactose,GO:0006633,fatty acid biosynthetic process,9.444356e-05,
+Galactose,GO:0006650,glycerophospholipid metabolic process,0.0005954281,
+Galactose,GO:0008360,regulation of cell shape,3.263688e-06,
+Galactose,GO:0008652,amino acid biosynthetic process,0.0001873677,1.513282e-10
+Galactose,GO:0008654,phospholipid biosynthetic process,6.18853e-08,
+Galactose,GO:0009067,aspartate family amino acid biosynthetic process,2.746736e-07,2.22503e-07
+Galactose,GO:0009070,serine family amino acid biosynthetic process,0.0004026964,5.052941e-07
+Galactose,GO:0009073,aromatic amino acid family biosynthetic process,5.640469e-12,6.926565e-21
+Galactose,GO:0009079,pyruvate family amino acid biosynthetic process,0.001020191,2.116533e-07
+Galactose,GO:0009082,branched-chain amino acid biosynthetic process,0.0001028915,4.388757e-08
+Galactose,GO:0009084,L-glutamine family amino acid biosynthetic process,8.744644e-06,4.695679e-11
+Galactose,GO:0009150,purine ribonucleotide metabolic process,0.0003778612,
+Galactose,GO:0009152,purine ribonucleotide biosynthetic process,0.0004247251,3.178566e-07
+Galactose,GO:0009156,ribonucleoside monophosphate biosynthetic process,1.214615e-06,5.85164e-08
+Galactose,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,1.86539e-06,2.138111e-09
+Galactose,GO:0009185,ribonucleoside diphosphate metabolic process,1.505063e-05,
+Galactose,GO:0009245,lipid A biosynthetic process,0.000158562,
+Galactose,GO:0009252,peptidoglycan biosynthetic process,1.346499e-06,
+Galactose,GO:0009260,ribonucleotide biosynthetic process,1.930064e-07,1.168421e-07
+Galactose,GO:0010628,positive regulation of gene expression,0.004633655,
+Galactose,GO:0017148,negative regulation of translation,0.001661107,
+Galactose,GO:0019318,hexose metabolic process,,0.004111799
+Galactose,GO:0022618,protein-RNA complex assembly,9.218871e-07,
+Galactose,GO:0031564,transcription antitermination,0.0001679282,
+Galactose,GO:0033014,tetrapyrrole biosynthetic process,0.0004026964,
+Galactose,GO:0042168,heme metabolic process,0.001485277,
+Galactose,GO:0042255,ribosome assembly,6.89643e-07,
+Galactose,GO:0042274,ribosomal small subunit biogenesis,6.230482e-05,
+Galactose,GO:0042364,water-soluble vitamin biosynthetic process,2.653313e-05,0.00925011
+Galactose,GO:0043093,FtsZ-dependent cytokinesis,0.008705778,
+Galactose,GO:0043650,dicarboxylic acid biosynthetic process,3.529742e-07,0.0002030587
+Galactose,GO:0044272,sulfur compound biosynthetic process,6.398488e-08,9.141281e-05
+Galactose,GO:0044283,small molecule biosynthetic process,0.002407726,
+Galactose,GO:0045229,external encapsulating structure organization,0.002110457,
+Galactose,GO:0046112,nucleobase biosynthetic process,2.582618e-06,3.788363e-10
+Galactose,GO:0046496,nicotinamide nucleotide metabolic process,0.00910092,
+Galactose,GO:0051276,chromosome organization,0.006797981,
+Galactose,GO:0051301,cell division,0.001334932,
+Galactose,GO:0051668,localization within membrane,9.488046e-08,
+Galactose,GO:0061024,membrane organization,0.004187188,
+Galactose,GO:0072522,purine-containing compound biosynthetic process,1.174115e-05,
+Galactose,GO:0072525,pyridine-containing compound biosynthetic process,0.002908411,0.00859922
+Galactose,GO:0170034,L-amino acid biosynthetic process,9.645132e-12,3.571553e-21
+Galactose,GO:0170038,proteinogenic amino acid biosynthetic process,1.82837e-11,6.668075e-21
+Galactose,GO:0170041,non-proteinogenic amino acid metabolic process,,0.0007109061
+Galactose,GO:1901293,nucleoside phosphate biosynthetic process,7.912632e-06,
+Fructose,GO:0000027,ribosomal large subunit assembly,2.839641e-08,
+Fructose,GO:0000096,sulfur amino acid metabolic process,0.003369982,0.002444211
+Fructose,GO:0000917,division septum assembly,7.558378e-05,
+Fructose,GO:0002181,cytoplasmic translation,1.825024e-26,
+Fructose,GO:0006206,pyrimidine nucleobase metabolic process,,0.0001275156
+Fructose,GO:0006221,pyrimidine nucleotide biosynthetic process,2.264117e-06,1.151781e-06
+Fructose,GO:0006261,DNA-templated DNA replication,0.0002286109,
+Fructose,GO:0006412,translation,0.0002676442,
+Fructose,GO:0006418,tRNA aminoacylation for protein translation,4.531918e-15,
+Fructose,GO:0006525,arginine metabolic process,,8.294291e-06
+Fructose,GO:0006534,cysteine metabolic process,,0.0007532225
+Fructose,GO:0006553,lysine metabolic process,0.0001930847,0.006234358
+Fructose,GO:0006576,biogenic amine metabolic process,,0.005879788
+Fructose,GO:0006633,fatty acid biosynthetic process,0.0001114105,
+Fructose,GO:0006650,glycerophospholipid metabolic process,0.003259336,
+Fructose,GO:0007059,chromosome segregation,0.003259336,
+Fructose,GO:0008360,regulation of cell shape,4.234979e-06,
+Fructose,GO:0008652,amino acid biosynthetic process,0.0002122104,2.90704e-10
+Fructose,GO:0008654,phospholipid biosynthetic process,5.636257e-07,
+Fructose,GO:0009058,biosynthetic process,0.006477782,
+Fructose,GO:0009067,aspartate family amino acid biosynthetic process,3.443025e-07,3.596193e-07
+Fructose,GO:0009070,serine family amino acid biosynthetic process,0.00046116,7.760232e-07
+Fructose,GO:0009073,aromatic amino acid family biosynthetic process,4.488735e-14,1.1502740000000001e-23
+Fructose,GO:0009079,pyruvate family amino acid biosynthetic process,0.001150025,3.262835e-07
+Fructose,GO:0009082,branched-chain amino acid biosynthetic process,0.0001199543,7.147799e-08
+Fructose,GO:0009084,L-glutamine family amino acid biosynthetic process,1.042308e-05,8.666087e-11
+Fructose,GO:0009152,purine ribonucleotide biosynthetic process,4.419038e-06,2.365558e-10
+Fructose,GO:0009156,ribonucleoside monophosphate biosynthetic process,1.423973e-06,8.912505e-08
+Fructose,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,2.264117e-06,3.702131e-09
+Fructose,GO:0009185,ribonucleoside diphosphate metabolic process,0.0006805066,
+Fructose,GO:0009245,lipid A biosynthetic process,0.0001844795,
+Fructose,GO:0009252,peptidoglycan biosynthetic process,1.775789e-06,
+Fructose,GO:0009260,ribonucleotide biosynthetic process,2.137293e-07,1.489188e-07
+Fructose,GO:0010628,positive regulation of gene expression,0.00496492,
+Fructose,GO:0015949,nucleobase-containing small molecule interconversion,0.0006805066,0.001489831
+Fructose,GO:0017148,negative regulation of translation,0.001887149,
+Fructose,GO:0022411,cellular component disassembly,0.008619841,
+Fructose,GO:0022618,protein-RNA complex assembly,1.115147e-06,
+Fructose,GO:0031564,transcription antitermination,2.684667e-05,
+Fructose,GO:0033014,tetrapyrrole biosynthetic process,0.00046116,
+Fructose,GO:0042168,heme metabolic process,0.001671009,
+Fructose,GO:0042255,ribosome assembly,8.466153e-07,
+Fructose,GO:0042274,ribosomal small subunit biogenesis,7.364979e-05,
+Fructose,GO:0042364,water-soluble vitamin biosynthetic process,9.437441e-06,0.003350889
+Fructose,GO:0043093,FtsZ-dependent cytokinesis,0.009849743,
+Fructose,GO:0043650,dicarboxylic acid biosynthetic process,6.366539e-08,3.742403e-05
+Fructose,GO:0044272,sulfur compound biosynthetic process,9.078443e-08,0.0001460034
+Fructose,GO:0044283,small molecule biosynthetic process,0.002744771,
+Fructose,GO:0045229,external encapsulating structure organization,0.002671915,
+Fructose,GO:0046112,nucleobase biosynthetic process,3.0912e-06,6.597826e-10
+Fructose,GO:0051276,chromosome organization,0.001887149,
+Fructose,GO:0051301,cell division,0.0004943699,
+Fructose,GO:0051668,localization within membrane,1.177784e-07,
+Fructose,GO:0065008,regulation of biological quality,0.005910012,
+Fructose,GO:0072522,purine-containing compound biosynthetic process,1.32028e-05,
+Fructose,GO:0072525,pyridine-containing compound biosynthetic process,0.003259336,
+Fructose,GO:0170034,L-amino acid biosynthetic process,1.179329e-13,9.830783e-24
+Fructose,GO:0170038,proteinogenic amino acid biosynthetic process,2.47871e-13,2.015724e-23
+Fructose,GO:0170041,non-proteinogenic amino acid metabolic process,,0.0009536264
+Fructose,GO:1901293,nucleoside phosphate biosynthetic process,2.179585e-06,
+Acetate,GO:0000027,ribosomal large subunit assembly,2.53649e-07,
+Acetate,GO:0000917,division septum assembly,0.000277985,
+Acetate,GO:0002181,cytoplasmic translation,1.3103950000000001e-23,
+Acetate,GO:0006099,tricarboxylic acid cycle,0.002303572,7.781456e-07
+Acetate,GO:0006119,oxidative phosphorylation,0.000277985,1.505293e-06
+Acetate,GO:0006206,pyrimidine nucleobase metabolic process,,0.007420831
+Acetate,GO:0006221,pyrimidine nucleotide biosynthetic process,7.671688e-05,0.0002103036
+Acetate,GO:0006261,DNA-templated DNA replication,0.000367134,
+Acetate,GO:0006412,translation,0.0005180044,
+Acetate,GO:0006418,tRNA aminoacylation for protein translation,9.153072e-14,
+Acetate,GO:0006525,arginine metabolic process,,2.126642e-05
+Acetate,GO:0006534,cysteine metabolic process,,0.004590475
+Acetate,GO:0006553,lysine metabolic process,0.0006216626,
+Acetate,GO:0006633,fatty acid biosynthetic process,8.822346e-05,
+Acetate,GO:0006650,glycerophospholipid metabolic process,0.008384549,
+Acetate,GO:0008360,regulation of cell shape,3.662274e-05,
+Acetate,GO:0008652,amino acid biosynthetic process,0.0001924288,7.715106e-09
+Acetate,GO:0008654,phospholipid biosynthetic process,4.72743e-06,
+Acetate,GO:0009058,biosynthetic process,0.005823656,
+Acetate,GO:0009067,aspartate family amino acid biosynthetic process,1.528385e-05,9.030416e-05
+Acetate,GO:0009070,serine family amino acid biosynthetic process,0.001429899,1.671118e-05
+Acetate,GO:0009073,aromatic amino acid family biosynthetic process,1.57738e-10,9.467417000000001e-17
+Acetate,GO:0009079,pyruvate family amino acid biosynthetic process,0.003124978,7.278514e-06
+Acetate,GO:0009082,branched-chain amino acid biosynthetic process,0.0004328067,2.350818e-06
+Acetate,GO:0009084,L-glutamine family amino acid biosynthetic process,7.291912e-07,1.638328e-11
+Acetate,GO:0009150,purine ribonucleotide metabolic process,0.00615966,
+Acetate,GO:0009152,purine ribonucleotide biosynthetic process,0.000545394,2.953257e-06
+Acetate,GO:0009156,ribonucleoside monophosphate biosynthetic process,6.638689e-05,3.179812e-05
+Acetate,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,1.153973e-05,1.900323e-07
+Acetate,GO:0009185,ribonucleoside diphosphate metabolic process,0.0004328067,
+Acetate,GO:0009226,nucleotide-sugar biosynthetic process,0.004458095,
+Acetate,GO:0009244,lipopolysaccharide core region biosynthetic process,,0.002951567
+Acetate,GO:0009245,lipid A biosynthetic process,0.0006530364,
+Acetate,GO:0009252,peptidoglycan biosynthetic process,1.758223e-05,
+Acetate,GO:0009260,ribonucleotide biosynthetic process,1.366316e-05,5.263764e-05
+Acetate,GO:0010628,positive regulation of gene expression,0.009669669,
+Acetate,GO:0017148,negative regulation of translation,0.005431759,
+Acetate,GO:0022618,protein-RNA complex assembly,5.519178e-06,
+Acetate,GO:0022904,respiratory electron transport chain,,1.717632e-06
+Acetate,GO:0031564,transcription antitermination,1.404604e-05,
+Acetate,GO:0033014,tetrapyrrole biosynthetic process,0.000277985,
+Acetate,GO:0033214,siderophore-iron import into cell,,0.008653307
+Acetate,GO:0042168,heme metabolic process,0.0009586616,
+Acetate,GO:0042255,ribosome assembly,4.72901e-06,
+Acetate,GO:0042274,ribosomal small subunit biogenesis,0.0002977853,
+Acetate,GO:0042364,water-soluble vitamin biosynthetic process,2.25474e-06,0.001145198
+Acetate,GO:0043650,dicarboxylic acid biosynthetic process,1.232496e-08,1.655122e-05
+Acetate,GO:0044272,sulfur compound biosynthetic process,7.398196e-10,2.40239e-06
+Acetate,GO:0046112,nucleobase biosynthetic process,0.0001026093,5.625085e-07
+Acetate,GO:0046165,alcohol biosynthetic process,0.004458095,
+Acetate,GO:0051668,localization within membrane,7.291912e-07,
+Acetate,GO:0061024,membrane organization,0.005306187,
+Acetate,GO:0065008,regulation of biological quality,0.0033917,
+Acetate,GO:0072522,purine-containing compound biosynthetic process,1.453745e-05,
+Acetate,GO:0072525,pyridine-containing compound biosynthetic process,0.008384549,
+Acetate,GO:0170034,L-amino acid biosynthetic process,2.961709e-09,7.321316e-15
+Acetate,GO:0170038,proteinogenic amino acid biosynthetic process,5.225958e-09,1.27976e-14
+Acetate,GO:1901293,nucleoside phosphate biosynthetic process,3.452388e-05,
+Acetate,GO:1902600,proton transmembrane transport,,0.001127942
+Pyruvate,GO:0000027,ribosomal large subunit assembly,3.056074e-08,
+Pyruvate,GO:0000917,division septum assembly,7.896975e-05,
+Pyruvate,GO:0002181,cytoplasmic translation,2.274651e-26,
+Pyruvate,GO:0006099,tricarboxylic acid cycle,,0.0001740125
+Pyruvate,GO:0006206,pyrimidine nucleobase metabolic process,,0.000140461
+Pyruvate,GO:0006221,pyrimidine nucleotide biosynthetic process,1.879947e-05,1.701294e-05
+Pyruvate,GO:0006261,DNA-templated DNA replication,0.0002419512,
+Pyruvate,GO:0006412,translation,7.260158e-05,
+Pyruvate,GO:0006418,tRNA aminoacylation for protein translation,5.008957e-15,
+Pyruvate,GO:0006525,arginine metabolic process,,9.297535e-06
+Pyruvate,GO:0006534,cysteine metabolic process,,0.0008078282
+Pyruvate,GO:0006553,lysine metabolic process,0.000200833,0.006581091
+Pyruvate,GO:0006633,fatty acid biosynthetic process,1.972897e-05,
+Pyruvate,GO:0006650,glycerophospholipid metabolic process,0.003365551,
+Pyruvate,GO:0007059,chromosome segregation,0.0007065941,
+Pyruvate,GO:0008033,tRNA processing,0.008780901,
+Pyruvate,GO:0008360,regulation of cell shape,4.557165e-06,
+Pyruvate,GO:0008652,amino acid biosynthetic process,0.0002284223,4.211615e-10
+Pyruvate,GO:0008654,phospholipid biosynthetic process,6.056135e-07,
+Pyruvate,GO:0009058,biosynthetic process,0.007048347,0.008739796
+Pyruvate,GO:0009067,aspartate family amino acid biosynthetic process,2.889647e-06,5.137828e-06
+Pyruvate,GO:0009070,serine family amino acid biosynthetic process,0.0004791134,8.731697e-07
+Pyruvate,GO:0009073,aromatic amino acid family biosynthetic process,8.873179e-12,3.0745709999999996e-20
+Pyruvate,GO:0009079,pyruvate family amino acid biosynthetic process,2.808233e-05,7.685743e-10
+Pyruvate,GO:0009082,branched-chain amino acid biosynthetic process,2.391233e-06,1.901281e-10
+Pyruvate,GO:0009084,L-glutamine family amino acid biosynthetic process,1.095205e-05,1.025702e-10
+Pyruvate,GO:0009150,purine ribonucleotide metabolic process,0.002620447,
+Pyruvate,GO:0009152,purine ribonucleotide biosynthetic process,0.0005258381,6.196819e-07
+Pyruvate,GO:0009156,ribonucleoside monophosphate biosynthetic process,1.522961e-06,1.05899e-07
+Pyruvate,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,1.879947e-05,8.173568e-08
+Pyruvate,GO:0009185,ribonucleoside diphosphate metabolic process,0.0001252546,
+Pyruvate,GO:0009245,lipid A biosynthetic process,0.0001925184,
+Pyruvate,GO:0009252,peptidoglycan biosynthetic process,1.919636e-06,
+Pyruvate,GO:0009260,ribonucleotide biosynthetic process,2.424028e-07,1.992468e-07
+Pyruvate,GO:0010628,positive regulation of gene expression,0.005079121,
+Pyruvate,GO:0015949,nucleobase-containing small molecule interconversion,0.003365551,
+Pyruvate,GO:0017148,negative regulation of translation,0.00195615,
+Pyruvate,GO:0022618,protein-RNA complex assembly,1.176621e-06,
+Pyruvate,GO:0031564,transcription antitermination,2.808233e-05,
+Pyruvate,GO:0033014,tetrapyrrole biosynthetic process,0.002440697,
+Pyruvate,GO:0042168,heme metabolic process,0.007864354,
+Pyruvate,GO:0042255,ribosome assembly,8.96998e-07,
+Pyruvate,GO:0042274,ribosomal small subunit biogenesis,7.720411e-05,
+Pyruvate,GO:0042364,water-soluble vitamin biosynthetic process,1.022563e-05,0.003683592
+Pyruvate,GO:0043648,dicarboxylic acid metabolic process,,0.002131542
+Pyruvate,GO:0043650,dicarboxylic acid biosynthetic process,6.87047e-08,4.181618e-05
+Pyruvate,GO:0044238,primary metabolic process,,0.007547034
+Pyruvate,GO:0044272,sulfur compound biosynthetic process,1.001765e-07,0.0001659219
+Pyruvate,GO:0044283,small molecule biosynthetic process,0.0001039182,0.004901775
+Pyruvate,GO:0045229,external encapsulating structure organization,0.002854058,
+Pyruvate,GO:0046112,nucleobase biosynthetic process,3.251961e-06,7.685743e-10
+Pyruvate,GO:0051276,chromosome organization,0.00195615,
+Pyruvate,GO:0051301,cell division,0.001173496,
+Pyruvate,GO:0051668,localization within membrane,1.251846e-07,
+Pyruvate,GO:0065008,regulation of biological quality,0.002176572,
+Pyruvate,GO:0072522,purine-containing compound biosynthetic process,2.42901e-06,
+Pyruvate,GO:0072524,pyridine-containing compound metabolic process,,0.006067176
+Pyruvate,GO:0072525,pyridine-containing compound biosynthetic process,0.003365551,
+Pyruvate,GO:0170034,L-amino acid biosynthetic process,1.517956e-11,2.0078119999999998e-20
+Pyruvate,GO:0170038,proteinogenic amino acid biosynthetic process,2.870129e-11,3.7396909999999995e-20
+Pyruvate,GO:0170041,non-proteinogenic amino acid metabolic process,,0.001033571
+Pyruvate,GO:1901293,nucleoside phosphate biosynthetic process,2.702346e-06,
+Succinate,GO:0000027,ribosomal large subunit assembly,3.993805e-07,
+Succinate,GO:0000096,sulfur amino acid metabolic process,,0.009930678
+Succinate,GO:0000917,division septum assembly,6.181239e-05,
+Succinate,GO:0002181,cytoplasmic translation,7.907384e-21,
+Succinate,GO:0006099,tricarboxylic acid cycle,,0.002838569
+Succinate,GO:0006119,oxidative phosphorylation,1.072932e-07,4.253378e-11
+Succinate,GO:0006163,purine nucleotide metabolic process,0.008901536,
+Succinate,GO:0006206,pyrimidine nucleobase metabolic process,,0.002338416
+Succinate,GO:0006221,pyrimidine nucleotide biosynthetic process,0.0001036464,0.0003337832
+Succinate,GO:0006261,DNA-templated DNA replication,0.0005314866,
+Succinate,GO:0006412,translation,0.0002416116,
+Succinate,GO:0006418,tRNA aminoacylation for protein translation,1.717671e-13,
+Succinate,GO:0006525,arginine metabolic process,,3.863372e-05
+Succinate,GO:0006534,cysteine metabolic process,,0.006303903
+Succinate,GO:0006553,lysine metabolic process,0.0007913586,
+Succinate,GO:0006633,fatty acid biosynthetic process,0.0005863095,
+Succinate,GO:0006650,glycerophospholipid metabolic process,0.002601895,
+Succinate,GO:0006812,monoatomic cation transport,,0.009753798
+Succinate,GO:0008360,regulation of cell shape,5.68143e-05,
+Succinate,GO:0008652,amino acid biosynthetic process,0.000272935,2.300357e-08
+Succinate,GO:0008654,phospholipid biosynthetic process,2.12761e-07,
+Succinate,GO:0009067,aspartate family amino acid biosynthetic process,3.405717e-06,2.017004e-05
+Succinate,GO:0009070,serine family amino acid biosynthetic process,0.001804369,2.883717e-05
+Succinate,GO:0009073,aromatic amino acid family biosynthetic process,2.639776e-09,8.731382e-15
+Succinate,GO:0009079,pyruvate family amino acid biosynthetic process,,0.0001239132
+Succinate,GO:0009082,branched-chain amino acid biosynthetic process,0.0005637724,4.378196e-06
+Succinate,GO:0009084,L-glutamine family amino acid biosynthetic process,8.852547e-06,8.915751e-10
+Succinate,GO:0009152,purine ribonucleotide biosynthetic process,0.0007474187,6.124358e-06
+Succinate,GO:0009156,ribonucleoside monophosphate biosynthetic process,7.352602e-06,3.10786e-06
+Succinate,GO:0009168,purine ribonucleoside monophosphate biosynthetic process,0.0001036464,4.378196e-06
+Succinate,GO:0009185,ribonucleoside diphosphate metabolic process,0.002601895,
+Succinate,GO:0009226,nucleotide-sugar biosynthetic process,0.005451333,
+Succinate,GO:0009244,lipopolysaccharide core region biosynthetic process,0.001762129,0.0001134237
+Succinate,GO:0009245,lipid A biosynthetic process,0.0008468787,
+Succinate,GO:0009252,peptidoglycan biosynthetic process,2.804578e-05,
+Succinate,GO:0009260,ribonucleotide biosynthetic process,1.38708e-06,5.662249e-06
+Succinate,GO:0015698,inorganic anion transport,,0.004882955
+Succinate,GO:0017148,negative regulation of translation,0.006737035,
+Succinate,GO:0022618,protein-RNA complex assembly,7.68935e-06,
+Succinate,GO:0022904,respiratory electron transport chain,0.001075541,6.444606e-09
+Succinate,GO:0031564,transcription antitermination,1.923721e-05,
+Succinate,GO:0033014,tetrapyrrole biosynthetic process,0.0003637176,
+Succinate,GO:0034220,monoatomic ion transmembrane transport,,0.007825027
+Succinate,GO:0042168,heme metabolic process,0.001215012,
+Succinate,GO:0042255,ribosome assembly,6.750865e-06,
+Succinate,GO:0042274,ribosomal small subunit biogenesis,7.715562e-05,
+Succinate,GO:0042364,water-soluble vitamin biosynthetic process,1.461537e-05,0.006706878
+Succinate,GO:0043650,dicarboxylic acid biosynthetic process,2.121651e-08,3.178578e-05
+Succinate,GO:0044272,sulfur compound biosynthetic process,3.941715e-08,0.0001281777
+Succinate,GO:0044283,small molecule biosynthetic process,0.001675821,
+Succinate,GO:0046112,nucleobase biosynthetic process,1.923721e-05,7.31516e-08
+Succinate,GO:0051301,cell division,0.0005044594,
+Succinate,GO:0051668,localization within membrane,1.065677e-06,
+Succinate,GO:0061024,membrane organization,9.645657e-06,
+Succinate,GO:0072522,purine-containing compound biosynthetic process,2.141189e-05,
+Succinate,GO:0090529,cell septum assembly,4.960808e-05,0.00522518
+Succinate,GO:0170034,L-amino acid biosynthetic process,1.150193e-09,4.123953e-14
+Succinate,GO:0170038,proteinogenic amino acid biosynthetic process,1.832904e-09,7.173926e-14
+Succinate,GO:1901293,nucleoside phosphate biosynthetic process,5.087321e-05,
+Succinate,GO:1902600,proton transmembrane transport,,2.275318e-06

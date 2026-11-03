@@ -1,0 +1,11 @@
+condition,genes_in_ME,non_zero_flux_genes,spearman_flux_vs_mass (non-zero),p_flux_mass,spearman_flux_vs_fitness (all ME genes),p_flux_fitness,spearman_flux_vs_fitness (non-zero),OR_zero_flux_mean_effect_vs_other,p_fisher
+Glycerol,879,277,0.561,0.0,-0.352,0.0,-0.3598,6.8084,0.0
+Galactose,879,277,0.5715,0.0,-0.3722,0.0,-0.4342,7.1944,0.0
+Mannose,879,263,0.5418,0.0,-0.3568,0.0,-0.3836,6.5901,0.0
+Glucosamine,879,277,0.572,0.0,-0.3365,0.0,-0.3747,5.2936,0.0
+Pyruvate,879,276,0.5769,0.0,-0.333,0.0,-0.3307,8.0249,0.0
+Fructose,879,263,0.5414,0.0,-0.3425,0.0,-0.3528,6.4347,0.0
+Glucose,879,276,0.5622,0.0,-0.3635,0.0,-0.3989,6.3866,0.0
+Xylose,879,262,0.5538,0.0,-0.3539,0.0,-0.3445,5.4227,0.0
+Succinate,879,279,0.5464,0.0,-0.3243,0.0,-0.4393,5.0219,0.0
+Acetate,879,273,0.6207,0.0,-0.331,0.0,-0.4265,4.9411,0.0

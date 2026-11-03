@@ -1,0 +1,4 @@
+,n_genes,%_1_TF,%_2_TFs,%_>=3_TFs,%_redundant (same effect by >=2 TFs),mean_TFs_per_gene
+TRN (all regulated genes),2705.0,40.1,23.3,36.6,46.9,2.5
+"five TFs (RbsR, GcvA, Fis, SlyA, RcsB)",325.0,11.1,13.2,75.7,77.5,4.6
+"core TFs (RbsR, GcvA, Fis)",257.0,12.5,12.1,75.5,76.3,4.6

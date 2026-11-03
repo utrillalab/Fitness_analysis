@@ -1,0 +1,12 @@
+condition,essential_before,important_before,mean-effect_before,enhancing_before,essential_after,important_after,mean-effect_after,enhancing_after,moved_to_mean_effect,mean_effect_with_|t|>4 (small but significant)
+LB,4,195,3546,44,0,25,3764,0,218,0
+Glycerol,128,201,3415,45,112,87,3576,14,161,4
+Galactose,125,229,3389,46,114,101,3558,16,169,0
+Mannose,130,207,3421,31,112,90,3580,7,159,4
+Glucosamine,146,278,3265,100,127,86,3543,33,278,3
+Pyruvate,133,214,3357,85,118,81,3553,37,196,1
+Fructose,131,183,3443,32,120,97,3566,6,123,5
+Glucose,135,183,3435,36,120,87,3572,10,137,0
+Xylose,185,261,3260,83,167,130,3458,34,198,0
+Succinate,216,343,2980,250,184,144,3353,108,373,5
+Acetate,212,403,2934,240,175,113,3427,74,493,2

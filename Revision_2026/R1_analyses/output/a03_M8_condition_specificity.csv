@@ -1,0 +1,5 @@
+category,mean_genes_per_condition,genes_in_category_in_>=1_condition,mean_pairwise_Jaccard_between_conditions,Jaccard_null_mean,Jaccard_obs/null,median_conditions_per_gene (of 11),%_genes_in_category_in_only_1_condition,%_genes_in_category_in_all_11
+essential,140.455,308,0.508,0.017,30.326,4.0,26.299,0.0
+important,245.182,870,0.279,0.032,8.636,2.0,38.276,0.92
+mean-effect,3313.182,3739,0.886,0.776,1.142,11.0,3.718,66.301
+enhancing,90.182,494,0.134,0.009,14.839,1.0,53.239,0.0

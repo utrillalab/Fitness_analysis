@@ -1,0 +1,5 @@
+category,terms,median obs/exp vs all,heavier than random (BH<0.05),lighter than random (BH<0.05),median obs/exp vs same category,heavier than category (BH<0.05),lighter than category (BH<0.05)
+essential,581.0,1.8427717584222576,11.0,0.0,0.7237121349182949,15.0,54.0
+important,185.0,0.7202365418992094,0.0,2.0,0.4955065088127107,0.0,4.0
+mean-effect,420.0,0.6044676876561379,0.0,65.0,1.2447600242016108,7.0,40.0
+enhancing,49.0,0.8403838958176332,0.0,0.0,0.6325407065304918,0.0,0.0

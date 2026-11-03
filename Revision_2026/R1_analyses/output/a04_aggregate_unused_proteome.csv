@@ -1,0 +1,11 @@
+condition,mean_effect_zero_flux_%,n_genes_zero_flux,mean_per_gene_%,mean_effect_zero_flux_or_absent_%,predicted_gain_zero_flux_%_(phi_max 0.30),predicted_gain_zero_flux_%_(phi_max 0.48)
+Glycerol,33.532,531,0.063,51.419,111.775,69.859
+Galactose,39.202,529,0.074,57.689,130.674,81.671
+Mannose,35.975,528,0.068,53.083,119.917,74.948
+Glucosamine,29.896,501,0.06,46.031,99.654,62.284
+Pyruvate,27.999,534,0.052,46.148,93.33,58.331
+Fructose,24.724,532,0.046,42.437,82.413,51.508
+Glucose,20.415,532,0.038,41.415,68.049,42.53
+Xylose,16.458,485,0.034,33.985,54.859,34.287
+Succinate,20.627,433,0.048,32.114,68.755,42.972
+Acetate,14.492,447,0.032,27.186,48.308,30.192

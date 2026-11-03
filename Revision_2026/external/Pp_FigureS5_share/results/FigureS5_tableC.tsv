@@ -1,0 +1,169 @@
+locusId	Symbol	Name	COG	Fitness	log10(TPM+1)
+PP_0086		conserved protein of unknown function	R	0.227	2.6369644525970655
+PP_0168		putative surface adhesion protein	Q	0.307	2.5327756806111448
+PP_0181		conserved protein of unknown function		0.039	2.690576491064791
+PP_0191	algQ	Transcriptional regulatory protein AlgQ	K	0.281	2.5083121258714725
+PP_0194	algP	Transcriptional regulatory protein AlgP		-0.234	2.414377021708082
+PP_0234	oprE	outer-membrane porin E		-0.164	2.5879789278030882
+PP_0268	oprQ	outer-membrane porin D		0.032	2.679973640100752
+PP_0282	artJ	L-arginine ABC transporter - periplasmic binding subunit	T	0.197	2.524241840741459
+PP_0319		conserved protein of unknown function	D	0.046	2.6776881086717705
+PP_0367		conserved protein of unknown function		-0.147	2.621638840494516
+PP_0373	yqaE	conserved membrane protein of unknown function	C	-0.073	2.6371303082617974
+PP_0380	pqqA	Coenzyme PQQ synthesis protein A		-0.035	3.1259611636462585
+PP_0428	hinT	aminoacyl-adenylate hydrolase/purine nucleoside phosphoramidase	F	0.248	2.679303006615813
+PP_0440	tufA	Elongation factor Tu-A	J	-0.086	3.328488543243542
+PP_0482	bfr-I	bacterioferritin	P	0.211	2.7085665334431255
+PP_0621		conserved protein of unknown function		-0.18	2.503248100760012
+PP_0641		conserved protein of unknown function		0.137	2.581829961895776
+PP_0679		conserved exported protein of unknown function		0.022	3.1171046778677804
+PP_0684	fklB-I	FKBP-type peptidyl-prolyl cis-trans isomerase	O	0.016	2.4308332988510273
+PP_0697	rimI	ribosomal-protein-S18-alanine N-acetyltransferase	J	-0.311	2.4349430927893896
+PP_0750		conserved protein of unknown function		-0.336	3.071246226418887
+PP_0753		putative Lipoprotein	S	0.337	2.5448518917848717
+PP_0834	yajC	Sec translocation complex subunit YajC	U	-0.013	2.5725973388495955
+PP_0848	iscX	donor of Fe2+ and regulator of cysteine desulfurase activity	O	0.468	2.7547188604764394
+PP_0850	rlmN	Dual-specificity RNA methyltransferase RlmN	J	-0.011	2.7944113800952457
+PP_0855		conserved protein of unknown function	T	-0.254	2.568193532889357
+PP_0864	speC	ornithine decarboxylase	E	0.045	2.5022582478914637
+PP_0951	hpf	Ribosome hibernation promoting factor	J	-0.011	3.2121263223120424
+PP_0960	mlaD	phospholipid ABC transporter binding protein	M	0.412	2.485540437825021
+PP_0961	ttg2D	toluene tolerance protein	M	0.373	2.6057400126815424
+PP_0963	ttg2F	putative BolA family protein	T	0.147	2.5775599385154995
+PP_1009	gapA	glyceraldehyde-3-phosphate dehydrogenase	G	-0.425	2.9523867833787136
+PP_1011	glk	glucokinase	G	-0.134	2.4252692713841535
+PP_1014	yihS	aldose-ketose isomerase	G	0.104	2.460175848115414
+PP_1015	gtsA	mannose/glucose ABC transporter, glucose-binding periplasmic protein	G	0.091	3.2460193215933564
+PP_1016	gtsB	mannose/glucose ABC transporter, permease protein	G	-0.085	2.6307085581119685
+PP_1017	gtsC	mannose/glucose ABC transporter, permease protein	G	0.03	2.663349660766685
+PP_1018	gtsD	mannose/glucose ABC transporter - ATP binding subunit	G	0.147	2.741827180901697
+PP_1019	oprB-I	carbohydrate-selective porin	M	-0.033	3.0174504826199793
+PP_1038		conserved protein of unknown function	S	-0.014	2.55519512087435
+PP_1071	gltI	glutamate / aspartate ABC transporter - periplasmic binding protein	T	-0.146	2.8489677996152976
+PP_1082	bfr-II	bacterioferritin	P	0.043	3.124562896051285
+PP_1084	tsaA	putative peroxiredoxin	V	-0.105	3.2952083788953956
+PP_1099	capB	Cold shock protein CapB	K	0.046	4.0456606317585955
+PP_1111		putative Synthetase	J	-0.271	2.47073726795141
+PP_1114		SEC-C domain protein	S	0.319	2.5736335836111897
+PP_1131	slyB	outer membrane lipoprotein	M	-0.11	2.506071810217235
+PP_1141	livK	branched-chain amino acids ABC transporter - periplasmic leucine binding subunit	E	-0.08	2.68461270423305
+PP_1185	oprH	Outer membrane protein H1		0.302	2.8626234547163865
+PP_1206	oprD	basic-amino-acid specific porin OprD		-0.297	2.9534270641326894
+PP_1208		conserved protein of unknown function, SlyX family	S	-0.357	2.526660651777473
+PP_1218		putative acyl-CoA thioesterase	I	0.335	2.58577534142934
+PP_1224	ybgF	periplasmic subunit of the TolQRA transport system	D	-0.025	3.0076887273199624
+PP_1238		putative Lipoprotein	M	-0.079	2.4080137362853082
+PP_1239		Metallo-beta-lactamase family protein	P	0.066	2.5518032195471747
+PP_1245		conserved exported protein of unknown function	M	0.168	2.417075628315876
+PP_1249		conserved protein of unknown function, DUF4223 family		0.183	4.736004451800129
+PP_1303	cysD	Sulfate adenylyltransferase subunit 2	E	-0.433	2.6472771612812815
+PP_1304	cysNC	sulfate adenylyltransferase subunit 1/adenylyl-sulfate kinase	P	-0.493	2.5895044159530003
+PP_1319	petC	Ubiquinol--cytochrome c reductase, cytochrome c1	C	-0.365	3.012897199086822
+PP_1328	mraZ	Protein MraZ	J	0.276	2.8475152031853086
+PP_1352		UPF0234 protein PP_1352	T	-0.006	2.5318033860554197
+PP_1366		Transcriptional regulator MvaT, P16 subunit		0.409	3.4448544569833297
+PP_1427	rpoE	RNA polymerase sigma E factor	K	0.032	2.688277891841612
+PP_1522	cspA-I	major cold shock protein	K	0.002	3.829600410192097
+PP_1576		putative Immunity protein		-0.007	2.7662197605680388
+PP_1609		conserved protein of unknown function		-0.132	3.1502607700560192
+PP_1611	kdsA-I	2-dehydro-3-deoxyphosphooctonate aldolase	M	-0.125	2.4510338473661872
+PP_1623	rpoS	RNA polymerase, sigma S (sigma 38) factor	K	0.426	2.6385371488220972
+PP_1663		conserved exported protein of unknown function		0.222	2.423778673530638
+PP_1714	fklB-II	FKBP-type peptidyl-prolyl cis-trans isomerase	O	-0.341	2.576337840539373
+PP_1716		Transcriptional regulator, Cro/CI family	K	-0.192	2.445976017182331
+PP_1733	minD	membrane ATPase of the MinC-MinD-MinE system	D	0.319	2.507770060340968
+PP_1757	bolA	DNA-binding transcriptional dual regulator	K	0.099	2.4189697835836945
+PP_1782	rfbC	dTDP-4-dehydrorhamnose 3,5-epimerase	M	-0.077	2.505853080422606
+PP_1783	rfbA	dTDP-glucose pyrophosphorylase	M	-0.108	2.609747284842113
+PP_1786		putative Glycosyl transferase	M,N	0.164	2.4104497950456087
+PP_1788		conserved protein of unknown function		-0.333	2.8819115618008095
+PP_1790		putative Acylneuraminate cytidylyltransferase	M	-0.394	2.5979168937294133
+PP_1791		putative Aldolase/synthase	E	-0.006	2.4617868997052237
+PP_1794		conserved hypothetical protein	Q	-0.01	3.1353601736685452
+PP_1795		conserved protein of unknown function		-0.012	2.7544150723172542
+PP_1799	gmd	GDP-mannose 4,6-dehydratase	M	0.41	2.5657875588678003
+PP_1982	ibpA	small heat shock protein IbpA		-0.097	2.6815404631019284
+PP_2082	ppsA	phosphoenolpyruvate synthetase	G	0.109	2.448559103137359
+PP_2088		RNA polymerase sigma factor SigX	K	-0.017	2.588903810399099
+PP_2099		conserved protein of unknown function	S	-0.151	2.799730723356584
+PP_2118		conserved protein of unknown function		0.313	2.937201285756651
+PP_2121		putative Lipoprotein		-0.143	2.8595987784369203
+PP_2220		C4-type zinc finger protein, DksA/TraR family	K	0.247	2.455316461482392
+PP_2294		conserved exported protein of unknown function		-0.092	2.9457796959588043
+PP_2299	tig	Trigger factor	O	-0.494	2.9334729020874812
+PP_2302	lon-II	DNA-binding, ATP-dependent protease	O	-0.384	2.460940149264364
+PP_2322	oprI	Major outer membrane lipoprotein		0.028	4.936239903566476
+PP_2324	aroF-I	tyr-sensitive phospho-2-dehydro-3-deoxyheptonate aldolase	E	-0.025	2.564667367495683
+PP_2472		putative transcriptional regulator, MerR family	K	-0.333	2.81495049071276
+PP_2550		putative transcriptional regulatory protein	J	-0.352	2.573853764168663
+PP_2947		putative Transcriptional regulator MvaT, P16 subunit		0.138	2.4741221495343617
+PP_2969	csoR	putative repressor of copper utilisation proteins	K	0.247	2.4238273583216348
+PP_3024		conserved protein of unknown function		0.071	2.495540114093467
+PP_3035		conserved protein of unknown function		0.214	3.4213535535661013
+PP_3089		conserved protein of unknown function	U	0.074	3.160146903954928
+PP_3376	ptxD	putative phosphonate dehydrogenase	C	-0.1	2.577680326339397
+PP_3407		conserved protein of unknown function		0.498	2.595436159069441
+PP_3417	gntT	D-gluconate transporter	G	0.002	3.078057981437205
+PP_3504		conserved protein of unknown function		0.312	2.598454830131643
+PP_3587	tpx	lipid hydroperoxide peroxidase	O	0.14	2.4921729539151367
+PP_3682		conserved protein of unknown function		-0.045	2.402574067220187
+PP_3693		putative Transcriptional regulator MvaT, P16 subunit		-0.145	2.530303559385594
+PP_3775		putative sarcosine oxidase	E	-0.021	2.6400583492556167
+PP_3776		putative permease (RarD protein)	R	-0.059	2.6068804229444993
+PP_3777		conserved protein of unknown function	J	0.15	2.7911588531882443
+PP_3778	proC	Pyrroline-5-carboxylate reductase	E	0.095	2.900116723876494
+PP_3781		Oxygen-independent Coproporphyrinogen III oxidase family protein	H	0.065	3.140721446344448
+PP_3782		conserved protein of unknown function		0.121	3.247172546062959
+PP_3783	syrB	syringomycin biosynthesis enzyme 2		0.068	3.2175038888678356
+PP_3784		conserved protein of unknown function	V	0.17	3.0349513903761585
+PP_3785		conserved protein of unknown function		-0.051	2.8813112494977657
+PP_3786	aspC	aminotransferase	E	-0.121	2.6562857374918356
+PP_3787		conserved protein of unknown function	I	-0.07	2.636016302584427
+PP_3788		putative Non-ribosomal peptide synthetase	Q	0.026	2.5086764196587077
+PP_3821	galU	UTP-glucose-1-phosphate uridylyltransferase	M	-0.114	2.7179729886000206
+PP_3901		conserved protein of unknown function		0.183	2.402405818406944
+PP_3904		conserved protein of unknown function		0.22	3.0492975866478242
+PP_3909		conserved protein of unknown function		-0.026	2.8301530368723515
+PP_3924		conserved protein of unknown function	I	-0.146	2.7181436329008988
+PP_3963		conserved protein of unknown function	R	-0.242	2.4561327333982064
+PP_3990	yccA	substrate or modulator of FtsH-mediated proteolysis	P	-0.03	2.689710459730627
+PP_4008	clpA	ATP-dependent serine protease	O	0.014	2.5281984409839255
+PP_4009	clpS	ATP-dependent Clp protease adapter protein ClpS	O	-0.253	2.552841741574068
+PP_4179	htpG	Chaperone protein HtpG	O	-0.155	2.6377070681123462
+PP_4268	ybaB	nucleoid-associated broad specificity regulator	K	-0.13	3.133034819069626
+PP_4375	fliS	flagellar chaperone, inhibits premature FliC assembly	N	-0.035	2.4048974571834667
+PP_4376	fliD	flagellar filament capping protein	N	-0.028	2.559015023337821
+PP_4378	fliC	flagellin, filament structural protein	N	-0.013	3.0062780398958657
+PP_4502	yciI	putative enzyme	Q	0.445	2.434732895745407
+PP_4519	tolC	Agglutination protein	M	0.331	2.7034136285703174
+PP_4569		conserved protein of unknown function		-0.359	2.5355553362726595
+PP_4593		conserved protein of unknown function		-0.353	2.452639844641143
+PP_4640		conserved protein of unknown function	S	0.079	2.563912612069115
+PP_4645	mscL	Large-conductance mechanosensitive channel	M	0.113	2.528280798352783
+PP_4720		putative RNA binding protein	J	-0.486	2.9761067592832893
+PP_4721		conserved membrane protein of unknown function		0.075	2.6532457476779965
+PP_4722	greA	Transcription elongation factor GreA	K	0.131	2.836451995291433
+PP_4775		conserved protein of unknown function		0.066	3.051339060672554
+PP_4803	dacA	D-alanyl-D-alanine carboxypeptidase	M	0.175	2.6901720728199408
+PP_4820	dusB	tRNA-dihydrouridine synthase B	J	0.0	2.5087275250824854
+PP_4835		conserved exported protein of unknown function		-0.261	2.5926224645637066
+PP_4891	hflC	integral membrane ATP-dependent zinc metallopeptidase / HflK-HflC complex	O	-0.36	2.666882745624426
+PP_4892	hflK	integral membrane ATP-dependent zinc metallopeptidase / HflK-HflC complex	O	-0.049	2.577012207270269
+PP_4893	hflX	GTPase HflX	J	-0.121	2.567014803427188
+PP_4911		conserved protein of unknown function	M	0.059	2.655371880973695
+PP_4966	sahR	transcriptional regulator of methionine metabolism	K,H	0.094	2.6545376649090415
+PP_4977	metF	5,10-methylenetetrahydrofolate reductase	E	-0.07	2.4282537055006728
+PP_4981	yceI	polyisoprene-binding protein, acidic stress response factor	R	-0.093	2.674748896755335
+PP_5024		Amino acid ABC transporter, periplasmic amino acid-binding protein	T	0.106	2.6344754288758776
+PP_5039		conserved protein of unknown function	S	-0.022	2.6499922650433763
+PP_5054	grxC	glutaredoxin 3	O	0.394	2.4636065050746065
+PP_5055		Sulfurtransferase	P	-0.126	2.579805838535321
+PP_5075	gltD	glutamate synthase (NADPH) beta subunit	E	-0.417	2.512600560068606
+PP_5076	gltB	L-glutamate synthase(NADPH) alpha subunit	E	-0.132	2.5742358591640655
+PP_5085	maeB	malic enzyme B	C	0.216	3.057837985170079
+PP_5181	spuD	spermidine/putrescine ABC transporter - periplasmic subunit	E	-0.008	2.5731523478444753
+PP_5193	gcvH-II	glycine cleavage system H protein 2	E	-0.249	2.48217735105487
+PP_5204		conserved protein of unknown function		-0.238	2.811562421874177
+PP_5313	hupA	DNA-binding protein HU-alpha	L	0.26	2.672932929678204
+PP_5353		conserved exported protein of unknown function	I	0.173	2.4937346162219582
+PP_5395		conserved protein of unknown function	Q	0.077	2.923857762321039
